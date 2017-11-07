@@ -1,5 +1,6 @@
 
 
+TODO: tabulate the instructions and separate the intro/outtro and extract only the documentation
 Analize the video tutorial.
 ===========================
 
@@ -33,7 +34,7 @@ _Right-click your_ **Project Name** _in the heirarchy and select_ **New/Data Str
 _Now select_ **Delimeter Segmented Value Sample Data** _and then select the table you created from the list._
 
 
-TODO: tabulate the instructions and separate the intro/outtro
+
 
 ### **5.** Publish your project
 
@@ -41,4 +42,5 @@ _Right-click on your project name in the heirarchy and select_ **Publish.**
 <br />
 
 Now that you are done you can wirte an SQL Query to your table.<br /> On the top of the screen next to Workspace click on **other/Database Perspective**.<br /> In the **SQL Console** you can write an SQL Query to your table.
+
 

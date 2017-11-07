@@ -37,5 +37,5 @@ _Now select_ **Delimeter Segmented Value Sample Data** _and then select the tabl
 _Right-click on your project name in the heirarchy and select_ **Publish.**
 <br />
 
-Now that you are done you can wirte an **SQL Query** to your table.<br /> On the top of the screen next to Workspace click on **other** and select **Database Perspective**.<br /> In the **SQL Console** write the following sample SQL Query: &quot; **SELECT \* FROM &lt;your\_table\_name&gt;&quot;**
+Now that you are done you can wirte an SQL Query to your table.<br /> On the top of the screen next to Workspace click on **other** and select **Database Perspective**.<br /> In the **SQL Console** write the following sample SQL Query: &quot; **SELECT \* FROM &lt;your\_table\_name&gt;&quot;**
 

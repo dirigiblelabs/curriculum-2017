@@ -32,6 +32,9 @@ _Right-click your_ **Project Name** _in the heirarchy and select_ **New/Data Str
 
 _Now select_ **Delimeter Segmented Value Sample Data** _and then select the table you created from the list._
 
+
+TODO: tabulate the instructions and separate the intro/outtro
+
 ### **5.** Publish your project
 
 _Right-click on your project name in the heirarchy and select_ **Publish.**

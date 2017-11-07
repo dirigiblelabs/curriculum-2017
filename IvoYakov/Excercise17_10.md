@@ -1,12 +1,14 @@
 
 
-## 1.Exercise – Analize the video tutorial.**
+Analize the video tutorial.
+===========================
 
 **Link:**   [https://youtu.be/GwzxjBAhy\_4?list=PLNKd01MEkVeKf74MdK5cUzgQKiiTyarkG](https://youtu.be/GwzxjBAhy_4?list=PLNKd01MEkVeKf74MdK5cUzgQKiiTyarkG)
 
 This video tutorial shows viewers how Dirigible is used to create a Data Structure – a Database Table in particular. It is targeted towards new dirigible users that probably are competent in web development, but don&#39;t understand how to use the Dirigible IDEaaS. Most of these users are university students and young people between 20 and 30 years old and they are keen to learn new technologies. Their main goal is to learn Dirigible as fast as possible so that they can implement it in their personal or work/university projects.
 
-## 2.Exercise – Make a guide based on this tutorial.
+Make a guide based on this tutorial.
+===================================
 
 With the Relational databases in the Dirigible IDEaaS your project can store and modify data.
 
@@ -35,5 +37,5 @@ _Now select_ **Delimeter Segmented Value Sample Data** _and then select the tabl
 _Right-click on your project name in the heirarchy and select_ **Publish.**
 <br />
 
-Now that you are done you can wirte an **SQL Query** to your table.<br /> On the top of the screen next to Workspace click on **other** and select **Database Perspective**<br /> In the **SQL Console** write the following sample SQL Query:<br /> &quot; **SELECT \* FROM &lt;your\_table\_name&gt;&quot;**
+Now that you are done you can wirte an **SQL Query** to your table.<br /> On the top of the screen next to Workspace click on **other** and select **Database Perspective**.<br /> In the **SQL Console** write the following sample SQL Query: &quot; **SELECT \* FROM &lt;your\_table\_name&gt;&quot;**
 

@@ -24,7 +24,7 @@ _Right-click on your_ **Project Name** _in the heirarchy and select_ **New/Data 
 
 ### **3.** Add columns to the table
 
-_In the lower left corner of the popup click_ **Add** _and write a name, then specify the data type of the field. When the desired columns are created press_ **Next** _and you will be prompted to write a name for your table._
+_In the lower left corner of the popup click_ **Add** _and write a name, then specify the data type of the field. <br/>Add some columns and press_ **Next** _and you will be prompted to write a name for your table._
 
 ### **4.** Add sample data to the table
 

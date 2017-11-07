@@ -1,6 +1,6 @@
 
+TODO: tabulate the instructions and separate the intro/outtro and extract only the documentation<br/>
 
-TODO: tabulate the instructions and separate the intro/outtro and extract only the documentation
 Analize the video tutorial.
 ===========================
 

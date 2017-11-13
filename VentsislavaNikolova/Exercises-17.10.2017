@@ -1,0 +1,63 @@
+Exercise 1.
+1. Analyze the video tutorial
+The video explains how to work with data structures in Eclipse Dirigible. It shows with example how to create a data base. 
+The target viewers are familiar with data structures and data bases. 
+They are awere whit what they want to do, but don't know how to use Eclipse Dirigible to acomplishe it.
+
+2. Imagine this video is screen capture sent to you by your product owner.
+Create a written version of this tutorial 
+
+2. Create a written version of this tutorial
+  How to work with data structures in Eclipse Dirigible
+1. Open Eclipse Dirigible.
+2. Right-click in the Workspace Exploler and choose New->Project.
+3. A window will open. 
+    3.1 Enter the name of youre project.
+    3.2 Click on the Next button.
+    3.3 Choose Blank Aplication from the options.
+    3.4 Click on Finish button.
+4. Your project will load in Workspace Exploler. Right-click on it and choose New-> Data Structure.
+5. You can create database tables, views and add sample data.
+    5.1 To create a new table, select for template - Relational Database Table 
+         5.1.1 Click on Next.
+         5.1.2 Choose Add button(in lower left corner) to add colums to your table.
+             5.1.2.a A window will show. Choose the properties you want your colums to have. 
+         5.1.3 When you are ready click on Next. 
+         5.1.4 Enter a name for the file. 
+         5.1.5 Click on Finish.
+         5.1.6 Right-click on the project name in Workspace Exploler again and click on Publish.
+    5.2 To write SQL queries choose other (on the top of the screen) next to Workspace. 
+        5.2.1 Choose Databases, then click on OK button. 
+        5.2.2 SQL Console will open. Write your query.
+        5.2.3 To execute the query choose Query button. The result will show in space under your query.
+    5.3 To add sample data in the table select template Delimiter Separated Values Sample data.
+        5.3.1 Click on Next button.
+        5.3.2 Select the table you crated from the list of available tables.
+        5.3.3 Choose name for the file.
+        5.3.4 In created file write the simple data.
+        5.3.5 Select Finish.
+        5.3.6 Right-click on the project name again, select Publish.
+        
+        
+       
+Exercise 2. Google for the term “cloud computing” and find at least 2 good
+definitions. Based on your understanding of them, as well as on your previous
+knowledge, create and put down your own definition.
+
+Definition 1 (source: https://azure.microsoft.com/en-in/overview/what-is-cloud-computing/ )
+Simply put, cloud computing is the delivery of computing services—servers, storage, databases, networking, software, 
+analytics and more—over the Internet (“the cloud”). 
+Companies offering these computing services are called cloud providers and typically charge for cloud computing services based on usage,
+similar to how you are billed for water or electricity at home.
+
+Definition 2 (source: https://www.ibm.com/cloud-computing/learn-more/what-is-cloud-computing/)
+Cloud computing, often referred to as simply “the cloud,” is the delivery of on-demand computing resources—everything from applications 
+to data centers—over the internet on a pay-for-use basis.
+
+My definition
+Cloud computing is online delivery of hosted services. In general term is like virtual computer. 
+It helps saving resources and makes work easier.
+
+
+        
+        

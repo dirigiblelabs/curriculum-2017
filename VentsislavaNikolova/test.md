@@ -2,5 +2,5 @@
 
 ## Header 2
 
-* bullet 1
-* bullet 2
+* **bullet 1**
+* _bullet 2_

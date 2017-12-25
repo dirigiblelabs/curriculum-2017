@@ -27,3 +27,6 @@ Prerequisites: Set up Dirigible and open Dirigible workspace
 	16.	From all available table find your table -> mark it -> click **next** to add it to your project -> click **finish**  
 	17.	Repeat **step 12** and publish your project  
 	18.	Repeat **steps 13 and 14** -> now the entries appear  
+	
+# Exercise 2. Google for the term “cloud computing” and find at least 2 good definitions. Based on your understanding of them, as well as on your previous knowledge, create and put down your own definition. (10 min)
+Cloud computing is a paradigm that shares computer resources( e.g. services—servers, storage, databases, networking, software, analytics and more) over the internet, with minimal management effort, option for scalability, low prizes and high security.

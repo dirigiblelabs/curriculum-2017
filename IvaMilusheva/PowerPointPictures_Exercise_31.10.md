@@ -1,2 +1,2 @@
-### Figures
+###Figures
 ![alt text](curriculum/IvaMilusheva/Images/PowerPoint_Squares.PNG "")

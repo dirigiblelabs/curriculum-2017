@@ -28,13 +28,15 @@ b.	Choose a *Relational Database Table*
 
 c.	Add the columns you want (which are representing variables) with name, type, length, default value, do contain primary key or don’t and is it null or not. 
  
- ![image](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/Images/new-project-2.PNG "columns")
+ ![image](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/Images/addCol.PNG "columns")
  
 d.	Choose *Next* and make a file name which is similar to table name(*Example: STUDENTS(tablename) -> students.table(filename)*)
 
 e.	This current file is in JSON format and represents your database
+
+f.	*Right click* on your project *-> Publish*
  
- ![image](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/Images/new-project-2.PNG "json")
+ ![image](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/Images/publishJson.PNG "publishJSON")
  
 ### 3.	Manipulate with your database
 
@@ -42,19 +44,19 @@ a.	*Right click* on your project *-> New -> Data Structure*
 
 b.	Choose *Delimiter Separated Values Sample Data*
  
- ![image](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/Images/new-project-2.PNG "delimeterseparated")
+ ![image](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/Images/Delimitersep___.PNG "delimeterseparated")
  
 c.	Click *Next* and find your already created database.
   
-  ![image](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/Images/new-project-2.PNG "findDB")
+  ![image](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/Images/chooseYourDB.png "findDB")
   
 d.	*Right click* on your project *-> Publish*
 
 e.	On the top you can see *others…* choose *Database*
  
- ![image](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/Images/new-project-2.PNG "others")
+![image](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/Images/others.png "others")
 
-![image](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/Images/new-project-2.PNG "DB")
+![image](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/Images/Other_DB.PNG "DB")
 
 f.	Now you have a *SQL Console* to manipulate your first database
  
@@ -66,7 +68,7 @@ a.	Try the database with the command **SELECT * FROM STUDENTS**
 
 b.	Now you probably see every column you added to your database at the beginning
  
- ![image](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/Images/new-project-2.PNG "exmapleofsqlcommands")
+ ![image](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/Images/SELEct.PNG "exmapleofsqlcommands")
 
 ## Задача 
 

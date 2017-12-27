@@ -1,7 +1,7 @@
 *Note:*	**Target viewers** – everyone, with different level of competence, their main goals are to make their first data structure in Dirigible
-## Creating Data Structures
+# Creating Data Structures
 
-### 1.	Create new project
+## 1.	Create new project
 
 a.	*Right click* on the *Workspace Explorer -> New -> Project* 
 
@@ -16,7 +16,7 @@ c.	Choose a template (*Blank Application*)
 ![image](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/Images/choose-blankapplication-4.PNG "blankapplication")
 
 
-### 2.	Create Data Structure
+## 2.	Create Data Structure
 
 a.	*Right click* on your project *-> New -> Data Structure* (you can see your project in your workspace) 
  
@@ -38,7 +38,7 @@ f.	*Right click* on your project *-> Publish*
  
  ![image](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/Images/publishJson.PNG "publishJSON")
  
-### 3.	Manipulate with your database
+## 3.	Manipulate with your database
 
 a.	*Right click* on your project *-> New -> Data Structure*
 
@@ -60,7 +60,7 @@ e.	On the top you can see *others…* choose *Database*
 
 f.	Now you have a *SQL Console* to manipulate your first database
  
-### 4.	Test
+## 4.	Test
 
 a.	Try the database with the command **SELECT * FROM STUDENTS**
 
@@ -72,13 +72,13 @@ b.	Now you probably see every column you added to your database at the beginning
 
 ## Задача 
 
-### 1. **cloud computing** 
+## 1. **cloud computing** 
 
 Това е вид информационна технология, която представлява мрежа от компютри, използвани за споделени ресурси, софтуер или информация. Споделянето на тази информация и използването на тази технология става чрез интернет. 
 
-#### First definition
+### First definition
 	Това е термин от областта на информационните технологии, означаващ използването на споделени ресурси, софтуер и информация, като предоставяни на компютри и други устройства по мрежа (чрез Интернет).
 
 
-#### Second definition
+### Second definition
 	"Облачните услуги" се доставят чрез Интернет. Те са технологични услуги произведени от мрежа от компютри (компютри свързани в клъстър), а не от отделни, самостоятелни физически компютърни инстанции. Тези компютри обединяват изчислителните си ресурси в единна система (Компютърен облак). Компютърният облак (на английски език "Compute Cloud" или "Cloud Computing") има два основни компонента - "Сървъри за изчислителни процеси" (Processing Nodes) и "Масив/Мрежа за съхранение на данни" (Storage Area Network).

@@ -1,11 +1,11 @@
 Note:	Target viewers – everyone, with different level of competence, their main goals are to make their first data structure in Dirigible
-### Creating Data Structures
-## 1.	Create new project
+## Creating Data Structures
+### 1.	Create new project
 a.	Right click on the *Workspace Explorer -> New -> Project* 
 b.	Enter name of your project 
 c.	Choose a template (*Blank Application*)  
 
-## 2.	Create Data Structure
+### 2.	Create Data Structure
 a.	Right click on your project *-> New -> Data Structure* (you can see your project in your workspace) 
  
 b.	Choose a *Relational Database Table*
@@ -15,7 +15,7 @@ c.	Add the columns you want (which are representing variables) with name, type, 
 d.	Choose *Next* and make a file name which is similar to table name(*Example: STUDENTS(tablename) -> students.table(filename)*)
 e.	This current file is in JSON format and represents your database
  
-## 3.	Manipulate with your database
+### 3.	Manipulate with your database
 a.	Right click on your project *-> New -> Data Structure*
 b.	Choose *Delimiter Separated Values Sample Data*
  
@@ -26,7 +26,7 @@ e.	On the top you can see *others…* choose *Database*
  
 f.	Now you have a *SQL Console* to manipulate your first database
  
-## 4.	Test
+### 4.	Test
 a.	Try the database with the command SELECT * FROM STUDENTS
   •	*Pay attention that STUDENTS is just an example of the name of your database*
 b.	Now you probably see every column you added to your database at the beginning

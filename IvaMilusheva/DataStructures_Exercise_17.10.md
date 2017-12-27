@@ -34,6 +34,7 @@ e.	This current file is in JSON format and represents your database
  
 ### 3.	Manipulate with your database
 a.	*Right click* on your project *-> New -> Data Structure*
+
 b.	Choose *Delimiter Separated Values Sample Data*
  
  ![image](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/Images/new-project-2.PNG "newproject")
@@ -43,6 +44,7 @@ c.	Click *Next* and find your already created database.
   ![image](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/Images/new-project-2.PNG "newproject")
   
 d.	*Right click* on your project *-> Publish*
+
 e.	On the top you can see *others…* choose *Database*
  
  ![image](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/Images/new-project-2.PNG "newproject")
@@ -53,7 +55,9 @@ f.	Now you have a *SQL Console* to manipulate your first database
  
 ### 4.	Test
 a.	Try the database with the command **SELECT * FROM STUDENTS**
-  •	*Pay attention that STUDENTS is just an example of the name of your database*
+
+   •	*Pay attention that STUDENTS is just an example of the name of your database*
+
 b.	Now you probably see every column you added to your database at the beginning
  
  ![image](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/Images/new-project-2.PNG "newproject")

@@ -1,4 +1,4 @@
-*Note:	**Target viewers** – everyone, with different level of competence, their main goals are to make their first data structure in Dirigible *
+*Note:	**Target viewers** – everyone, with different level of competence, their main goals are to make their first data structure in Dirigible*
 # Creating Data Structures
 
 ## 1.	Create new project

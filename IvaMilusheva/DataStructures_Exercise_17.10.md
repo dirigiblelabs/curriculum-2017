@@ -2,7 +2,7 @@ Note:	Target viewers – everyone, with different level of competence, their mai
 ## Creating Data Structures
 ### 1.	Create new project
 a.	Right click on the *Workspace Explorer -> New -> Project* 
-[image](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/Images/new-project-2.PNG "newproject")
+![image](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/Images/new-project-2.PNG "newproject")
 b.	Enter name of your project 
 c.	Choose a template (*Blank Application*)  
 

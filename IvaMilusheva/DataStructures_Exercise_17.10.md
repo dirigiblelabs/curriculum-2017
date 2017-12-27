@@ -1,7 +1,7 @@
-Note:	Target viewers – everyone, with different level of competence, their main goals are to make their first data structure in Dirigible
+*Note:*	**Target viewers** – everyone, with different level of competence, their main goals are to make their first data structure in Dirigible
 ## Creating Data Structures
 ### 1.	Create new project
-a.	Right click on the *Workspace Explorer -> New -> Project* 
+a.	*Right click* on the *Workspace Explorer -> New -> Project* 
 
 ![image](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/Images/new-project-2.PNG "newproject")
 
@@ -15,7 +15,7 @@ c.	Choose a template (*Blank Application*)
 
 
 ### 2.	Create Data Structure
-a.	Right click on your project *-> New -> Data Structure* (you can see your project in your workspace) 
+a.	*Right click* on your project *-> New -> Data Structure* (you can see your project in your workspace) 
  
  ![image](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/Images/new-project-2.PNG "newproject")
  
@@ -33,7 +33,7 @@ e.	This current file is in JSON format and represents your database
  ![image](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/Images/new-project-2.PNG "newproject")
  
 ### 3.	Manipulate with your database
-a.	Right click on your project *-> New -> Data Structure*
+a.	*Right click* on your project *-> New -> Data Structure*
 b.	Choose *Delimiter Separated Values Sample Data*
  
  ![image](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/Images/new-project-2.PNG "newproject")
@@ -42,7 +42,7 @@ c.	Click *Next* and find your already created database.
   
   ![image](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/Images/new-project-2.PNG "newproject")
   
-d.	Right click on your project *-> Publish*
+d.	*Right click* on your project *-> Publish*
 e.	On the top you can see *others…* choose *Database*
  
  ![image](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/Images/new-project-2.PNG "newproject")
@@ -60,12 +60,12 @@ b.	Now you probably see every column you added to your database at the beginning
 
 ## Задача 
 
-### 1. cloud computing 
+### 1. **cloud computing** 
 
 Това е вид информационна технология, която представлява мрежа от компютри, използвани за споделени ресурси, софтуер или информация. Споделянето на тази информация и използването на тази технология става чрез интернет. 
 
 #### First definition
-	 Това е термин от областта на информационните технологии, означаващ използването на споделени ресурси, софтуер и информация, като предоставяни на компютри и други устройства по мрежа (чрез Интернет).
+	Това е термин от областта на информационните технологии, означаващ използването на споделени ресурси, софтуер и информация, като предоставяни на компютри и други устройства по мрежа (чрез Интернет).
 
 
 #### Second definition

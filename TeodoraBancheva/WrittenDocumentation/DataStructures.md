@@ -36,7 +36,7 @@ The project will appear in the Workspace Explorer.
 * #### **Adding a table that is alredy set**
  
   *  Right-click on the name of your project -> __*New* __-> __*Data Structure*__
-  * Choose from the *Available Templates* -> __*Delimiter Separated Values Sample Data *__ -> __*Next*__
+  * Choose from the *Available Templates* -> __*Delimiter Separated Values Sample Data*__ -> __*Next*__
   * A window will pop up where you can choose __*Available tables*__ -> *Pick one* -> __*Next*__ -> __*Finish*__
   * Right-click on the name of your project -> __*Publish*__
 

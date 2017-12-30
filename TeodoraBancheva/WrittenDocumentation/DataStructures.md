@@ -1,12 +1,12 @@
-#Dirigible - Basics - 1. Data Structures
+# Dirigible - Basics - 1. Data Structures
 
-###**Context**
+### **Context**
 
 The Dirigible environment allows you to make and use your own *data structures* by following the next steps.
 
-###**Prerequisites**
+### **Prerequisites**
 
-* ####**Creating a new project**
+* #### **Creating a new project**
 
  * Right-click on the Workspace Explorer -> __*New*__ -> __*Project*__
  * A window will pop up where you can _**Enter the name**_ of your project and then click  __*Next* __
@@ -14,9 +14,9 @@ The Dirigible environment allows you to make and use your own *data structures* 
 
 The project will appear in the Workspace Explorer.
 
-###**Procedure**
+### **Procedure**
 
-* ####**Creating a new data structure**
+* #### **Creating a new data structure**
 
  * Right-click on the name of your project -> __*New* __-> __*Data Structure*__
   * Choose from the *Available Templates* -> __*Relational Database Table*__ -> __*Next*__
@@ -26,14 +26,14 @@ The project will appear in the Workspace Explorer.
   * In the next window that pops up enter a __*File Name*__ -> __*Finish*__  The table and it's columns' properties will appear in JSON format
    * Right-click on the name of your project -> __*Publish*__
 
-* ####**Manipulating the data structure**
+* #### **Manipulating the data structure**
 
  * Click on the button __*other...*__ which is next to the *Workspace* one -> Choose __*Database*__  *Perspective* ->  __*OK*__ 
  
  An SQL console will apear where you can write *queries* and execute them by clicking __*Query*__. 
  >The result will always be an empty set because there is nothing yet in the database.
 
-* ####**Adding a table that is alredy set**
+* #### **Adding a table that is alredy set**
  
   *  Right-click on the name of your project -> __*New* __-> __*Data Structure*__
   * Choose from the *Available Templates* -> __*Delimiter Separated Values Sample Data *__ -> __*Next*__
@@ -42,6 +42,7 @@ The project will appear in the Workspace Explorer.
 
  Now you can write and execute queries that will have results because the table is not empty.
 
-###**Next Steps**
+### **Next Steps**
 * You can also check how to create Scripting Services on Dirigible. See [_Dirigible - Basics - 2. Scripting Services/Procedure_][1]
-[1]:https://github.com/dirigiblelabs/curriculum/tree/master/TeodoraBancheva/WrittenDocumentation/ScriptingServices.md
+
+[1]: https://github.com/dirigiblelabs/curriculum/tree/master/TeodoraBancheva/WrittenDocumentation/ScriptingServices.md

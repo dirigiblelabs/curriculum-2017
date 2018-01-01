@@ -2,7 +2,9 @@
 
 Eclipse Dirigible™ is a Cloud Development Platform providing development tools and runtime environment. It supports full development life-cycle of on-demand applications by leveraging in-system programming models and rapid application development techniques.
 
-![dirigible logo][dirigible_logo]
+<p align="center">
+  <img src="images/dirigible-logo-symbol.png" width="60%" alt="dirigible logo"/>
+</p>
 
 <br>
 
@@ -33,5 +35,3 @@ We'll cover the following basic scenario:
 [5]: https://github.com/dirigiblelabs/curriculum/tree/master/NikolayMateev/WrittenDocumentation/Dirigible-Basics/UserInterfaces.md
 [6]: https://github.com/dirigiblelabs/curriculum/tree/master/NikolayMateev/WrittenDocumentation/Dirigible-Basics/ManagingEntityTemplates.md
 [7]: https://github.com/dirigiblelabs/curriculum/tree/master/NikolayMateev/WrittenDocumentation/Dirigible-Basics/ApplicationDocumentation.md
-
-[dirigible_logo]: https://github.com/dirigiblelabs/curriculum/tree/master/NikolayMateev/WrittenDocumentation/images/dirigible-logo-symbol.png

@@ -1,7 +1,7 @@
 Data Structures
 ===================================
 
-The term Data Structures reffers to the domain model of the application you create.The following tutorial will provide a simple example of creating a table in a Relational database, with which your project can store and modify data
+The term Data Structures reffers to the domain model of the application you create. The following tutorial will provide a simple example of creating a table in a Relational database, with which your project can store data and modify it.
 
 
 Creating a Database Table
@@ -35,6 +35,6 @@ _Right-click on your project name in the heirarchy and select_ **Publish**.
 
 Querying the Table
 ==============================
-Now that you are done you can wirte an SQL Query to your table.<br /> 
-_On the top of the screen next to Workspace click on_ **other/Database Perspective**.<br /> 
+Now that you are done you can wirte an SQL Query to your table.
+*_On the top of the screen next to Workspace click on_ **other/Database Perspective**.
 *_Now write an SQL Queries to your table in the_ **SQL Console**.

@@ -31,7 +31,7 @@ Creating a Database Table
 
 ### **5.** Publish your project
 
-_Right-click on your project name in the heirarchy and select_ **Publish**.
+* _Right-click on your project name in the heirarchy and select_ **Publish**.
 
 Querying the Table
 ----------------------------------

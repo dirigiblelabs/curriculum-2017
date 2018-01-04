@@ -2,8 +2,7 @@ Data Structures
 ===================================
 
 The term Data Structures reffers to the domain model of the application you create.</br>
-The following tutorial will provide a simple example of creating a table in a Relational database.</br>
-With the Relational databases in the Dirigible IDEaaS your project can store and modify data.</br>
+The following tutorial will provide a simple example of creating a table in a Relational database, with which your project can store and modify data
 
 
 Creating a Database Table

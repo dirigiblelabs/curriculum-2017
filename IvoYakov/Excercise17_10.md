@@ -4,7 +4,7 @@ TODO: tabulate the instructions and separate the intro/outtro and extract only t
 Data Structures
 ===================================
 
-With the Relational databases in the Dirigible IDEaaS your project can store and modify data. 
+With the Relational databases in the Dirigible IDEaaS your project can store and modify data.</br></br>
 To create a database table follow these **5 steps**:
 
 
@@ -18,7 +18,8 @@ To create a database table follow these **5 steps**:
 
 ### **3.** Add columns to the table
 
-* _In the lower left corner of the popup click_ **Add** _and write a name, then specify the data type of the field. <br/>Add some columns and press_ **Next** _and you will be prompted to write a name for your table._
+* _In the lower left corner of the popup click_ **Add** _and write a name, then specify the data type of the field. <br/>Add some columns and press_ **Next**
+* _You will be prompted to write a name for your table._
 
 ### **4.** Add sample data to the table
 
@@ -33,7 +34,7 @@ To create a database table follow these **5 steps**:
 
 _Right-click on your project name in the heirarchy and select_ **Publish.**
 <br />
-
+</br>
 Now that you are done you can wirte an SQL Query to your table.<br /> On the top of the screen next to Workspace click on **other/Database Perspective**.<br /> In the **SQL Console** you can write an SQL Query to your table.
 
 

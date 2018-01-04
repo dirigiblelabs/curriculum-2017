@@ -37,4 +37,4 @@ Querying the Table
 ----------------------------------
 Now that you are done you can wirte an SQL Query to your table.
 * _On the top of the screen next to Workspace click on_ **other/Database Perspective**.
-* _Now write an SQL Queries to your table in the_ **SQL Console**.
+* _Now write an SQL Query to your table in the_ **SQL Console**.

@@ -14,7 +14,8 @@ To create a database table follow these **5 steps**:
 
 ### **2.** Create a new Data Structure
 
-* _Right-click on your_ **Project Name** _in the heirarchy and select_ **New/Data Structure** _and from the list select_ <br />**Relation Database Table.**
+* _Right-click on your_ **Project Name** _in the heirarchy.
+* _Select_ **New/Data Structure** _and from the list choose **Relation Database Table.**
 
 ### **3.** Add columns to the table
 

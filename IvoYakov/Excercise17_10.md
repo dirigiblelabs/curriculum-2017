@@ -1,11 +1,14 @@
-
-TODO: tabulate the instructions and separate the intro/outtro and extract only the documentation<br/>
-
 Data Structures
 ===================================
 
+The term Data Structures reffers to the domain model of the application you create.</br>
+The following tutorial will provide a simple example of creating a table in a Relational database.</br>
 With the Relational databases in the Dirigible IDEaaS your project can store and modify data.</br>
-To create a database table follow these **5 steps**:
+
+
+Creating a Database Table
+===================================
+
 
 ### **1.** Create a new project
 
@@ -30,7 +33,10 @@ To create a database table follow these **5 steps**:
 
 ### **5.** Publish your project
 
-_Right-click on your project name in the heirarchy and select_ **Publish.**
-<br />
+_Right-click on your project name in the heirarchy and select_ **Publish**.
 
-Now that you are done you can wirte an SQL Query to your table.<br /> On the top of the screen next to Workspace click on **other/Database Perspective**.<br /> In the **SQL Console** you can write an SQL Query to your table.
+Querying the Table
+==============================
+Now that you are done you can wirte an SQL Query to your table.<br /> 
+_On the top of the screen next to Workspace click on_ **other/Database Perspective**.<br /> 
+*_Now write an SQL Queries to your table in the_ **SQL Console**.

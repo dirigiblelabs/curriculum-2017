@@ -18,7 +18,7 @@ The project will appear in the Workspace Explorer.
 
 * #### **Creating a new data structure**
 
- * Right-click on the name of your project -> __*New* __-> __*Data Structure*__
+ * Right-click on the name of your project -> __*New*__-> __*Data Structure*__
   * Choose from the *Available Templates* -> __*Relational Database Table*__ -> __*Next*__
   * Click on the button __*Add*__ which is placed at the lower left corner in order to add columns to your data structure
   * Add all the columns you want by filling the fields for the column __*Name, Type, Length, Default Value*__ and also checking the boxes to determine if the column would be a __*Primary Key*__ and if it should contain only __*Not Null*__ values 

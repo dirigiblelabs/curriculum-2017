@@ -9,8 +9,8 @@ The Dirigible environment allows you to make and use your own *data structures* 
 * #### **Creating a new project**
 
  * Right-click on the Workspace Explorer -> __*New*__ -> __*Project*__
- * A window will pop up where you can _**Enter the name**_ of your project and then click  __*Next* __
- * Choose a *Project Template* -> __*Blank Application* __-> __*Finish*__
+ * A window will pop up where you can _**Enter the name**_ of your project and then click  __*Next*__
+ * Choose a *Project Template* -> __*Blank Application*__-> __*Finish*__
 
 The project will appear in the Workspace Explorer.
 
@@ -35,7 +35,7 @@ The project will appear in the Workspace Explorer.
 
 * #### **Adding a table that is alredy set**
  
-  *  Right-click on the name of your project -> __*New* __-> __*Data Structure*__
+  *  Right-click on the name of your project -> __*New*__-> __*Data Structure*__
   * Choose from the *Available Templates* -> __*Delimiter Separated Values Sample Data*__ -> __*Next*__
   * A window will pop up where you can choose __*Available tables*__ -> *Pick one* -> __*Next*__ -> __*Finish*__
   * Right-click on the name of your project -> __*Publish*__

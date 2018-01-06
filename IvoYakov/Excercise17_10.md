@@ -11,33 +11,33 @@ Creating a Database Table
 
 ### **1.** Create a new project
 
-* _Click on_ **Project/New** _(on the top left of the screen) then enter a_ **Project Name**.
+* Click **Project/New** (on the top left of the screen) then enter a **Project Name**.
 
 ### **2.** Create a new Data Structure
 
-* _Right-click on your_ **Project Name** _in the heirarchy_.
-* _Select_ **New/Data Structure** _and from the list choose_ **Relation Database Table**.
+* Right-click on your **Project Name** in the heirarchy.
+* Select **New/Data Structure** and from the list choose **Relation Database Table**.
 
 ### **3.** Add columns to the table
 
-* _In the lower left corner of the popup click_ **Add**.
-* _Write a name for the column, then specify it's data type._ 
-* _When desired columns are added press_ **Next**.
-* _You will be prompted to write a name for your table._
+* In the lower left corner of the popup click **Add**.
+* Write a name for the column, then specify it's data type. 
+* When desired columns are added press **Next**.
+* You will be prompted to write a name for your table.
 
 ### **4.** Add sample data to the table
 
-* _Right-click your_ **Project Name** _in the heirarchy and select_ **New/Data Structure**.
-* _Select_ **Delimeter Segmented Value Sample Data** _and then select the table you created from the list._
+* Right-click your **Project Name** in the heirarchy and select **New/Data Structure**.
+* Select **Delimeter Segmented Value Sample Data** and then select the table you created from the list.
 
 ### **5.** Publish your project
 
-* _Right-click on your project name in the heirarchy and select_ **Publish**.
+* Right-click on your project name in the heirarchy and select **Publish**.
 
 <br/>
 
 Querying the Table
 ----------------------------------
 Once the table is created, you can wirte an SQL Query to it.
-* _On the top of the screen, next to Workspace, click on_ **other/Database Perspective**.
-* _Now write an SQL Query to your table in the_ **SQL Console**.
+* On the top of the screen, next to Workspace, click on **other/Database Perspective**.
+* Now write an SQL Query to your table in the **SQL Console**.

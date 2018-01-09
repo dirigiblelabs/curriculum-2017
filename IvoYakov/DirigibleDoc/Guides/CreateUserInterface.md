@@ -5,9 +5,8 @@ This guide will show you how to manage the user interface of your Dirigible proj
 The goal of the guide is to create a page, that contains a list with data from a database table in our project.
 </br>The data is obtained from an Entity Service and is structured by the given metadata in a *.entity file.
 
-Generate a template User Interface for an Entity Service
----
-###
+
+## Steps
 
 **1.**  In the **Workspace** right-click on the desired entity file.
 

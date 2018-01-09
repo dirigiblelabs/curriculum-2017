@@ -1,4 +1,4 @@
-# 1. Create a Project
+# Create a Project
 1. Locate the **Workspace** window
 > It should be on the left side of the screen.</br>
 > That is where your Project's heirarchy will be visible later on.

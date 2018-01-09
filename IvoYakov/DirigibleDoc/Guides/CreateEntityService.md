@@ -25,7 +25,7 @@ Now that you are done, you should see your Scripting Service in the workspace he
 > **<service_name>.swagger**</br>
 > **<service_name>_lib.js**</br>
 
-_For more information:_
+_For more information see:_</br>
 [Scripting Services](http://www.dirigible.io/help/scripting_services.html)</br>
 [Entity Service](http://www.dirigible.io/help/entity_service.html)
 

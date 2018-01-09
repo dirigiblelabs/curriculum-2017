@@ -9,7 +9,7 @@ The target application archetype for Dirigible consists of database backed [REST
 # How to use?
 
 ### Goal
-With this guide you will gain basic knowledge of some of the main features in the Dirigible Web IDE, such as basic navigation in the project, databases, services and user interfaces.
+With this guide you will gain basic knowledge of some of the main features in the Dirigible Web IDE, such as basic project navigation, databases, services and user interfaces.
 
 ### Prerequisites
 You must have the Dirigible Web IDE open in your Web Browser to follow the tasks in this guide.

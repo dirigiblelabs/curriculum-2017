@@ -6,9 +6,29 @@ You must have a Data Structure Created.</br>
 Follow the steps in the [previous task](https://github.com/dirigiblelabs/curriculum/blob/master/IvoYakov/DirigibleDoc/Guides/CreateDatabaseTable.md) to create a Database Table
 
 ## Steps
-#### 1. todo
-#### 2. todo
-#### 3. todo
+#### 1. Create a Scripting Service
+* Right-click on your project in the **Workspace** heirarchy and select **New > Scripting Service** and click **Next**.
+#### 2. Select a Service Template
+* From the list in the popup select **JavaScript Entity Service on Table** and click **Next**.
+#### 3. Connect the Service to your Table
+* From the list of tables select the name of the table that you created in the previous task and click **Next**
+#### 4. Select a location for your service and name it
+* In the popup find **<project_name>/ScriptingServices** and select it.
+* In the lower part of the popup write your Scripting Service's name. It should be a *.js file.
+#### 5. Click Finish
+
+## Result
+Now that you are done, you should see your Scripting Service in the workspace heirarchy under **<project_name>/ScriptingServices/<project_name>**.</br>
+> There should be 4 files:</br>
+> **<service_name>.entity**</br>
+> **<service_name>.js**</br>
+> **<service_name>.swagger**</br>
+> **<service_name>_lib.js**</br>
+
+_For more information:_
+[Scripting Services](http://www.dirigible.io/help/scripting_services.html)</br>
+[Entity Service](http://www.dirigible.io/help/entity_service.html)
+
 
 ## Navigation
 [Next Task](https://github.com/dirigiblelabs/curriculum/blob/master/IvoYakov/DirigibleDoc/Guides/CreateUserInterface.md)</br>

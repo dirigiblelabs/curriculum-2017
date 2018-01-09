@@ -1,4 +1,4 @@
-# Manage the User Interface
+# Create a template User Interface for an Entity Service
 
 This guide will show you how to manage the user interface of your Dirigible project.
 </br>

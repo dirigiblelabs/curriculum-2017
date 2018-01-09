@@ -1,2 +1,2 @@
 # Excercises
-This directory contains all the homework excercises
+This directory contains all the homework excercises.

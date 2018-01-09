@@ -33,7 +33,7 @@ Go back to the [previous task](https://github.com/dirigiblelabs/curriculum/blob/
 ## Result
 
 Once the table is created, you can wirte an SQL Query to it.
-* On the top of the screen, next to Workspace, click on **other/Database Perspective**.
+* On the top of the screen, next to Workspace, click on **other > Database Perspective**.
 * Now write an SQL Query to your table in the **SQL Console**.
 
 ## Navigation

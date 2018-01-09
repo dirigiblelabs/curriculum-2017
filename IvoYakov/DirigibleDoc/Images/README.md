@@ -1,2 +1,2 @@
 # Images Directoy
-Here are all the applied images to the Dirigible Documentation
+Contains all the applied images to the Dirigible Documentation

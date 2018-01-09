@@ -1,5 +1,5 @@
 # Create a Project
-This guide shows you how to create an empty Dirigible Project
+This guide shows you how to create an empty Dirigible Project.
 ## Steps
 #### 1. Locate the **Workspace** window
 > It should be on the left side of the screen.</br>

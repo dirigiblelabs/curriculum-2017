@@ -37,6 +37,6 @@ Once the table is created, you can wirte an SQL Query to it.
 * Now write an SQL Query to your table in the **SQL Console**.
 
 ## Navigation
-[Next Task](https://github.com/dirigiblelabs/curriculum/blob/master/IvoYakov/DirigibleDoc/Guides/CreateEntityService%2Cmd)</br>
+[Next Task](https://github.com/dirigiblelabs/curriculum/blob/master/IvoYakov/DirigibleDoc/Guides/CreateEntityService.md)</br>
 [Previous Task](https://github.com/dirigiblelabs/curriculum/blob/master/IvoYakov/DirigibleDoc/Guides/CreateProject.md)</br>
 [Back to Main](https://github.com/dirigiblelabs/curriculum/blob/master/IvoYakov/DirigibleDoc/README.md)

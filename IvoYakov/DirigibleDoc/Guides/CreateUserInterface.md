@@ -5,6 +5,9 @@ This guide will show you how to manage the user interface of your Dirigible proj
 The goal of the guide is to create a page, that contains a list with data from a database table in our project.
 </br>The data is obtained from an Entity Service and is structured by the given metadata in a *.entity file.
 
+## Prerequisites
+You must have an Entity Service created.</br>
+Check out the [previous task](https://github.com/dirigiblelabs/curriculum/blob/master/IvoYakov/DirigibleDoc/Guides/CreateEntityService.md) to find out how to create one.
 
 ## Steps
 

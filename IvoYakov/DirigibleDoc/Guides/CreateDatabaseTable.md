@@ -3,8 +3,8 @@
 The term Data Structures reffers to the domain model of the application you create. In Dirigible Data Structures are persistent data storage, such as databases. The following tutorial will provide a simple example of creating a table in a Relational database, with which your project can store data and modify it.
 
 ## Prerequisites
-> You must have a Dirigible Project Created.</br>
-> Go back to the [previous task](https://github.com/dirigiblelabs/curriculum/blob/master/IvoYakov/DirigibleDoc/Guides/CreateProject.md) to find out how.
+You must have a Dirigible Project Created.</br>
+Go back to the [previous task](https://github.com/dirigiblelabs/curriculum/blob/master/IvoYakov/DirigibleDoc/Guides/CreateProject.md) to find out how to create one.
 
 ## Steps
 

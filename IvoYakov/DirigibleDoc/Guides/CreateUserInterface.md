@@ -38,3 +38,7 @@ _For more information on Entity Services check out these links_:
 </br> [Scripting Service](http://www.dirigible.io/help/scripting_services.html)
 </br> [Entity Service](http://www.dirigible.io/help/entity_service.html)
 </br> [Entity Service Creation](http://www.dirigible.io/samples/entity_service.html)
+
+## Navigation
+[Previous Task](https://github.com/dirigiblelabs/curriculum/blob/master/IvoYakov/DirigibleDoc/Guides/CreateEntityService.md)</br>
+[Back to Main](https://github.com/dirigiblelabs/curriculum/blob/master/IvoYakov/DirigibleDoc/)</br>

@@ -5,3 +5,20 @@ The target application archetype for Dirigible consists of database backed [REST
 
 # Basic Features
 ![Basic Features Infographic](https://github.com/dirigiblelabs/curriculum/blob/master/IvoYakov/DirigibleDoc/Images/BasicFeatures-Infographic.jpg)
+
+# How to use?
+
+### Goal
+With this guide you will gain basic knowledge of some of the main features in the Dirigible Web IDE, such as basic navigation in the project, databases, services and user interfaces.
+
+### Prerequisites
+You must have the Dirigible Web IDE open in your Web Browser to follow the tasks in this guide.
+> Click [here](http://dirigible.eclipse.org/) to try it out for free.</br>
+> Click [here](http://www.dirigible.io/getting_started.html) to get started with Dirigible's full version.</br>
+
+
+### Guide Tasks
+1. [Create a Project in Dirigible.](https://github.com/dirigiblelabs/curriculum/tree/master/IvoYakov/DirigibleDoc/Guides/CreateProject.md)
+2. [Create a Database Table.](https://github.com/dirigiblelabs/curriculum/tree/master/IvoYakov/DirigibleDoc/Guides/CreateDatabaseTable.md)
+3. [Create an Entity Service for the Database Table.](https://github.com/dirigiblelabs/curriculum/tree/master/IvoYakov/DirigibleDoc/Guides/CreateEntityService.md)
+4. [Create a User Interface for the Service](https://github.com/dirigiblelabs/curriculum/tree/master/IvoYakov/DirigibleDoc/Guides/CreateUserInterface.md)

@@ -14,3 +14,5 @@ You can code asynchronous algorithms in JavaScript by using callbacks, or any ot
 4. **Dependency Management** <br/>
  Dirigible uses the “non-blocking” approach - the dependencies declarations are only to help you to navigate and pull the right components, without stopping you if a single dependency is not present at the moment.
  
+5. **Supported Languages** <br/>
+ The project’s ultimate driving force - shortest development turn-around time, requires the time between “coding” and “testing” to be zero or near to zero. Complex and time consuming build and deploy processes are just unacceptable. That is why Dirigible supports JavaScript as a main scripting language, but also Java as an arbitrary language.

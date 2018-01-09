@@ -1,6 +1,6 @@
 Creating a Database Table
 -----------------------------------
-The term Data Structures reffers to the domain model of the application you create. The following tutorial will provide a simple example of creating a table in a Relational database, with which your project can store data and modify it.
+The term Data Structures reffers to the domain model of the application you create. In Dirigible Data Structures are persistent data storage, such as databases. The following tutorial will provide a simple example of creating a table in a Relational database, with which your project can store data and modify it.
 
 
 ### **1.** Create a new project
@@ -35,3 +35,8 @@ Querying the Table
 Once the table is created, you can wirte an SQL Query to it.
 * On the top of the screen, next to Workspace, click on **other/Database Perspective**.
 * Now write an SQL Query to your table in the **SQL Console**.
+
+## Navigation
+[Next Task](https://github.com/dirigiblelabs/curriculum/blob/master/IvoYakov/DirigibleDoc/Guides/CreateEntityService%2Cmd)</br>
+[Previous Task](https://github.com/dirigiblelabs/curriculum/blob/master/IvoYakov/DirigibleDoc/Guides/CreateProject.md)</br>
+[Back to Main](https://github.com/dirigiblelabs/curriculum/blob/master/IvoYakov/DirigibleDoc/README.md)

@@ -4,6 +4,12 @@ In general, the Entity Service is a fully capable RESTful service as it is defin
 ## Prerequisites
 You must have a Data Structure Created.</br>
 Follow the steps in the [previous task](https://github.com/dirigiblelabs/curriculum/blob/master/IvoYakov/DirigibleDoc/Guides/CreateDatabaseTable.md) to create a Database Table
+
+## Steps
+#### 1. todo
+#### 2. todo
+#### 3. todo
+
 ## Navigation
 [Next Task](https://github.com/dirigiblelabs/curriculum/blob/master/IvoYakov/DirigibleDoc/Guides/CreateUserInterface.md)</br>
 [Previous Task](https://github.com/dirigiblelabs/curriculum/blob/master/IvoYakov/DirigibleDoc/Guides/CreateDatabaseTable.md)</br>

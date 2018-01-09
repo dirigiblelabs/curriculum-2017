@@ -1,4 +1,4 @@
-# Create a Project
+# 1. Create a Project
 1. Locate the **Workspace** window
 > It should be on the left side of the screen.</br>
 > That is where your Project's heirarchy will be visible later on.
@@ -10,3 +10,7 @@
 ### Result
 Your Workspace should have an entry with your **Project Name**.</br>
 You can right-click it to create new files, rename it or publish it.
+
+### Navigation
+[Next Step](https://github.com/dirigiblelabs/curriculum/edit/master/IvoYakov/DirigibleDoc/Guides/CreateDatabaseTable.md)</br>
+[Back to Main](https://github.com/dirigiblelabs/curriculum/edit/master/IvoYakov/DirigibleDoc)

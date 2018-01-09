@@ -5,7 +5,7 @@
 ### 2. Click on the **New/Project** button.
 > It should be a **"+"** symbol, located in the **Workspace** window's top right corner.
 ### 3. Write a **Project Name**
-### 4. Click **Create Project** 
+#### 4. Click **Create Project** 
 
 ## Result
 Your Workspace should have an entry with your **Project Name**.</br>

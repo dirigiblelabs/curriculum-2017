@@ -19,7 +19,7 @@ Follow the steps in the [previous task](https://github.com/dirigiblelabs/curricu
 
 ## Result
 Now that you are done, you should see your Scripting Service in the workspace heirarchy under **<project_name>/ScriptingServices/<project_name>**.</br>
-> There should be 4 files:</br>
+> There should be 4 files in that location:</br>
 > **<service_name>.entity**</br>
 > **<service_name>.js**</br>
 > **<service_name>.swagger**</br>

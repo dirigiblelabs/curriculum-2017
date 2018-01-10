@@ -3,7 +3,7 @@ In general, the Entity Service is a fully capable RESTful service as it is defin
 
 ## Prerequisites
 You must have a Data Structure Created.</br>
-> Follow the steps in the [Create a Database Table](https://github.com/dirigiblelabs/curriculum/blob/master/IvoYakov/DirigibleDoc/Guides/CreateDatabaseTable.md) task to create a Database Table
+> Follow the steps in the [Create a Database Table](https://github.com/dirigiblelabs/curriculum/blob/master/IvoYakov/DirigibleDoc/Guides/CreateDatabaseTable.md) task to create a Database Table.
 
 ## Steps
 1. Create a Scripting Service.</br>
@@ -11,7 +11,7 @@ _Right-click_ on your project in the **Workspace** heirarchy and select **New > 
 2. Select a Service Template.</br>
 From the list in the popup _select_ **JavaScript Entity Service on Table** and _click_ **Next**.
 3. Connect the Service to your Table.</br>
-From the list of tables _select_ the name of the table that you created in the previous task and _click_ **Next**
+From the list of tables _select_ the name of the table that you created in the previous task and _click_ **Next**.
 4. Select a location for your service and name it.</br>
 a) In the popup _find_ **<project_name>/ScriptingServices** and _select_ it.</br>
 b) In the lower part of the popup _write_ your Scripting Service's name. It should be a *.js file.
@@ -32,7 +32,7 @@ _For more information see:_</br>
 ## Navigation
 Guide: [Understanding Dirigible](https://github.com/dirigiblelabs/curriculum/edit/master/IvoYakov/DirigibleDoc)
 </br>
-1. [Create a Project in Dirigible.](https://github.com/dirigiblelabs/curriculum/tree/master/IvoYakov/DirigibleDoc/Guides/CreateProject.md)
-2. [Create a Database Table.](https://github.com/dirigiblelabs/curriculum/tree/master/IvoYakov/DirigibleDoc/Guides/CreateDatabaseTable.md)
-3. [Create an Entity Service for the Database Table.](https://github.com/dirigiblelabs/curriculum/blob/master/IvoYakov/DirigibleDoc/Guides/CreateEntityService.md)
-4. [Create a User Interface for the Service.](https://github.com/dirigiblelabs/curriculum/tree/master/IvoYakov/DirigibleDoc/Guides/CreateUserInterface.md)
+1. [Create a Project in Dirigible](https://github.com/dirigiblelabs/curriculum/tree/master/IvoYakov/DirigibleDoc/Guides/CreateProject.md)
+2. [Create a Database Table](https://github.com/dirigiblelabs/curriculum/tree/master/IvoYakov/DirigibleDoc/Guides/CreateDatabaseTable.md)
+3. [Create an Entity Service for the Database Table](https://github.com/dirigiblelabs/curriculum/blob/master/IvoYakov/DirigibleDoc/Guides/CreateEntityService.md)
+4. [Create a User Interface for the Service](https://github.com/dirigiblelabs/curriculum/tree/master/IvoYakov/DirigibleDoc/Guides/CreateUserInterface.md)

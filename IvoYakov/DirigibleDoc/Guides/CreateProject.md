@@ -6,7 +6,7 @@ This guide shows you how to create an empty Dirigible Project.
 > That is where your Project's heirarchy will be visible later on.
 2. _Click_ **New > Project**.
 > It should be a **"+"** symbol, located in the **Workspace** window's top right corner.
-3. Write a **Project Name**
+3. _Write_ a **Project Name**
 4. _Click_ **Create Project** 
 
 ## Result

@@ -25,7 +25,6 @@ shows exactly how to do the described steps.  Feel free to use it, if you can't 
 ## Other guides
 ### 1. Basic
 1. [How to manage the user interface of your project](https://github.com/dirigiblelabs/curriculum/tree/master/DragomirAngelov/DirigibleSoftwareDocumentation/Basic/ManageUserInterface.md)
+2. [How to create a wiki page](https://github.com/dirigiblelabs/curriculum/tree/master/DragomirAngelov/DirigibleSoftwareDocumentation/Basic/CreateWikiPage.md)
 ### 2. Advanced
-1. [One](https://github.com/dirigiblelabs/curriculum/tree/master/DragomirAngelov/DirigibleSoftwareDocumentation/Advanced/one.md)
-2. [Two](https://github.com/dirigiblelabs/curriculum/tree/master/DragomirAngelov/DirigibleSoftwareDocumentation/Advanced/two.md)
-3. [Three](https://github.com/dirigiblelabs/curriculum/tree/master/DragomirAngelov/DirigibleSoftwareDocumentation/Advanced/three.md)
+1. [How to create launchpad items](https://github.com/dirigiblelabs/curriculum/tree/master/DragomirAngelov/DirigibleSoftwareDocumentation/Advanced/CreateLaunchpadItems.md)

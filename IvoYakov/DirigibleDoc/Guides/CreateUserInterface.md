@@ -11,23 +11,23 @@ Check out the [previous task](https://github.com/dirigiblelabs/curriculum/blob/m
 
 ## Steps
 
-**1.**  In the **Workspace** right-click on the desired entity file.
+**1.**  In the **Workspace** _right-click_ on the desired entity file.
 
-**2.** From the dropdown menu select **Generate/User Interface for Entity Service**.
+**2.** From the dropdown menu _select_ **Generate/User Interface for Entity Service**.
 
-**3.**  From the popup select a template. 
+**3.**  From the popup _select_ a template. 
 
-> For the following example select **List Entities** and then click **Next**.
+> For the following example _select_ **List Entities** and then _click_ **Next**.
 
-**4.**  Select the data fields that you want your list to contain and click **Next**.
+**4.**  _Select_ the data fields that you want your list to contain and _click_ **Next**.
 
 > The fields shown are described in the .entity metadata.
 
-**5.**  Select the name and location of the target *.html file and click **Next**.
+**5.**  _Select_ the name and location of the target *.html file and _click_ **Next**.
 
 > The file should be placed in the **Web Content** of your project.
 
-**6.**  Give the Page a Title and click **Finish**.
+**6.**  Give the Page a Title and _click_ **Finish**.
 
 Results
 ----

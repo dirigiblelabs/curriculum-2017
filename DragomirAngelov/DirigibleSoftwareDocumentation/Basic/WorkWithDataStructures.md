@@ -22,7 +22,7 @@ Once you are ready and want to publish your changes, *right-click* on the **Proj
 >**NOTE:** This [video](https://youtu.be/GwzxjBAhy_4?list=PLNKd01MEkVeKf74MdK5cUzgQKiiTyarkG)
 shows exactly how to do the described steps.  Feel free to use it, if you can't understand this guide.
 
-## Next guides
+## Other guides
 ### 1. Basic
 1. [How to manage the user interface of your project](https://github.com/dirigiblelabs/curriculum/tree/master/DragomirAngelov/DirigibleSoftwareDocumentation/Basic/ManageUserInterface.md)
 ### 2. Advanced

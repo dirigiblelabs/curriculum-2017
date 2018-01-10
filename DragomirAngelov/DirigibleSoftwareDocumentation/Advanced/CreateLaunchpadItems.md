@@ -37,3 +37,4 @@ shows exactly how to do the described steps.  Feel free to use it, if you can't 
 * [How to work with data structures](https://github.com/dirigiblelabs/curriculum/tree/master/DragomirAngelov/DirigibleSoftwareDocumentation/Basic/WorkWithDataStructures.md)
 * [How to manage the user interface of your project](https://github.com/dirigiblelabs/curriculum/tree/master/DragomirAngelov/DirigibleSoftwareDocumentation/Basic/ManageUserInterface.md)
 * [How to create a wiki page](https://github.com/dirigiblelabs/curriculum/tree/master/DragomirAngelov/DirigibleSoftwareDocumentation/Basic/CreateWikiPage.md)
+### 2. Advanced

@@ -36,7 +36,7 @@ Results
  When all of the steps are completed, in the *Web Content* of your project, you should have a *.html file,
  which contains a list with the Entity Service's data. It can be hyperlinked via a main menu, for example.
 
-_For more information on Entity Services check out these links_: 
+_For more information see:_ 
 </br> [Scripting Service](http://www.dirigible.io/help/scripting_services.html)
 </br> [Entity Service](http://www.dirigible.io/help/entity_service.html)
 </br> [Entity Service Creation](http://www.dirigible.io/samples/entity_service.html)

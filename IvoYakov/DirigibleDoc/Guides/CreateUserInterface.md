@@ -7,7 +7,7 @@ The goal of the guide is to create a page, that contains a list with data from a
 
 ## Prerequisites
 You must have an Entity Service created.</br>
-Check out the [previous task](https://github.com/dirigiblelabs/curriculum/blob/master/IvoYakov/DirigibleDoc/Guides/CreateEntityService.md) to find out how to create one.
+Check out the [Create an Entity Service for the Database Table](https://github.com/dirigiblelabs/curriculum/blob/master/IvoYakov/DirigibleDoc/Guides/CreateEntityService.md) task to find out how to create one.
 
 ## Steps
 

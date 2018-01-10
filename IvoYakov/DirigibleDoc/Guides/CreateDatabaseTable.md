@@ -8,9 +8,9 @@ Go back to the [previous task](https://github.com/dirigiblelabs/curriculum/blob/
 
 ## Steps
 
-1. Create a new Data Structure
-a. Right-click on your **Project Name** in the heirarchy.
-b. Select **New > Data Structure** and from the list choose **Relation Database Table**.
+1. Create a new Data Structure</br>
+a) Right-click on your **Project Name** in the heirarchy.</br>
+b) Select **New > Data Structure** and from the list choose **Relation Database Table**.
 
 
 2. Add columns to the table

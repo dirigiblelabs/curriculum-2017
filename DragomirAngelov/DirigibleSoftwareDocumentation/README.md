@@ -16,6 +16,6 @@ To get started you must be log into the Dirigible Web IDE and open a new Workben
 ### 1. Basic Usage
 1. [How to work with data structures](https://github.com/dirigiblelabs/curriculum/tree/master/DragomirAngelov/DirigibleSoftwareDocumentation/Basic/WorkWithDataStructures.md)
 2. [How to manage the user interface of your project](https://github.com/dirigiblelabs/curriculum/tree/master/DragomirAngelov/DirigibleSoftwareDocumentation/Basic/ManageUserInterface.md)
-2. [How to create a wiki page](https://github.com/dirigiblelabs/curriculum/tree/master/DragomirAngelov/DirigibleSoftwareDocumentation/Basic/CreateWikiPage.md)
+3. [How to create a wiki page](https://github.com/dirigiblelabs/curriculum/tree/master/DragomirAngelov/DirigibleSoftwareDocumentation/Basic/CreateWikiPage.md)
 ### 2. Advanced Usage
 1. [How to create launchpad items](https://github.com/dirigiblelabs/curriculum/tree/master/DragomirAngelov/DirigibleSoftwareDocumentation/Advanced/CreateLaunchpadItems.md)

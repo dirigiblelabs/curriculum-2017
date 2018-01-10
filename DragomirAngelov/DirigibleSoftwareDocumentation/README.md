@@ -5,7 +5,7 @@
 
 ## Eclipse Dirigible Features
 These are some of the features you benefit from<br>
-![Eclipse Dirigible Features Infographic](https://github.com/dirigiblelabs/curriculum/blob/master/DragomirAngelov/images/infographic.png)
+![Eclipse Dirigible Features Infographic](https://github.com/dirigiblelabs/curriculum/blob/master/DragomirAngelov/DirigibleSoftwareDocumentation/Images/infographic.png)
 
 ## Using Eclipse Dirigible
 Folow the steps to learn **Basic and Advanced Usage** of Dirigible Web IDE.

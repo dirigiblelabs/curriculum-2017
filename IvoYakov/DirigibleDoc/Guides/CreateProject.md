@@ -11,7 +11,7 @@ This guide shows you how to create an empty Dirigible Project.
 
 ## Result
 Your **Workspace** should have an entry with your **Project Name**.</br>
-You can right-click it to create new files, rename it or publish it.
+> You can right-click it to create new files, rename it or publish it.
 
 ## Navigation
 Guide: [Understanding Dirigible](https://github.com/dirigiblelabs/curriculum/edit/master/IvoYakov/DirigibleDoc)

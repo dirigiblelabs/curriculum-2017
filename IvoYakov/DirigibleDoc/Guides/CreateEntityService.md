@@ -7,15 +7,15 @@ Follow the steps in the [previous task](https://github.com/dirigiblelabs/curricu
 
 ## Steps
 1. Create a Scripting Service.</br>
-Right-click on your project in the **Workspace** heirarchy and select **New > Scripting Service** and click **Next**.
+_Right-click_ on your project in the **Workspace** heirarchy and select **New > Scripting Service** and _click_ **Next**.
 2. Select a Service Template.</br>
-From the list in the popup select **JavaScript Entity Service on Table** and click **Next**.
+From the list in the popup _select_ **JavaScript Entity Service on Table** and _click_ **Next**.
 3. Connect the Service to your Table.</br>
-From the list of tables select the name of the table that you created in the previous task and click **Next**
+From the list of tables _select_ the name of the table that you created in the previous task and _click_ **Next**
 4. Select a location for your service and name it.</br>
-a) In the popup find **<project_name>/ScriptingServices** and select it.</br>
-b) In the lower part of the popup write your Scripting Service's name. It should be a *.js file.
-5. Click Finish.
+a) In the popup _find_ **<project_name>/ScriptingServices** and _select_ it.</br>
+b) In the lower part of the popup _write_ your Scripting Service's name. It should be a *.js file.
+5. _Click_ **Finish**.
 
 ## Result
 Now that you are done, you should see your Scripting Service in the workspace heirarchy under **<project_name>/ScriptingServices/<project_name>**.</br>

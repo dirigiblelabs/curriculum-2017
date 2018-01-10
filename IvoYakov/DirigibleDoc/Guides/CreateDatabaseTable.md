@@ -8,26 +8,24 @@ Go back to the [previous task](https://github.com/dirigiblelabs/curriculum/blob/
 
 ## Steps
 
-#### 1. Create a new Data Structure
+1. Create a new Data Structure
 
-* Right-click on your **Project Name** in the heirarchy.
-* Select **New > Data Structure** and from the list choose **Relation Database Table**.
+a) Right-click on your **Project Name** in the heirarchy.
+b) Select **New > Data Structure** and from the list choose **Relation Database Table**.
 
-#### 2. Add columns to the table
+2. Add columns to the table
 
-* In the lower left corner of the popup click **Add**.
-* Write a name for the column, then specify it's data type. 
-* When desired columns are added press **Next**.
-* You will be prompted to write a name for your table.
+a) In the lower left corner of the popup click **Add**.
+b) Write a name for the column, then specify it's data type. 
+c) When desired columns are added press **Next**.
+d) You will be prompted to write a name for your table.
 
-#### 3. Add sample data to the table
+3. Add sample data to the table
 
-* Right-click your **Project Name** in the heirarchy and select **New/Data Structure**.
-* Select **Delimeter Segmented Value Sample Data** and then select the table you created from the list.
+a) Right-click your **Project Name** in the heirarchy and select **New/Data Structure**.
+b) Select **Delimeter Segmented Value Sample Data** and then select the table you created from the list.
 
-#### 4. Publish your project
-
-* Right-click on your project name in the heirarchy and select **Publish**.
+4. Publish your project. Right-click on your project name in the heirarchy and select **Publish**.
 
 
 ## Result

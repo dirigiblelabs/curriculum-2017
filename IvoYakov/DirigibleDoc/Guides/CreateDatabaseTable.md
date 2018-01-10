@@ -19,11 +19,11 @@ b) Write a name for the column, then specify it's data type. </br>
 c) When desired columns are added press **Next**.</br>
 d) You will be prompted to write a name for your table.</br>
 
-3. Add sample data to the table.
+3. Add sample data to the table.</br>
 a) Right-click your **Project Name** in the heirarchy and select **New/Data Structure**.</br>
 b) Select **Delimeter Segmented Value Sample Data** and then select the table you created from the list.</br>
 
-4. Publish your project. Right-click on your project name in the heirarchy and select **Publish**.
+4. Right-click on your project name in the heirarchy and select **Publish**.
 
 
 ## Result

@@ -6,15 +6,15 @@ The target application archetype for Dirigible consists of database backed [REST
 # Basic Features
 ![Basic Features Infographic](https://github.com/dirigiblelabs/curriculum/blob/master/IvoYakov/DirigibleDoc/Images/BasicFeatures2_Infographic.png)
 
-# Basics Guide
+# Basics
 
 ### Goal
 With this guide you will gain basic knowledge of some of the main features in the Dirigible Web IDE, such as basic project navigation, databases, services and user interfaces.
 
 ### Prerequisites
 You must have the Dirigible Web IDE open in your Web Browser to follow the tasks in this guide.
-> Click [here](http://dirigible.eclipse.org/) to try it out for free.</br>
-> Click [here](http://www.dirigible.io/getting_started.html) to get started with Dirigible's full version.</br>
+> Check out http://dirigible.eclipse.org/ to try it out for free.</br>
+> Check out http://www.dirigible.io/getting_started.html to get started with Dirigible's full version.</br>
 
 
 ### Guide Tasks

@@ -4,7 +4,6 @@ Eclipse Dirigible™ is a Cloud Development Platform providing development tools
 
 ## Advanced uses of Eclipse Dirigible
 
-The three files above containing documentation about:
-1. Dirigible - Mobile Applications
-2. Eclipse Dirigible - GitHub Interaction
-3. Eclipse Dirigible - Launchpad Templates
+1. Mobile Applications
+2. GitHub Interaction
+3. Launchpad Templates

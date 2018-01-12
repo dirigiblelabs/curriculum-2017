@@ -7,11 +7,11 @@ Eclipse Dirigible™ is a Cloud Development Platform providing development tools
 ## Advanced uses of Eclipse Dirigible
 
 This documentation contains the following sections:
-* Mobile Applications - create native mobile applications with Eclipse Dirigible and Tabris.js
-* GitHub Interaction - share your Eclipse Dirigible project with a GitHub repository; pull and push changes
+* [Mobile Applications](#mobile) - create native mobile applications with Eclipse Dirigible and Tabris.js
+* [GitHub Interaction](#github) - share your Eclipse Dirigible project with a GitHub repository; pull and push changes
 * Launchpad Templates - create launchpad items for your Eclipse Dirigible project
 
-### Dirigible - Mobile Applications
+### <a name=mobile></a> Dirigible - Mobile Applications
 
 #### Preparation
 Before starting the procedure you should:
@@ -48,7 +48,7 @@ Before starting the procedure you should:
 * Write the name of the package you choosed after "/mobile/" and before "/package.json" in **Local Tabris.js script by URL**. The mobile application should work as you expected
 
 
-### Eclipse Dirigible - GitHub Interaction
+### <a name=github></a> Eclipse Dirigible - GitHub Interaction
 
 #### Preparation
 Before starting the procedure you should:
@@ -56,7 +56,7 @@ Before starting the procedure you should:
 2. Launch Dirigible Web IDE
 
 #### Procedure
-1. Create new GitHyb repository and copy the URL
+1. Create new GitHub repository and copy the URL
 * Go to your GitHub account
 * Click **+** > **New repository**, enter name for your repository in *Repository name* and click **Create repository**
 * Copy the URL, from the *Quick setup box*

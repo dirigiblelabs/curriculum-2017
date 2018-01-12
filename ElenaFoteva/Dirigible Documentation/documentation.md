@@ -9,7 +9,7 @@ Eclipse Dirigible™ is a Cloud Development Platform providing development tools
 This documentation contains the following sections:
 * [Mobile Applications](#mobile) - create native mobile applications with Eclipse Dirigible and Tabris.js
 * [GitHub Interaction](#github) - share your Eclipse Dirigible project with a GitHub repository; pull and push changes
-* Launchpad Templates - create launchpad items for your Eclipse Dirigible project
+* [Launchpad Templates](#templates) - create launchpad items for your Eclipse Dirigible project
 
 ### <a name=mobile></a> Dirigible - Mobile Applications
 
@@ -78,7 +78,7 @@ Before starting the procedure you should:
 * Right-click on the project name, **Team** > **Push**. Enter *Commit message*, *Username*, *Password* and *Email*. Click **Ok**
 
 
-### Eclipse Dirigible - Launchpad Templates
+### <a name=templates></a> Eclipse Dirigible - Launchpad Templates
 
 #### Preparation
 1. Launch Dirigible Web IDE

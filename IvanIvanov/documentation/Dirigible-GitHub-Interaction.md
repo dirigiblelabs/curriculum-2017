@@ -37,4 +37,3 @@ When you make some changes on your project in Dirigible Web IDE:
 Your changes are made in the project in GitHub.
 
 ![Alt text](./graphic.svg)
-<img src="./graphic.svg">

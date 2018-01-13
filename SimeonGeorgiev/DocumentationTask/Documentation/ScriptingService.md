@@ -5,8 +5,6 @@ Instructions how to create a Scripting Service.
 * Existing project in the Dirigible Web IDE.
 * Existing Data Structure.
 
-## Context
-
 ## Procedure
 
 1. Open **Dirigible Web IDE**.

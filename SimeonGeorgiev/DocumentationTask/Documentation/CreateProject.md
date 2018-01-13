@@ -14,9 +14,9 @@ If we want to create new Data Structure, Scripting Service or some other feature
 
 ## Related Information
 
-* [Create a Data Structure][1]
-* [Create a Scripting Service][2]
-* [Create a Launchpad][3]
+* [Create New Data Structure][1]
+* [Create New Scripting Service][2]
+* [Create New Launchpad][3]
 
 [1]: https://github.com/dirigiblelabs/curriculum/tree/master/SimeonGeorgiev/DocumentationTask/Documentation/DataStructure.md
 [2]: https://github.com/dirigiblelabs/curriculum/tree/master/SimeonGeorgiev/DocumentationTask/Documentation/ScriptingService.md

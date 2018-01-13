@@ -36,4 +36,4 @@ When you make some changes on your project in Dirigible Web IDE:
 * Click *Ok*. 
 Your changes are made in the project in GitHub.
 
-![alt text](https://github.com/dirigiblelabs/curriculum/tree/master/IvanIvanov/documentation/graphic.png "GitHub main commands")
+![alt text](https://github.com/dirigiblelabs/curriculum/tree/master/IvanIvanov/documentation/graphic.csv "GitHub main commands")

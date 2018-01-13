@@ -5,7 +5,7 @@ Instructions how to create a Data Structure.
 * Existing project in the Dirigible Web IDE.
 
 ## Context
-Data structure is a particular way of organizing and storing our data.
+Data structure is a particular way of organizing and storing our data so that it can be accessed and modified efficiently. More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.[4]
 
 ## Procedure
 1. Open **Dirigible Web IDE**.
@@ -19,9 +19,9 @@ Data structure is a particular way of organizing and storing our data.
 
 ## Related Information
 
-* [Create new Project][1]
-* [Create a Scripting Service][2]
-* [Create a Launchpad][3]
+* [Create New Project][1]
+* [Create New Scripting Service][2]
+* [Create New Launchpad][3]
 
 [1]: https://github.com/dirigiblelabs/curriculum/tree/master/SimeonGeorgiev/DocumentationTask/Documentation/CreateProject.md
 [2]: https://github.com/dirigiblelabs/curriculum/tree/master/SimeonGeorgiev/DocumentationTask/Documentation/ScriptingService.md

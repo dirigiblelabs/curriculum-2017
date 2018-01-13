@@ -16,9 +16,6 @@ We will create **user interface for entity service** from the template:
 
 We will create relations between entities.
 
-![Alt text](./graphic_map.svg)
-<img src="./graphic_map.svg">
-
 ### Prerequisites
 Log in Dirigible Web IDE.
 
@@ -98,3 +95,8 @@ When you're ready, click **Next**, enter *File Name* > **Finish**.
 	4. Change `CONST HTML_LINK = "` *the name of your map file* `.html "`.
 	5. Click :floppy_disk: to save the changes. 
 14. To see your changes, open *index.html* again.
+
+# Example for structure and names of files.
+![Alt text](./graphic_map.svg)
+<img src="./graphic_map.svg">
+

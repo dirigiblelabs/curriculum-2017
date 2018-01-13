@@ -12,7 +12,7 @@ Complete the following steps to configure Tomcat 8 on your computer.
 4. Copy the ROOT.war file from 2. and paste it in the webapps folder.
 5. Wait for the ROOT folder to appear.
 6. Return to the installation folder. Go to the conf folder and open the tomcat-users.xml file for editing.
-7. Replace the file contents with the fragment from Step 2. in the [Tomcat Setup][7] page.
+7. Replace the file contents with the fragment from Step 2. in the [Tomcat Setup][3] page.
 8. Reboot Apache Tomcat to apply the changes.
 
 ## Running Eclipse Dirigible WEB IDE
@@ -21,8 +21,11 @@ Now that your Tomcat is configured, complete the following steps to start develo
 
 1. Go to http://localhost:8080 in your preferred browser.
 2. Enter your Dirigible username and password.
-3. Go to Develop -> Web IDE. Your Tomcat configuration is completed.
+3. Go to Develop -> Web IDE.
+
+You have successfully started the Dirigble IDE. You can now start developing. Refer to the official [documentation][4] for help.
 
 [1]: https://tomcat.apache.org/download-80.cgi/
 [2]: http://download.eclipse.org/dirigible/
-[7]: http://www.dirigible.io/help/setup_tomcat.html
+[3]: http://www.dirigible.io/help/setup_tomcat.html
+[4]: http://www.dirigible.io/help/

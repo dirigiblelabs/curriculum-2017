@@ -1,4 +1,4 @@
-# Create new Project
+# Create New Project
 Instructions how to create a new Project.
 
 ## Context
@@ -14,9 +14,9 @@ The first thing after you open Eclipse Dirigible is to create new project.
 
 ## Related Information
 
-1. [Create a Data Structure][1]
-2. [Create a Scripting Service][2]
-3. [Create a Launchpad][3]
+* [Create a Data Structure][1]
+* [Create a Scripting Service][2]
+* [Create a Launchpad][3]
 
 [1]: https://github.com/dirigiblelabs/curriculum/tree/master/SimeonGeorgiev/DocumentationTask/Documentation/DataStructure.md
 [2]: https://github.com/dirigiblelabs/curriculum/tree/master/SimeonGeorgiev/DocumentationTask/Documentation/ScriptingService.md

@@ -45,13 +45,13 @@ Follow the steps:
 | LAT | DOUBLE | 0 | true | false |
 | LNG | DOUBLE | 0 | true | false |
 
-When you're ready, click **Next**, enter *File Name* > **Finish**.
-4. Right-click on the project name > **Publish**.
-5. Right-click on the project name, **New** > **Data Structure**.
+4. When you're ready, click **Next**, enter *File Name* > **Finish**.
+5. Right-click on the project name > **Publish**.
+6. Right-click on the project name, **New** > **Data Structure**.
  	1. Select **Delimiter Separated Values Sample Data** and click **Next**. 
  	2. Select your project from **Available Tables**.
  	3.  Click **Next** > **Finish**.
-6. Enter the information, according the columns, you created on step 2. You must use **|** separator between the columns, for example:
+7. Enter the information, according the columns, you created on step 2. You must use **|** separator between the columns, for example:
 ```
 1|Sevilla Hotel|37.3891|-5.9844
 2|King Louis Hotel|48.7980|2.3089
@@ -59,13 +59,13 @@ When you're ready, click **Next**, enter *File Name* > **Finish**.
 4|Bulgarian rose Hotel|42.6427|24.8063 
 ```
 
-7. Right-click on the project name > **Publish**.
-8. Right-click on the project name, **New** > **Scripting Service**. 
+8. Right-click on the project name > **Publish**.
+9. Right-click on the project name, **New** > **Scripting Service**. 
 	1. Select **CRUD Service on Table (JavaScript)** > **Next**. 
 	2. Select your project from **Available Tables**. 
 	3. Click **Next** and enter *File Name*.
 	4. Click **Finish**.
-9. Unfold the project > **ScriptingServices** > project > **entity**.
+10. Unfold the project > **ScriptingServices** > project > **entity**.
 	1. Right-click on the created entity > **Generate** > **User Interface for Entity Service**. 
 	2. Select **List and Manage Entity**. 
 	3. Click **Next** and **Select All**. 
@@ -73,8 +73,8 @@ When you're ready, click **Next**, enter *File Name* > **Finish**.
 	5. Click **Next** and enter *Page Title*.
 	6. Click **Next** and enter *File Name*.
     7. Click **Finish**.
-10. You can see your html by double click on the tab **Preview**.
-11. Unfold the project > **ScriptingServices** > project > **entity**. 
+11. You can see your html by double click on the tab **Preview**.
+12. Unfold the project > **ScriptingServices** > project > **entity**. 
 	1. Right-click on the created entity > **Generate** > **User Interface for Entity Service**. 
 	2. Select **Markers for Entities**. 
 	3. Click **Next** and **Select All**.
@@ -87,16 +87,15 @@ When you're ready, click **Next**, enter *File Name* > **Finish**.
 ```
 <script scr="https://www.maps.googleapis.com/maps/api/js?key=YOUR_APP_KEY&v=3.exp"></script>
 ```
-12. Click :floppy_disk: to save the changes.  See again your changes by double click on the tab **Preview**. The map with markers will show.
-13. If you want to connect the map to some item in **index.html**:
+13. Click :floppy_disk: to save the changes.  See again your changes by double click on the tab **Preview**. The map with markers will show.
+14. If you want to connect the map to some item in **index.html**:
 	1. Navigate to project > **ScriptingServices** > project > **extension** > **Management.js**.
-	2. Change `CONST HTML_LINK = "` *the name of your manage entity file, created on step 9* `.html "`.
+	2. Change `CONST HTML_LINK = "` *the name of your manage entity file, created on step 10* `.html "`.
 	3. Navigate to project > **ScriptingServices** > project > **extension** > **Map.js**
 	4. Change `CONST HTML_LINK = "` *the name of your map file* `.html "`.
 	5. Click :floppy_disk: to save the changes. 
-14. To see your changes, open *index.html* again.
+15. To see your changes, open *index.html* again.
 
 # Example for structure and names of files.
 ![Alt text](./graphic_map.svg)
-<img src="./graphic_map.svg">
 

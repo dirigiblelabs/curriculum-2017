@@ -15,7 +15,7 @@ Data structure is a particular way of organizing and storing our data.
 5. Add all necessary table properties.
 6. Define an ID attribute as a **Primary key**
 7. Add latitude and longitude properties for the location of the markers.
-8. Select a name for your table and select **Finish**.
+8. Select a name for our table and select **Finish**.
 
 ## Related Information
 

@@ -3,7 +3,7 @@ Instructions how to create a new Project.
 
 ## Context
 
-The first thing after we open Eclipse Dirigible is to create new project.
+If we want to create new Data Structure, Scripting Service or some other feature of Eclipse Dirigible, we must create new project. It's simple, just follow these steps.
 
 ## Procedure
 

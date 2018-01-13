@@ -22,6 +22,6 @@ Instructions how to create a Scripting Service.
 2. [Create new Project][2]
 3. [Create a Launchpad][3]
 
-[1]: https://github.com/dirigiblelabs/curriculum/tree/master/SimeonGeorgiev/DocumentationTask/Documentation/DataStructures.md
+[1]: https://github.com/dirigiblelabs/curriculum/tree/master/SimeonGeorgiev/DocumentationTask/Documentation/DataStructure.md
 [2]: https://github.com/dirigiblelabs/curriculum/tree/master/SimeonGeorgiev/DocumentationTask/Documentation/CreateProject.md
 [3]: https://github.com/dirigiblelabs/curriculum/tree/master/SimeonGeorgiev/DocumentationTask/Documentation/CreateLaunchpad.md

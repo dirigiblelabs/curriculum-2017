@@ -2,6 +2,8 @@
 
 In this tutorial you will learn how to deploy Eclipse Dirigible on the SAP Cloud Platform.
 
+![Plain graphic](https://github.com/dirigiblelabs/curriculum/blob/master/PavelHadzhiev/dirigible.png)
+
 ### Prerequisites
 
 - You must have an account in the SAP Cloud Platform. To create a free account go to https://account.hanatrial.ondemand.com/ and click Register.

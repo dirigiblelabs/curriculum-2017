@@ -1,4 +1,4 @@
-# Create a new Scripting Service
+# Create New Scripting Service
 Instructions how to create a Scripting Service.
 
 ## Prerequisites
@@ -18,9 +18,9 @@ Instructions how to create a Scripting Service.
 
 ## Related Information
 
-1. [Create a Data Structure][1]
-2. [Create new Project][2]
-3. [Create a Launchpad][3]
+* [Create a Data Structure][1]
+* [Create new Project][2]
+* [Create a Launchpad][3]
 
 [1]: https://github.com/dirigiblelabs/curriculum/tree/master/SimeonGeorgiev/DocumentationTask/Documentation/DataStructure.md
 [2]: https://github.com/dirigiblelabs/curriculum/tree/master/SimeonGeorgiev/DocumentationTask/Documentation/CreateProject.md

@@ -14,9 +14,9 @@ Instructions how to create a Launchpad.
 
 ## Related Information
 
-* [Create a Project][1]
-* [Create a Data Structure][2]
-* [Create a Scripting Service][3]
+* [Create New Project][1]
+* [Create New Data Structure][2]
+* [Create New Scripting Service][3]
 
 [1]: https://github.com/dirigiblelabs/curriculum/tree/master/SimeonGeorgiev/DocumentationTask/Documentation/CreateProject.md
 [2]: https://github.com/dirigiblelabs/curriculum/tree/master/SimeonGeorgiev/DocumentationTask/Documentation/DataStructure.md

@@ -43,7 +43,7 @@ You have now successfully generated a Wiki page template for your project. You c
 
 
 - [Creating a New Project](NewProject.md)
-- [Creating a Data ](DataStructure.md)
+- [Creating a Data Structure ](DataStructure.md)
 - [Creating a Scripting Service](ScriptingService.md)
 - [Creating User Interfaces](UserInterfaces.md)
 - [Creating Wiki Pages](WikiPages.md)

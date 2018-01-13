@@ -1,4 +1,4 @@
-# Creating a Data Structure Structure
+# Creating a Data Structure
 
 ## Context
 In many cases, your application will need to manage data about its users. Using data structures you can easily manage how this data will be serialized and de-serialized. If you are building an application using the [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) pattern, data structures correspond to the "Model" part of it.

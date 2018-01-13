@@ -19,7 +19,7 @@ Complete the following steps to configure Tomcat 8 on your computer.
 
 Now that your Tomcat is configured, complete the following steps to start developing with Dirigible;
 
-1. Open your preferable browser and go to http://localhost:8080.
+1. Go to http://localhost:8080 in your preferred browser.
 2. Enter your Dirigible username and password.
 3. Go to Develop -> Web IDE. Your Tomcat configuration is completed.
 

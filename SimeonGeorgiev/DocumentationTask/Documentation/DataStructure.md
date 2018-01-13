@@ -1,4 +1,4 @@
-# Create a new Data Structure
+# Create New Data Structure
 Instructions how to create a Data Structure.
 
 ## Prerequisite
@@ -8,10 +8,10 @@ Instructions how to create a Data Structure.
 Data structure is a particular way of organizing and storing our data.
 
 ## Procedure
-1. Open **Dirigible Web IDE**
+1. Open **Dirigible Web IDE**.
 2. Navigate to the **Workspace Explorer**.
 3. Select by a *right-click* on the project name and select **New > Data Structure**.
-4. Select the **Relational Database Table Template** and select **Next**
+4. Select the **Relational Database Table Template** and select **Next**.
 5. Add all necessary table properties.
 6. Define an ID attribute as a **Primary key**
 7. Add latitude and longitude properties for the location of the markers.
@@ -19,9 +19,9 @@ Data structure is a particular way of organizing and storing our data.
 
 ## Related Information
 
-1. [Create new Project][1]
-2. [Create a Scripting Service][2]
-3. [Create a Launchpad][3]
+* [Create new Project][1]
+* [Create a Scripting Service][2]
+* [Create a Launchpad][3]
 
 [1]: https://github.com/dirigiblelabs/curriculum/tree/master/SimeonGeorgiev/DocumentationTask/Documentation/CreateProject.md
 [2]: https://github.com/dirigiblelabs/curriculum/tree/master/SimeonGeorgiev/DocumentationTask/Documentation/ScriptingService.md

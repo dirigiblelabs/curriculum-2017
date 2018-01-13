@@ -9,6 +9,6 @@ In this tutorial, we will present some capabilities of Eclipse Dirigible:
 - [Launchpad Templates][2]
 - [Markers for Entities][3]
 
-[1]: https://github.com/dirigiblelabs/curriculum/tree/master/TsvetelinaStoyanova/documentation/Dirigible-GitHub-Interaction.md
-[2]: https://github.com/dirigiblelabs/curriculum/tree/master/TsvetelinaStoyanova/documentation/Dirigible-Launchpad-Templates.md
-[3]: https://github.com/dirigiblelabs/curriculum/tree/master/TsvetelinaStoyanova/documentation/Dirigible-Markers-for-Entities.md
+[1]: https://github.com/dirigiblelabs/curriculum/tree/master/TsvetelinaStoyanova/documentation/dirigibleDocumentation/githubInteraction.md
+[2]: https://github.com/dirigiblelabs/curriculum/tree/master/TsvetelinaStoyanova/documentation/dirigibleDocumentation/launchpadTemplates.md
+[3]: https://github.com/dirigiblelabs/curriculum/tree/master/TsvetelinaStoyanova/documentation/dirigibleDocumentation/markersForEntities.md

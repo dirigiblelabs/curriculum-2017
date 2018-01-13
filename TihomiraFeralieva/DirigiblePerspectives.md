@@ -1,7 +1,7 @@
 # Eclipse Dirigible Perspectives
 =====================
 
-![alt text](./workspace.png)
+![alt text](./workspaces.png)
 
 ##### The Database perspective contains tools for inspection and manipulation of the artifacts within the underlying relational database. You have direct access to the default target schema assigned to your account in the cloud platform. From the Database Browser you can expand the schema item and see the list of all tables and views created either via the [models](http://www.dirigible.io/help/data_structures.html) or directly via SQL script.
 

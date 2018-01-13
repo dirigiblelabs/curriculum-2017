@@ -16,7 +16,7 @@ Instructions how to create a new Launchpad.
 
 ## Related Information
 
-1. [Create a Project]
+1. [Create a Project][1]
 2. [Create a Data Structure][2]
 3. [Create a Scripting Service][3]
 

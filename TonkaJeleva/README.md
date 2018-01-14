@@ -10,7 +10,7 @@ You can use if for building RESTful services, external services integration, tes
 
 ## Eclipse Dirigable Web IDE
 
-You can find Eclipse Dirigale Web IDE on following adress: http://dirigible.eclipse.org/
+You can find Eclipse Dirigale Web IDE on following address: http://dirigible.eclipse.org/
 
 ## Eclipse Dirigable Web IDE Basics
 

@@ -9,7 +9,7 @@ Eclipse Dirigible™ is a Cloud Development Platform providing development tools
 
 ### Features
 Eclipse Dirigible provides capabilities for end-to-end development process from database modeling and management.
-Offers features like:
+It offers [features](https://www.google.com) like:
 
 ![Image of features](https://github.com/dirigiblelabs/curriculum/blob/master/VentsislavaNikolova/Eclipse%20Dirigible%20Documentation/Pictures/%D0%93%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0.png)
 

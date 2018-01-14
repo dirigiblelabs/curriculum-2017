@@ -23,3 +23,8 @@ Now you will learn how to create a User Interface, so the users can easily inter
 13.	Click on the **Save** button in the top left corner
 
 Now you have a User Interface for your entity
+
+## Other tutorials
+[Create Data Structure](https://github.com/dirigiblelabs/curriculum/blob/master/LuchezarSerdarski/CreateDataStructure.md)
+
+[Create Scripting Services](https://github.com/dirigiblelabs/curriculum/blob/master/LuchezarSerdarski/CreateScriptingServices.md)

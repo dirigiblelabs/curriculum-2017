@@ -26,7 +26,17 @@
 
 5. Right click on your project *-> Publish*
 
+6. Create new *Data Structure* 
 
+7. Select *DSV* template and click *Next*
+
+8. Find your table and add it to the project
+
+9. Edit the *.dsv* file by adding the locations with their coordinates
+
+
+
+10. Save the changes and publish your project once again.
 
 ## Create Scripting Service
 

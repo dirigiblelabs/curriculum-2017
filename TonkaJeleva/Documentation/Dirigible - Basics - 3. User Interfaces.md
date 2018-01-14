@@ -25,7 +25,7 @@ All software projects need documentation because it is important part of their u
 
 ## Results
 
-The file with an user interface template is saved and opened in the IDE. You can edit and preview it.
+The file with an user interface template are saved and opened in the IDE. You can edit and preview it.
 
 ## Next steps
 

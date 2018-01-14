@@ -23,15 +23,18 @@ To start operate with Eclipse Dirigible you must start from:
 
 In next points we will cover the following basic scenarios:
 
-1. Getting started, create a project for your application. Go to Create a Project.
-2. Create a custom Data Structure. Go to Dirigible - Basics - Data Structure 
-3. Create a Scripting Service for your generated Data Structure. Go to Dirigible - Basics -  Scripting Services
-4. Create a generic User Interface for your application entities. Go to Dirigible - Basics - User Interfaces
-5. Create a User Interface for managing your application entities. Go to Dirigible - Basics -  Manage Entity Template
+1. Getting started, create a project for your application. Go to [Create a Project][1].
+2. Create a custom Data Structure. Go to [Dirigible - Basics - Data][2]. 
+3. Create a Scripting Service for your generated Data Structure. Go to [Dirigible - Basics -  Scripting Services][3]
+4. Create a generic User Interface for your application entities. Go to [Dirigible - Basics - User Interfaces][4]
+5. Create a User Interface for managing your application entities. Go to [Dirigible - Basics -  Manage Entity Template][5]
 6. Document your application. Got to Dirigible - Basics -  Documentation 
 
-[1]: http://dirigible.eclipse.org/
-
+[1]: https://github.com/dirigiblelabs/curriculum/blob/master/GeorgiMinkov/WrittenDocumentation/1%20-%20Create%20a%20project.md
+[2]: https://github.com/dirigiblelabs/curriculum/blob/master/GeorgiMinkov/WrittenDocumentation/2%20-%20Dirigible%20-%20Basics%20-%20Data%20Structure.md
+[3]: https://github.com/dirigiblelabs/curriculum/blob/master/GeorgiMinkov/WrittenDocumentation/3%20-%20Dirigible%20-%20Basics%20-%20%20Scripting%20Services.md
+[4]: https://github.com/dirigiblelabs/curriculum/blob/master/GeorgiMinkov/WrittenDocumentation/4%20-%20Dirigible%20-%20Basics%20-%20User%20Interfaces.md
+[5]: https://github.com/dirigiblelabs/curriculum/blob/master/GeorgiMinkov/WrittenDocumentation/5%20-%20Basics%20-%20Manage%20Entity%20Template.md
 
 
 

@@ -8,3 +8,13 @@ role based security, external services integration, testing, debugging, operatio
 
 
 ![image](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/infographic.jpg "Infographic")
+
+## Documentation links
+
+**[Creating Launchpad Templates](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/LaunchpadTemplates.md).**
+
+**[Markers for Entities](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/MarkersForEntities.md).**
+
+**[Manage Entity Template](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/ManageEntityTemplate.md).**
+
+

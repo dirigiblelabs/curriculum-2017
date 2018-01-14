@@ -1,6 +1,8 @@
 # Creating Launchpad Templates
 
-### Create Application
+*Note: the **target viewers** are developers so there is no need of screenshots*
+
+## Create Application
 
 1. On the ... click *New -> Project*
 
@@ -8,7 +10,7 @@
 
 3. Select *Blank Application* and click *Finish*
 
-### Create Launchpad
+## Create Launchpad
 
 1. Open your project on the left and right click on the *WebContent -> New -> User Interface*
 
@@ -16,7 +18,7 @@
 
 3. Enter *Page title* same as the name of the project(*Example: University.html*) *-> Next -> Finish*
 
-### Create Launchpad Items
+## Create Launchpad Items
 
 1. Go again on the *WebContent -> New -> User Interface*
 
@@ -31,7 +33,7 @@ page title and item name(*Example: Subjects, Subjects.html*)
 
 6. Open *index.html* and at the preview you can notice your new page(s) and item(s) created.
 
-### Editing Items colors
+## Editing Items colors
 
 1. Go in *ScriptingServices -> University -> Extension -> Students.js*
 

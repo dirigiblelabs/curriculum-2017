@@ -5,7 +5,7 @@ Eclipse Dirigible™ is a Cloud Development Platform providing development tools
 
 ## Features
 
-![alt text](curriculum/VelislavKlimentov/Documentation/dirigibleImage.png)
+![alt text](dirigibleImage.png)
 
 *Database* 
 - Enables you to model data structure artifacts in JSON format, and to create actual tables and views during activation/publishing.
@@ -22,14 +22,14 @@ Eclipse Dirigible™ is a Cloud Development Platform providing development tools
 - Establishes an Enterprise JavaScript API that can be used via the CommonJS modularization.
 - Generates fully compliant RESTful services, including meta-data support on existing database artifacts.
 
-*Mobile*
-Provides an integration with Tabris.js mobile framework that allows you to develop native iOS and Android mobile applications, written entirely in JavaScript.
+*Mobile* 
+<br/>Provides an integration with Tabris.js mobile framework that allows you to develop native iOS and Android mobile applications, written entirely in JavaScript.
 
 *Connectivity*
-Provides built-in micro ESB based on declarative definitions of integration and orchestration of business process flows.
+<br/>Provides built-in micro ESB based on declarative definitions of integration and orchestration of business process flows.
 
 *Extensions*
-Supports declarative definition of extension points and extensions in order to achieve:
+<br/>Supports declarative definition of extension points and extensions in order to achieve:
 - Better adaptability
 - Better visibility of dependencies
 - Simplified life-cycle management

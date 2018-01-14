@@ -44,5 +44,5 @@ and you will be able to see your current item in the new color
    in different colors and check in the index.html preview*
    
 
-**You can check and the video tutorial here.**
+**You can check and the video tutorial [here](https://m.youtube.com/watch?list=PLNKd01MEkVeJYLtQ2S4HZyDQ1turGCZwr&params=OAFIAVgD&v=r---r5cUkEw&mode=NORMAL).**
 

@@ -42,4 +42,7 @@ and you will be able to see your current item in the new color
 
    - *you can try to change your other items 
    in different colors and check in the index.html preview*
+   
+
+**You can check and the video tutorial here.**
 

@@ -12,7 +12,7 @@ Instructions how to create a Scripting Service.
 3. Select **Javascript Entity Service on Table** from the Available Templates and choose **Next**.
 4. Select your table and add it to the project.
 5. Choose a name of the service and select **Finish**.
-> Four files should have been generated:
+> The following files should have been generated:
 >.entity file,
 >.js file, 
 >.swagger file,

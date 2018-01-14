@@ -10,7 +10,7 @@ Follow these steps in order to create launchpad items.
 5. After you're done click **Finish**.
 6. Repeat for each new launchpad item.
 ## Results
-You have successfully created launchpad items for your Dirigible project.
+You have successfully created launchpad items for your Dirigible project. You can preview your launchpad items by opening the **index.html** in your **WebContent** folder.
 ## Next steps
 1. [Customize Launchpad Items](Customize-Launchpad-Items.md)
 ## Navigation

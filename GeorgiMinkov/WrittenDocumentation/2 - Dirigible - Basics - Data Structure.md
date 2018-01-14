@@ -1,4 +1,4 @@
-#Dirigible - Basics - Data Structure
+# Dirigible - Basics - Data Structure
 
 To create data structure for your Dirigible application follow steps bellow.
 

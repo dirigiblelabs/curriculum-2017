@@ -17,7 +17,7 @@ Eclipse Dirigible™ is a Cloud Development Platform providing development tools
 - It provides WYSIWYG editor for both standard HTML5 and Bootstrap-based complex controls.
 - It supports wiki scripting via Confluence format.
 
-*Server-Side"
+*Server-Side*
 - Uses some of the most popular dynamic languages such as JavaScript, Groovy* and Ruby* for creating server-side services.
 - Establishes an Enterprise JavaScript API that can be used via the CommonJS modularization.
 - Generates fully compliant RESTful services, including meta-data support on existing database artifacts.
@@ -25,7 +25,7 @@ Eclipse Dirigible™ is a Cloud Development Platform providing development tools
 *Mobile*
 Provides an integration with Tabris.js mobile framework that allows you to develop native iOS and Android mobile applications, written entirely in JavaScript.
 
-*Connectivity"
+*Connectivity*
 Provides built-in micro ESB based on declarative definitions of integration and orchestration of business process flows.
 
 *Extensions*
@@ -39,6 +39,6 @@ Make sure you fullfill this step to continue:
 - Log into the [Dirigible Web IDE](http://dirigible.eclipse.org/).
 
 ## Basics guide
-[1. Create a Data Structure](Documentation/DataStructures.md).
-[2. Create a Scripting Service](Documentation/DataStructures.md).
+[1. Create a Data Structure](Documentation/DataStructures.md). <br/>
+[2. Create a Scripting Service](Documentation/DataStructures.md). <br/>
 [3. Create a User Interface](Documentation/DataStructures.md).

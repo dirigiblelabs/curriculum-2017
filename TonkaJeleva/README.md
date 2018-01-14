@@ -1,4 +1,4 @@
-# User Documentation for Eclipse Dirigable Web IDE
+# User Documentation for Eclipse Dirigible Web IDE
 
 <p align="center">
   <img src="dirigible.png" width="50%" />

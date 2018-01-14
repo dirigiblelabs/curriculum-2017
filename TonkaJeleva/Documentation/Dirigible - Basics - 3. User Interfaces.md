@@ -1,10 +1,10 @@
 # Create User Interface
 
-Follow these steps to create a user interface for your Eclipse Dirigable project.
+Follow these steps to create a user interface for your Eclipse Dirigible project.
 
 ## Prerequisites
 
-* Have a project created in Eclipse Dirigable Web IDE.
+* Have a project created in Eclipse Dirigible Web IDE.
 * Have an entity created in your project structure.
 
 ## Context
@@ -13,7 +13,7 @@ All software projects need documentation because it is important part of their u
 
 ## Procedure
 
-1. Open Eclipse Dirigable Web IDE and navigate to **Workspace explorer**
+1. Open Eclipse Dirigible Web IDE and navigate to **Workspace explorer**
 2. Select the project for which you want to create a user interface. Expand the project structure.
 3. Navigate to folder where you want to create your user interface. Right-click on entity in your project structure and choose **Generate > User Interface for Entity Service**.
 4. Choose the type of template to be generated for you and click **Next**.

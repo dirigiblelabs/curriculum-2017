@@ -1,9 +1,9 @@
 # Create a Scripting Service
 
-Follow these steps to a Scripting Service for your Eclipse Dirigable project.
+Follow these steps to a Scripting Service for your Eclipse Dirigible project.
 ## Prerequisites
 
-* Have a project created in Eclipse Dirigable Web IDE.
+* Have a project created in Eclipse Dirigible Web IDE.
 * Have a data structure created.
 
 ## Context
@@ -12,7 +12,7 @@ You need a service to represent the processes and activities needed to manage th
 
 ## Procedure
 
-1. Open Eclipse Dirigable Web IDE and navigate to **Workspace explorer**
+1. Open Eclipse Dirigible Web IDE and navigate to **Workspace explorer**
 2. Select the project for which you want to create a scripting service. Right-click on the project and choose **New > Scripting Service** from the drop-down list.
 3. Select a Template Type from the dialog window.
 

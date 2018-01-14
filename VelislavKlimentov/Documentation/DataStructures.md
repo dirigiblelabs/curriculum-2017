@@ -23,8 +23,8 @@ Create a new project:
 3.3. Define an ID attribute as primary key. <br/>
 4. After you have finished with adding columns press **Next**.
 5. Choose a name for your table and click **Finish**.
-
+> Name should end with suffix .table
 
 ## Navigation
-[Create a Scripting Service](ScriptingServices.md). <br/>
-[Create a User Interface](UserInterfaces.md).
+[Create a Scripting Service](ScriptingServices.md) <br/>
+[Create a User Interface](UserInterfaces.md)

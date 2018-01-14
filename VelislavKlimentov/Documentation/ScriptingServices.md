@@ -13,9 +13,9 @@ Instructions how to create a Scripting Service.
 4. Select your table and add it to the project.
 5. Choose a name of the service and select **Finish**.
 > Four files should have been generated:
->.entity file
->.js file 
->.swagger file
+>.entity file,
+>.js file, 
+>.swagger file,
 >_lib.js file
 
 ## Navigation

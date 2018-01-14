@@ -1,9 +1,11 @@
 # Launchpad Templates
 Follow these steps in order to create launchpad templates.
 ## Context
-This tutorial will guide you through the steps required to create launchpad templates and insert launchpad items in those templates for your Eclipse Dirigible project.
+This tutorial will guide you through the steps required to create launchpad templates for your Eclipse Dirigible project.
 ## Procedure
-1. ...
+1. Create Launchpad UI
+2. Create Launchpad Items
+3. Customie Launchpad Items
 ## Results
 You have successfully created your lanchpad template in Eclipse Dirigible.
 ## Navigation

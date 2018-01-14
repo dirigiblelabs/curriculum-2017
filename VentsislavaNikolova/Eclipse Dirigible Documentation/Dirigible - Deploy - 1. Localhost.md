@@ -42,5 +42,5 @@ Return to **Setup on Tomcat** page, where downloaded Tomcat.
 14. Select **Stop Service** with right-click on *Apache Tomcat* icon on Taskbar.
 15. Select **Start Service** with right-click on *Apache Tomcat* icon on Taskbar.
 16. In address bar write *http://localhost:8080*.
-17. Enter your username and password and you're ready to go. 
+17. Loggin with username **dirigible** and password **dirigible** and you're ready to go. 
 

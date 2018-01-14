@@ -1,9 +1,11 @@
 # Launchpad Templates
 Follow these steps in order to create launchpad templates.
 ## Context
-This tutorial will guide you through the steps required to create launchpad templates and insert launchpad items in those templates for your Eclipse Dirigible project.
+This tutorial will guide you through the steps required to create launchpad templates for your Eclipse Dirigible project.
 ## Procedure
-1. ...
+1. [Create Launchpad UI](Create-Launchpad-UI.md)
+2. [Create Launchpad Items](Create-Launchpad-Items.md)
+3. [Customize Launchpad Items](Customize-Launchpad-Items.md)
 ## Results
 You have successfully created your lanchpad template in Eclipse Dirigible.
 ## Navigation
@@ -13,3 +15,6 @@ You have successfully created your lanchpad template in Eclipse Dirigible.
     * [Eclipse Dirigible - Pushing changes to GitHub](GitHub-Pushing-Changes.md)
 2. [Eclipse Dirigible - Transport content](Transport-Content-in-Eclipse-Dirigible.md)
 3. [Eclipse Dirigible - Launchpad Templates](Launchpad-Templates.md)
+    * [Create Launchpad UI](Create-Launchpad-UI.md)
+    * [Create Launchpad Items](Create-Launchpad-Items.md)
+    * [Customize Launchpad Items](Customize-Launchpad-Items.md)

@@ -1,4 +1,4 @@
-# Create Create an Entity Management User Interface
+# Create Create Entity Management User Interface
 
 Follow these steps to create an entity management user inteface for your Eclipse Dirigable application.
 
@@ -9,6 +9,8 @@ Follow these steps to create an entity management user inteface for your Eclipse
 * Have a scripting service created.
 
 ## Context
+
+In oreder to easily modify the data in the previously defined data structures, you should create entity managemnt user interface.
 
 ## Procedure
 
@@ -24,6 +26,8 @@ Follow these steps to create an entity management user inteface for your Eclipse
 The file with an user interface for managing entities is saved and opened in the IDE. You can edit and preview it. You can edit entities through the newly created user interface.
 
 ## Next steps
+
+* Create documentation of your project
 
 
 

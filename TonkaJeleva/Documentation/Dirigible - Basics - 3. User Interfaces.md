@@ -1,4 +1,4 @@
-# Create a User Interface
+# Create User Interface
 
 Follow these steps to create a user interface for your Eclipse Dirigable project.
 
@@ -29,6 +29,7 @@ The file with an user interface template is saved and opened in the IDE. You can
 
 ## Next steps
 
+* Create entitiy management user interface
 
 
 

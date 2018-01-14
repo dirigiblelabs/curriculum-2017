@@ -4,8 +4,11 @@ Follow these steps to a Scripting Service for your Eclipse Dirigable project.
 ## Prerequisites
 
 * Have a project created in Eclipse Dirigable Web IDE.
+* Have a data structure created.
 
 ## Context
+
+You need a service to represent the processes and activities needed to manage the data of the application.
 
 ## Procedure
 
@@ -24,6 +27,7 @@ The service you created is saved in the structure of your project and is opened 
 
 ## Next steps
 
+* Create user interface
 
 
 

@@ -1,4 +1,4 @@
-# Create a Documentation
+# Create Documentation
 
 Follow these steps to create a documentation for your Eclipse Dirigable project.
 

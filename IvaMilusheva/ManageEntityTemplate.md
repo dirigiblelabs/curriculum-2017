@@ -26,3 +26,4 @@
   
   *Example: You also can delete rows. If you choose this option, don't forget to confirm the request in the pop-up window*
   
+**You can also watch the video tutorial [here](https://www.youtube.com/watch?v=KEWZCh1HKec&index=4&list=PLNKd01MEkVeKf74MdK5cUzgQKiiTyarkG).**

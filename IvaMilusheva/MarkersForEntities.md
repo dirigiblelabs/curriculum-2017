@@ -46,5 +46,50 @@
 
 ## Create Scripting Service
 
+1. *New -> Scripting Service* 
+
+2. Select *CRUD Service on Table* and click *Next*
+
+3. Find your table and add it to the project
+
+4. Enter name of the service and click *Finish*
+
+5. Locate your entity in the scripting service folder
 
 ## Generate User Interfaces for Entity Services
+
+1. Right click *Generate -> User Interface for Entity Service*
+
+2. Select *List and Manage Entity* and choose *Next*
+
+3. Select the visible fields and edit the labels
+
+   - *The labels will be part of your web page UI*
+   
+4. Set the page title and click *Next*
+
+5. Name the file and click *Next*
+
+6. Now you can manage the data, displayed in the Preview tab.
+
+7. Create new *User Interface for Entity Service*
+
+8. Choose *Markers for Entities* and click *Next*
+
+9. Select the visible fields and edit the labels
+
+10. Set the *Page title* and choose *Next*
+
+11. Name the file and click *Finish*
+
+12. Now you can notice that it is not working. To make it work
+you need to add your application to the *.html* file and save it.
+
+13. You can preview the result.
+
+
+
+
+
+
+

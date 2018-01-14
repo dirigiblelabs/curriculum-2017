@@ -4,7 +4,7 @@
 
 ## Create Application
 
-1. On the ... click *New -> Project*
+1. In the *Workspace Explorer* click *New -> Project*
 
 2. Enter *Project name*(*Example: University*) and click *Next*
 

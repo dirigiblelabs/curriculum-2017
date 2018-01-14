@@ -34,10 +34,13 @@
 
 9. Edit the *.dsv* file by adding the locations with their coordinates
 
-     1|Sevilla Hotel|37.3891|-5.9844
-     2|King Louis Hotel|48.7980|2.3089
-     3|Pleasant Hill Hotel|40.4645|-73.7944
-     4|Bulgarian rose Hotel|42.6427|24.8063
+         1|Sevilla Hotel|37.3891|-5.9844
+       
+         2|King Louis Hotel|48.7980|2.3089
+       
+         3|Pleasant Hill Hotel|40.4645|-73.7944
+       
+         4|Bulgarian rose Hotel|42.6427|24.8063
 
 10. Save the changes and publish your project once again.
 

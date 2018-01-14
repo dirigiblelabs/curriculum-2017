@@ -23,9 +23,9 @@ Steps to create a scripting service for your Dirigible application.
 
    > Example: In the folder **Scripting Services** will appear following files (if we choose javascript entity service on table)
    >
+   > * *.swagger* file
    > * *.entity* file
    > * *.js* file
-   > * *.swagger* file
    > * *_lib.js* file
 
 ## Result

@@ -1,10 +1,10 @@
 # Create a new Data Structure
 Now you will learn how to create and manage a Data Structure.
-**Prerequisites**
+## Prerequisites
 
  - Log in Eclipse Drigible IDE
 
-**Procedure**
+## Procedure
 1. In **Workspace Explorer** right click then New -> Project
 2. A **New Project Wizard** pop-up will appear on the screen
 3. Enter the **Project Name** and click **Next**. Then click on **Blank Application** and click **Finish**

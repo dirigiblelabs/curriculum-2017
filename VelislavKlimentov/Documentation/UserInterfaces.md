@@ -16,8 +16,7 @@ The User Interface (UI) is the space, where human and machines interact.
 5. Type the name of the file, your page title and choose **Finish**.
 6. Select by a right-click on the folder Web Content -> New -> User Interface
 7. From the Available Templates choose Index Page with Main Menu, Header and Footer -> Click Next
-8. Enter the File name -> Click Next -> Enter the Page Title -> Click Finish
-9. Type the name of the file, your page title and choose **Finish**.
+8. Type the name of the file, your page title and choose **Finish**.
 > Generated files in the *Web Content* folder: <br/>
 > - footer.html file <br/>
 > - header.html file <br/>

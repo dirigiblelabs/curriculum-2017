@@ -4,9 +4,9 @@
 The User Interface (UI) is the space, where human and machines interact.
 
 ## Prerequisites
-* Existing **project** in the Dirigible Web IDE.
-* Existing **Data Structure**.
-* Existing **Scripting Service**.
+* Existing **project** in the Dirigible Web IDE
+* Existing **Data Structure**
+* Existing **Scripting Service**
 
 ## Steps
 1. Navigate to *Workspace Explorer*. 

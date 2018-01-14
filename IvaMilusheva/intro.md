@@ -7,4 +7,4 @@ through RESTful services authoring using various dynamic languages, to pattern-b
 role based security, external services integration, testing, debugging, operations, and monitoring.
 
 
-[logo]: https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/infographic.jpg "Infographic"
+![image](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/infographic.jpg "Infographic")

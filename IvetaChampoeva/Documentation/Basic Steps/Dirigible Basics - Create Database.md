@@ -7,7 +7,7 @@ After executing the following steps you will have a new database for your projec
 1. Right click on you project **New -> Data Structure**
 2. Choose **Relational Database Table**.
 3. Start adding all the columns that you must have in your table, by clicking **Add**
-> NOTE For each column you can choose the type, length, if null values are allowed, if it is a primary key and if you want it to have a default value. 
+> For each column you can choose the type, length, if null values are allowed, if it is a primary key and if you want it to have a default value. 
 4. When you created all the necessary columns, choose a name for your table and click **Finish**
 5. Right click on your project and choose **Publish**. That will make your new table available outside your design area.
 ## Additional

@@ -1,16 +1,12 @@
-# Sharing a project with GitHub
+# Create a Launchpad UI
 Follow these steps in order to create a launchpad user interface.
-## Prerequisites
-* Have a GitHub repository created.
-* Have a project created in the Dirigible Web IDE.
-* Have a Scripting Service created in your project.
 ## Procedure
-1. Navigate to the **Workspace Explorer** view in the Dirigble Web IDE where your project files reside.
-2. Right-click on your project. A dropdown menu appears.
-3. Select **Team > Share**. A new dialog appears.
-4. Go to your GitHub repository and copy the GitHub URL.
-5. Paste your GitHub URL in the **Location** field of the dialog. Type your commit message and your GitHub credentials to complete the request.
-6. After you're done click **OK**.
+1. Create a new project by selecting **New > Project** in the **Workspace Explorer** view in the Dirigble Web IDE. Name your project and select **Blank Application** template.
+2. Navigate to the **WebContent** folder.
+3. Right-click on it and select **New > User Interface**.
+4. Select **Launchpad** and click **Next**. A new dialog appears.
+5. Type a **Page Title** and click **Next**. Type **Target Location** and **File Name**.
+6. After you're done click **Finish**.
 ## Results
 You have successfully created a launchpad user interface.
 ## Next steps
@@ -23,3 +19,6 @@ You have successfully created a launchpad user interface.
     * [Eclipse Dirigible - Pushing changes to GitHub](GitHub-Pushing-Changes.md)
 2. [Eclipse Dirigible - Transport content](Transport-Content-in-Eclipse-Dirigible.md)
 3. [Eclipse Dirigible - Launchpad Templates](Launchpad-Templates.md)
+    * [Create Launchpad UI](Create-Launchpad-UI.md)
+    * [Create Launchpad Items](Create-Launchpad-Items.md)
+    * [Customize Launchpad Items](Customize-Launchpad-Items.md)

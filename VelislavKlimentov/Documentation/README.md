@@ -40,5 +40,5 @@ Make sure you fullfill this step to continue:
 
 ## Basics guide
 1. [Create a Data Structure](DataStructures.md). <br/>
-2. [Create a Scripting Service](ScriptingService.md). <br/>
-3. [Create a User Interface](UserInterface.md).
+2. [Create a Scripting Service](ScriptingServices.md). <br/>
+3. [Create a User Interface](UserInterfaces.md).

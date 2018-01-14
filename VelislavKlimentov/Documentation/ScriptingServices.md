@@ -3,11 +3,11 @@
 Instructions how to create a Scripting Service.
 
 ## Prerequisites
-- Existing project
-- Existing Data Structure
+- Existing **project**
+- Existing **Data Structure**
 
 ## Steps
-1. Navigate to the Workspace Explorer.
+1. Navigate to the *Workspace Explorer*.
 2. Right-click on the project name **-> New -> Scripting Service**.
 3. Select **Javascript Entity Service on Table** from the Available Templates and choose **Next**.
 4. Select your table and add it to the project.

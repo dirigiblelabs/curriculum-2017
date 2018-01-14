@@ -88,6 +88,6 @@ you need to add your application to the *.html* file and save it.
 13. You can preview the result.
 
 
-**You can also watch the video tutorial [here](https://m.youtube.com/watch?list=PLNKd01MEkVeJYLtQ2S4HZyDQ1turGCZwr&t=6s&v=0NqG9c1Zaeo).*
+**You can also watch the video tutorial [here](https://m.youtube.com/watch?list=PLNKd01MEkVeJYLtQ2S4HZyDQ1turGCZwr&t=6s&v=0NqG9c1Zaeo).**
 
 

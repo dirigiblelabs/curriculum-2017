@@ -39,6 +39,6 @@ Make sure you fullfill this step to continue:
 - Log into the [Dirigible Web IDE](http://dirigible.eclipse.org/).
 
 ## Basics guide
-1. [Create a Data Structure](curriculum/VelislavKlimentov/Documentation/DataStructures.md). <br/>
-2. [Create a Scripting Service](curriculum/VelislavKlimentov/Documentation/ScriptingService.md). <br/>
-3. [Create a User Interface](curriculum/VelislavKlimentov/Documentation/UserInterface.md).
+1. [Create a Data Structure](DataStructures.md). <br/>
+2. [Create a Scripting Service](ScriptingService.md). <br/>
+3. [Create a User Interface](UserInterface.md).

@@ -1,7 +1,9 @@
-#**Background:**
+# **Background:**
+
 Dirigible project came out of an internal SAP initiative to address the extension and adaptation use-cases related to SOA and Enterprise Services. On one hand in this project were implied the lessons learned from the standard tools and approaches so far and on the other hand, there were added features aligned with the most recent technologies and architectural patterns related to Web 2.0 and HTML5. This made it complete enough to be used as the only tool and environment needed for building and running on-demand applications in the cloud.
 
-#**Scope:** 
+# **Scope:** 
+
 Full development lifecycle of on-demand applications leveraging In-System Programming Model and Rapid Application Development techniques:
 
 Database modeling and management;
@@ -16,7 +18,7 @@ Documentation;
 Extensions management;
 Operations and monitoring;
 
-#**Architecture**
+# **Architecture**
 
 Dirigible architecture follows the well proven principles of simplicity and scalability in the classical service-oriented architecture.
 
@@ -31,7 +33,8 @@ The runtime can scale independently by the design time part, and even can be dep
 Depending on the target cloud platform, Dirigible can be integrated to use the services provided by the underlying platform.
 
 
-#**Url**
+# **Url**
+
 Url object is used to encode/decode text in the application/x-www-form-urlencoded
 MIME format.
 
@@ -42,7 +45,8 @@ Definition: https://github.com/eclipse/dirigible/issues/25
 Source: /utils/v3/url.js
 Facade: UrlFacade
 Status: alpha
-#**Basic Usage**
+
+# **Basic Usage**
 
     var url = require('utils/v3/url');
     var response = require('http/v3/response');

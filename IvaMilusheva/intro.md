@@ -11,10 +11,10 @@ role based security, external services integration, testing, debugging, operatio
 
 ## Documentation links
 
-**[Creating Launchpad Templates](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/LaunchpadTemplates.md).**
+**[Creating Launchpad Templates](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/LaunchpadTemplates.md)**
 
-**[Markers for Entities](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/MarkersForEntities.md).**
+**[Markers for Entities](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/MarkersForEntities.md)**
 
-**[Manage Entity Template](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/ManageEntityTemplate.md).**
+**[Manage Entity Template](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/ManageEntityTemplate.md)**
 
 

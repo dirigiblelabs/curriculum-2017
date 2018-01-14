@@ -19,7 +19,7 @@ To start operate with Eclipse Dirigible you must start from:
 
 	* Log in Dirigible Web IDE and go to Workbench perspective. Click here to enter Dirigible
 
-##Using Eclipse Dirigible - Basics
+## Using Eclipse Dirigible - Basics
 
 In next points we will cover the following basic scenarios:
 

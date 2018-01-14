@@ -16,3 +16,7 @@
   2. Save the changes.
   3. Right click on your project **Team -> Push**.
   4. Fill in the necessary fields.
+
+<p align="center">
+  <img src="GitHub_Interactions.png" width="80%" alt="github_dirigible_communication"/>
+</p>

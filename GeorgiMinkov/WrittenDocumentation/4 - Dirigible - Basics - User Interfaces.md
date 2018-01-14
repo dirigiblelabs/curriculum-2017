@@ -2,7 +2,7 @@
 
 In the text bellow you will find steps to create a user interface for your Dirigible application.
 
-## Requirment
+## Requirement
 
 Created project in Dirigible Web IDE
 

@@ -10,13 +10,16 @@ Follow these steps to create an entity management user inteface for your Eclipse
 
 ## Context
 
-In oreder to easily modify the data in the previously defined data structures, you should create entity managemnt user interface.
+In order to easily modify the data in the previously defined data structures, you should create entity managemnt user interface.
 
 ## Procedure
 
 1. Open Eclipse Dirigable Web IDE and navigate to **Workspace explorer**
-2. 
-5. Select the fields which will be used and click **Next**.
+2. Select the project and expand its structure.
+3. Locate the entity for which you want to create managing user interface in **Scripting Services** folder.
+4. Right-click on the entity and chose **Generate > User Interface for Entity Service**.
+5. Choose a template for your managing user interface.
+5. Select from the available fields to be generated in the user interface and click **Next**.
 6. Enter name for the target file and click **Next**.
 7. Enter the page title which will be used during the generation. Click **Finish**.
 

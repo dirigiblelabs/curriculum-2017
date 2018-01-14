@@ -64,7 +64,7 @@
 
 3. Select the visible fields and edit the labels
 
-   - *The labels will be part of your web page UI*
+ - *The labels will be part of your web page UI*
    
 4. Set the page title and click *Next*
 

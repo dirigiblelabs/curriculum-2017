@@ -10,3 +10,8 @@ Now you will learn how to create Scripting Services.
 3.	Choose a table and click **Next** 
 4.	Fill in the **File Name** field to give your service a name and click **Finish**
 Now you have a Scripting Service for your table
+
+## Other tutorials
+[Create Data Structure](https://github.com/dirigiblelabs/curriculum/blob/master/LuchezarSerdarski/CreateDataStructure.md)
+
+[Create User Interface](https://github.com/dirigiblelabs/curriculum/blob/master/LuchezarSerdarski/CreateUserInterface.md)

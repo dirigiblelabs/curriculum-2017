@@ -28,4 +28,5 @@ Now you have created a Database table
 
 ## Other tutorials
 [Create Scripting Services](https://github.com/dirigiblelabs/curriculum/blob/master/LuchezarSerdarski/CreateScriptingServices.md)
+
 [Create User Interface](https://github.com/dirigiblelabs/curriculum/blob/master/LuchezarSerdarski/CreateUserInterface.md)

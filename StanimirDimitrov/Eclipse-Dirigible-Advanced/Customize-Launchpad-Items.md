@@ -6,7 +6,7 @@ Follow these steps in order to customize your launchpad items.
 ## Procedure
 1. Navigate to your **ScriptingServices** folder.
 2. Open your **extension** folder and edit your script files.
-> You can change your launchpad item's attributes (like color, title, image, etc.) by adjusting the different properties in the .js files. You can change each launchpad item independantly by properties in the corresponding .js file.
+> You can change your launchpad item's attributes (like color, title, image, etc.) by adjusting the different properties in the .js files. You can change each launchpad item's attributes independantly by changing the properties in the corresponding .js file.
 3. After you're done click **Save**.
 4. Repeat for each new launchpad item.
 ## Results

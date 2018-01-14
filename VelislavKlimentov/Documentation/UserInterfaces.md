@@ -19,8 +19,8 @@ The User Interface (UI) is the space, where human and machines interact.
 8. Enter the File name -> Click Next -> Enter the Page Title -> Click Finish
 9. Type the name of the file, your page title and choose **Finish**.
 > Generated files in the *Web Content* folder: <br/>
-> footer.html file <br/>
-> header.html file <br/>
-> index.html file <br/>
-> main.menu file <br/>
-> .html file
+> - footer.html file <br/>
+> - header.html file <br/>
+> - index.html file <br/>
+> - main.menu file <br/>
+> - .html file

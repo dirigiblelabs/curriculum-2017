@@ -13,6 +13,9 @@ Eclipse Dirigible™ is a Cloud Development Platform providing development tools
 
 Eclipse Dirigible provides capabilities for end-to-end development process from database modeling and management, through RESTful services authoring using various dynamic languages, to pattern-based user interface generation, role based security, external services integration, testing, debugging, operations, and monitoring.
 
+
+![Eclipse Dirigible Capabilities](capabilities.png)
+
 # Prerequisites
 
 The environment itself runs directly in a browser, therefore does not require additional downloads and installations. It packs all the needed containers, which makes it a self-contained and well-integrated software bundle that can be deployed on any Java based Web server, such as Tomcat, Jetty, JBoss, etc.

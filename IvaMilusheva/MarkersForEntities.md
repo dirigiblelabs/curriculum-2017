@@ -17,9 +17,9 @@
 
 3. Add needed table properties
 
-   - define an ID attribute as a Primery key
-   
-   - define latitude and longtitude properties for 
+    - define an ID attribute as a Primery key
+   
+    - define latitude and longtitude properties for 
    the location of the markers
 
 4. Name your Database(*Example: Hotels.table*) and click *Finish*

@@ -5,7 +5,7 @@ Eclipse Dirigible™ is a Cloud Development Platform providing development tools
 
 ## Features
 
-![alt text](Documentation/dirigibleImage.png)
+![alt text](curriculum/VelislavKlimentov/Documentation/dirigibleImage.png)
 
 *Database* 
 - Enables you to model data structure artifacts in JSON format, and to create actual tables and views during activation/publishing.
@@ -39,6 +39,6 @@ Make sure you fullfill this step to continue:
 - Log into the [Dirigible Web IDE](http://dirigible.eclipse.org/).
 
 ## Basics guide
-[1. Create a Data Structure](Documentation/DataStructures.md). <br/>
-[2. Create a Scripting Service](Documentation/DataStructures.md). <br/>
-[3. Create a User Interface](Documentation/DataStructures.md).
+1. [Create a Data Structure](curriculum/VelislavKlimentov/Documentation/DataStructures.md). <br/>
+2. [Create a Scripting Service](curriculum/VelislavKlimentov/Documentation/ScriptingService.md). <br/>
+3. [Create a User Interface](curriculum/VelislavKlimentov/Documentation/UserInterface.md).

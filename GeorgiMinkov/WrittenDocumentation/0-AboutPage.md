@@ -1,14 +1,11 @@
-About Eclipse Dirigible™
+# About Eclipse Dirigible™
 
-    <p align="center">
-      <img src="images/dirigible-logo-symbol.png" width="60%" alt="dirigible logo"/>
-    </p>
 
 Dirigible™ is a cloud development toolkit providing both development tools and runtime environment. It supports full development life-cycle of on-demand applications by leveraging in-system programming models and rapid application development techniques. Providing powerful environment for developers to finish there work fast and easy. 
 
 <br>
 
-Project
+##Project
 
 Eclipse Dirigible is an open source project that provides Integrated Development Environment as a Service (IDEaaS), as well as integrated runtime execution engines. The applications created with Eclipse Dirigible comply with the Dynamic Applications concept and structure.
 
@@ -16,13 +13,13 @@ The main project goal is to provide all required capabilities needed to develop 
 
 The environment itself runs directly in a browser, therefore does not require additional downloads and installations. It packs all the needed containers, which makes it a self-contained and well-integrated software bundle that can be deployed on any Java based Web server, such as Tomcat, Jetty, JBoss, etc.
 
-Prerequisite
+##Prerequisite
 
 To start operate with Eclipse Dirigible you must start from:
 
 	* Log in Dirigible Web IDE and go to Workbench perspective. Click here to enter Dirigible
 
- Using Eclipse Dirigible - Basics
+##Using Eclipse Dirigible - Basics
 
 In next points we will cover the following basic scenarios:
 

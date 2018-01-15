@@ -2,6 +2,9 @@
 
 Instructions how to create a Scripting Service.
 
+## Context
+Scripting Services are general purpose services for utilities, custom modules and extensions. Mostly used language to implement services in Eclipse Dirigible™ is JavaScript.
+
 ## Prerequisites
 - Existing **project**
 - Existing **Data Structure**

@@ -1,0 +1,18 @@
+##Dirigible - Mobile Applications
+
+Here you will learn how to create native mobile applications with Eclipse Dirigible and Tabris.js. 
+For this walkthrough, you need to download Tabris.js from Google Play or Apple Store.
+
+##Create project with Data Structure:
+
+1.	Create new Eclipse Dirigible project by clicking **New -> Project** and name it in the selected space.
+2.	Select the **Blank application** template in the New Project Wizard.
+3.	Click **Finish**.
+4.	Expand your project folder. Click on its name, select **New->Data Structure**.
+5.	Choose **Relational Database Table**. 
+6.	Click **Next**.
+7.	Click the **Add** button in the down-left corner of the popup window.
+8.	Define an ID attribute as a primary key and add all the other necessary table properties /Name, Type, Length, etc./ Click **OK** when you are done. Do this as many times as you need. 
+9.	Click **Next** when you are done.
+10.	Name your table in the down-left corner of the popup window.
+11.	Click **Finish**.

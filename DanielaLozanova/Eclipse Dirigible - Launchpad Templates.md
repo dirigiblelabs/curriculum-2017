@@ -1,12 +1,17 @@
 ##Eclipse Dirigible - Launchpad Templates
+
 Here you will learn how to create launchpad items for your Eclipse Dirigible project. For this walkthrough, you need to Launch Dirigible Web IDE.
+
 ##*Getting started:*
+
 1.	Create new Dirigible project by clicking **New -> Project**.
 2.	Name it in the selected space.
 3.	Click **Next**.
 4.	Select **Blank Application**.
 5.	Click **Finish**.
+
 ##*Create Launchpad:*
+
 1.	Go to the WebContent folder and click on it.
 2.	Select **New-> User Interface**.
 3.	Select **Launchpad**.
@@ -17,9 +22,13 @@ Here you will learn how to create launchpad items for your Eclipse Dirigible pro
 8.	Choose the target location.
 9.	Click **Finish**.
 10.	You can create as many Launchpad items as you want by repeating these steps.
+
 ##*Preview:*
+
 1.	Open the index.html in the Workspace Explorer.
+
 ##*Customize the Launchpad:*
+
 1.	Find folder **ScriptingServices** in the Workspace Explorer and click on it.
 2.	Edit the Service endpoint implementation script files.
 3.	You can change the colors of the Launchpad items by adjusting the color property in the .js file.

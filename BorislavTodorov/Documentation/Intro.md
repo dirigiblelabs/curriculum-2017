@@ -23,6 +23,7 @@ Yes,all the Eclipse Dirigible project's source code and sample applications are 
 <h5>Using Docker</h5>
 <h5>As Eclipse Plug-In</h5>
 <h5>On Cloud Foundry</h5>
+<img src="Blue_Clouds.jpg" alt="Blue Clouds">
 <h2>Tutorials</h2>
 <h4>1. <a href="https://github.com/dirigiblelabs/curriculum/blob/master/BorislavTodorov/Documentation/Creating%20a%20project.md">Creating a project.</a></h4> 
 <h4>2. <a href="https://github.com/dirigiblelabs/curriculum/blob/master/BorislavTodorov/Documentation/Creating%20a%20data%20structure.md">Creating a data structure.</a></h4>

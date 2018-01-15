@@ -1,7 +1,7 @@
 # Create a User Interface
 
 ## Context
-The User Interface (UI) is the space, where human and machines interact.
+The User Interface (UI) is the space, where human and machines interact. Eclipse Dirigible™ provides pattern-based, generated UI, as well as custom forms and reports based on the most popular AJAX frameworks.
 
 ## Prerequisites
 * Existing **project** in the Dirigible Web IDE

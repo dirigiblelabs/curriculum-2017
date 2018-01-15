@@ -5,7 +5,7 @@ Eclipse Dirigible™ is a Cloud Development Platform providing development tools
 Eclipse Dirigible provides capabilities for end-to-end development process from database modeling and management, through RESTful services authoring using various dynamic languages, to pattern-based user interface generation, role based security, external services integration, testing, debugging, operations, and monitoring. Click here to learn more: http://www.dirigible.io/features.html
 <h3>Is it free?</h3>
 Yes,all the Eclipse Dirigible project's source code and sample applications are licensed under Eclipse Public License - v 1.0 and maintained at GitHub.
-<h3>For what can Dirigible be used and by whom?</h3>
+<h2>For what can Dirigible be used and by whom?</h2>
 <h5>For Education </h5>
   <h6>You can develop student projects, test different technologies and scenarios, learn popular programming languages.</h6>
 <h5>For Developers</h5>
@@ -16,7 +16,7 @@ Yes,all the Eclipse Dirigible project's source code and sample applications are 
  <h6>- Variety of features</h6>
  <h5>For Business</h5>
  <h6>You can easily develop, document, and monitor your business applications, taking full advantage of the diverse selection of features and services offered by Eclipse Dirigible.</h6>
-<h3>Platforms</h3>
+<h2>Platforms</h2>
 <h5>As a Tryout</h5>
 <h5>On SAP HANA Cloud Platform</h5>
 <h5>On Tomcat Server</h5>

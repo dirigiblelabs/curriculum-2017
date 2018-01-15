@@ -9,13 +9,13 @@ To create a scripting service for your application, follow these simple steps.
 In order to expose a data structure in a RESTful manner, you can create a scripting service. By doing that, you will have the ability to access and manage your data with simple API calls.
 
 ## Procedure
-1. _Navigate_ to the **Workspace Explorer**.
-2. _Right-click_ on your project. A dropdown should appear.
-3. _Select_ the **New -> Scripting Service** option.
-4. In the popup window, _select_ a template from the available ones. Click **Next**.
->NOTE: You may _choose_ **JavaScript Entity Service on Table** as it is one of the most widely used.
-5. The generated **Scripting Service** must know to which table to make requests. _Choose_ a table you want and _click_ **Next**.
-6. _Choose_ a name for your scripting service and when done, _click_ **Finish**.
+1. Navigate to the **Workspace Explorer**.
+2. Right-click on your project. A dropdown should appear.
+3. Select the **New > Scripting Service** option.
+4. In the popup window, select a template from the available ones. Click **Next**.
+>NOTE: You may choose **JavaScript Entity Service on Table** as it is one of the most widely used.
+5. The generated **Scripting Service** must know to which table to make requests. Choose a table you want and click **Next**.
+6. Choose a name for your scripting service and when done, click **Finish**.
 
 ## Results
 Your new **Scripting Service** files are stored at **Project Name>ScriptingServices>Project Name** in the **Workspace Exlorer** view.

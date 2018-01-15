@@ -1,8 +1,8 @@
-##Eclipse Dirigible - GitHub Interaction
+# Eclipse Dirigible - GitHub Interaction
 
 Here you will learn how to share your Eclipse Dirigible project with a GitHub repository, how to pull and push changes from/to GitHub. For this walkthrough, you need to Sign in in your GitHub account(or Sign up, if you do not have one) and launch Dirigible Web IDE.
 
-##*Getting started:*
+## *Getting started:*
 
 1.	Enter your GitHub account.
 2.	Click **New repository**, enter name for your repository in Repository name.
@@ -15,7 +15,7 @@ Here you will learn how to share your Eclipse Dirigible project with a GitHub re
 9.	Select **Blank Application**.
 10.	Click **Finish**.
 
-##*Create a Scripting Service:*
+## *Create a Scripting Service:*
 
 1.	Click on the project name in the Workspace Explorer.
 2.	Select **New->Scripting Service**.
@@ -24,7 +24,7 @@ Here you will learn how to share your Eclipse Dirigible project with a GitHub re
 5.	Name the scripting service in the down-left corner of the popup window.
 6.	Click **Finish**.
 
-##*Share the Dirigible project with the previously created GitHub repository and back again:*
+## *Share the Dirigible project with the previously created GitHub repository and back again:*
 
 1.	Click on the project name in the Workspace Explorer.
 2.	Select **Team -> Share**.

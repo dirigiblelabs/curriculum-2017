@@ -4,7 +4,7 @@ Instructions how to create a Data Structure.
 
 ## Context
 
-Data Structure is giving oppurtunity to store your data so that it can be accessed and modified efficiently.
+Data Structure is giving oppurtunity to store your data so that it can be accessed and modified efficiently. The Data Structure is representing the domain model of the application.
 
 ## Prerequisite
 

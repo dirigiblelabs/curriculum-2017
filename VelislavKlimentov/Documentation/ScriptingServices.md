@@ -19,4 +19,4 @@ Instructions how to create a Scripting Service.
 >_lib.js file
 
 ## Navigation
-[Create a User Interface](UserInterfaces.md)
+1. [Create a User Interface](UserInterfaces.md)

@@ -1,9 +1,9 @@
-##Dirigible - Mobile Applications
+# Dirigible - Mobile Applications
 
 Here you will learn how to create native mobile applications with Eclipse Dirigible and Tabris.js. 
 For this walkthrough, you need to download Tabris.js from Google Play or Apple Store.
 
-##*Create project with Data Structure:*
+## *Create project with Data Structure:*
 
 1.	Create new Eclipse Dirigible project by clicking **New -> Project** and name it in the selected space.
 2.	Select the **Blank application** template in the New Project Wizard.
@@ -17,7 +17,7 @@ For this walkthrough, you need to download Tabris.js from Google Play or Apple S
 10.	Name your table in the down-left corner of the popup window.
 11.	Click **Finish**.
 
-##*Create Scripting Service:*
+## *Create Scripting Service:*
 1.	Expand your project folder.
 2.	Click on its name, select **New->Scripting Service**.
 3.	Choose **JavaScript Entity Service** on Table. Click **Next**.
@@ -25,7 +25,7 @@ For this walkthrough, you need to download Tabris.js from Google Play or Apple S
 5.	Name the scripting service in the down-left corner of the popup window.
 6.	Click **Finish**.
 
-##*Create Entity file:*
+## *Create Entity file:*
 1.	Find folder **ScriptingServices** in the Workspace Explorer and expand it.
 2.	Click the Entity file.
 3.	Select **Generate->User Interface** for Entity Service.
@@ -37,7 +37,7 @@ For this walkthrough, you need to download Tabris.js from Google Play or Apple S
 9.	Click **Next**.
 10.	Enter Page Title.
 11.	Click **Finish**.
-##*Creating Mobile Application:*
+## *Creating Mobile Application:*
 1.	Expand **MobileApplications** folder from the Workspace Explorer on your left.
 2.	Click on the name you gave for the entity .js file.
 3.	Find **var successMessage** and enter any message you want.
@@ -50,7 +50,7 @@ For this walkthrough, you need to download Tabris.js from Google Play or Apple S
 10.	Click **Next**.
 11.	Enter Page Title. 
 12.	Click **Finish**.
-##*Testing with the help of the Tabris.js mobile framework:*
+## *Testing with the help of the Tabris.js mobile framework:*
 1.	Find and click on package.json, in the Workspace Explorer on your left.
 2.	Click on the http link in the Preview section.
 3.	Change the package name with register in the popup Tabris.js window.

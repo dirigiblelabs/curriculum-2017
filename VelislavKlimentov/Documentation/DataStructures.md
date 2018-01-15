@@ -10,7 +10,7 @@ Data Structure is giving oppurtunity to store your data so that it can be access
 
 Create a new project:
 
-1. Navigate to the Workspace Explorer and select by a right click **-> New -> Project**. <br/>
+1. Navigate to the *Workspace Explorer* and select by a right click **-> New -> Project**. <br/>
 2. Name your project.
 3. Select a project template.
 
@@ -27,5 +27,5 @@ Create a new project:
 > Name should end with suffix .table
 
 ## Navigation
-[Create a Scripting Service](ScriptingServices.md) <br/>
-[Create a User Interface](UserInterfaces.md)
+- [Create a Scripting Service](ScriptingServices.md)
+- [Create a User Interface](UserInterfaces.md)

@@ -1,18 +1,18 @@
 # Create a Data Structure
 
-Follow these steps in order to create a simple data structure for your Dirigible application.
+Follow these steps in order to create a simple data structure for your Eclipse Dirigible application.
 
 ## Prerequisites
 
-* Have a project created in the Dirigible Web IDE.
+* Have a project created in the Eclipse Dirigible Web IDE.
 
 ## Context
 
-Every application needs some form of persistence in order to hold the data it manipulates and works with. But before we are able to create, update, delete or do anything that involves data, we must first define our data structures that will comprise our application's data model. Think of data structures as your tables in a database.
+Every application needs some form of persistence in order to hold the data it manipulates and works with. But before you are able to create, update, delete or do anything that involves data, you must first define our data structures that will comprise our application's data model. Think of data structures as your tables in a database.
 
 ## Procedure
 
-1. Navigate to the **Workspace Explorer** view in the Dirigble Web IDE where your project files reside.
+1. Navigate to the **Workspace Explorer** view in the Eclipse Dirigble Web IDE where your project files reside.
 2. Right-click on your project. A dropdown menu appears.
 3. Select **New > Data Structure**.
 4. In the newly opened dialog select a Template type. Choose **Next**.
@@ -24,11 +24,11 @@ Every application needs some form of persistence in order to hold the data it ma
 7. Add as many column definitions as you would like. Then click **Next**.
 8. Choose an appropriate file name for your data structure. After you're done choose **Finish**.
 
-  > **NOTE**: All data structure files should end with *.table* postfix. For example: *students.table*
+  > All data structure files should end with *.table* postfix. For example: *students.table*
 
 ## Results
 
-Your newly generated Data Structure files will be stored at <b>*Project Name*>DataStructures>*Project Name*</b> in the **Workspace Exlorer** view.
+Your newly generated Data Structure files will be stored at <b>*Project Name* > DataStructures > *Project Name*</b> in the **Workspace Exlorer** view.
 
 ## Next steps
 

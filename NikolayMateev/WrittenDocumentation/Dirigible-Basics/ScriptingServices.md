@@ -1,18 +1,20 @@
 # Create a Scripting Service
 
-Follow these steps in order to create a scripting service for your Dirigible application.
+Follow these steps in order to create a scripting service for your Eclipse Dirigible application.
 
 ## Prerequisites
 
-* Have a project created in the Dirigible Web IDE.
+* Have a project created in the Eclipse Dirigible Web IDE.
 * Have at least one Data Structure created.
 
 ## Context
 
+The primary language used to implement services in Eclipse Dirigible is JavaScript. You can write your algorithms in **\*.js** files.
+
 ## Procedure
 
 
-1. Navigate to the **Workspace Explorer** view in the Dirigble Web IDE where your project files reside.
+1. Navigate to the **Workspace Explorer** view in the Eclipse Dirigble Web IDE where your project files reside.
 2. Right-click on your project. A dropdown menu appears.
 3. Select **New > Scripting Service**. A new dialog appears.
 4. Select a template from the available list. Click **Next**.
@@ -25,7 +27,7 @@ Follow these steps in order to create a scripting service for your Dirigible app
 
 ## Results
 
-Your newly generated Scripting Service files will be stored at <b>*Project Name*>ScriptingServices>*Project Name*</b> in the **Workspace Exlorer** view.
+Your newly generated Scripting Service files will be stored at <b>*Project Name* > ScriptingServices > *Project Name*</b> in the **Workspace Exlorer** view.
 
 
 ## Next steps

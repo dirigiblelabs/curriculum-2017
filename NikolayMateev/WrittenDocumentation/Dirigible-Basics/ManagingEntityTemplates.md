@@ -1,10 +1,10 @@
 # Create an Entity Management User Interface
 
-Follow these steps in order to create a user interface to manage entities in your Dirigible application.
+Follow these steps in order to create a user interface to manage entities in your Eclipse Dirigible application.
 
 ## Prerequisites
 
-* Have a project created in the Dirigible Web IDE.
+* Have a project created in the Eclipse Dirigible Web IDE.
 * Have at least one Data Structure created.
 * Have at least one Scripting Service created.
 
@@ -14,7 +14,7 @@ Having data structures and scripting services is great. But there's no value in 
 
 ## Procedure
 
-1. Navigate to the **Workspace Explorer** view in the Dirigble Web IDE where your project files reside.
+1. Navigate to the **Workspace Explorer** view in the Eclipse Dirigble Web IDE where your project files reside.
 2. Go to <b>*Project Name* > Scripting Services > *Project Name*</b>.
 3. Right-click on a *.entity* file of your choice. A dropdown menu appears.
 4. Select **Generate > User Entity for Entity Service**.

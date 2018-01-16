@@ -17,7 +17,7 @@ It's always nice when an application has a clean and responsive interface. Here'
 3. Select **New > User Interface**. A new dialog appears.
 4. Select a template from the available list. Click **Next**.
 
-  > *Index Page with Main Menu, Header and Footer* is the most complete template type.
+  > **Index Page with Main Menu, Header and Footer** is the most complete template type.
 
 5. Choose an appropriate file name for your user interface. Then choose **Next**.
 6. Finally, enter a title for your page. Click **Finish**.
@@ -26,7 +26,7 @@ It's always nice when an application has a clean and responsive interface. Here'
 
 Your newly generated User Interface files are basic *.html* files, which will be stored at <b>*Project Name* > WebContent > *Project Name*</b> in the **Workspace Exlorer** view.
 
-> If you elect to choose the *Index Page with Main Menu, Header and Footer* template, you'll notice among the generated files a **main.menu** file. This file is responsible for what's displayed on the navigation bar at the top of your *index.html* page.
+> If you elect to choose the **Index Page with Main Menu, Header and Footer** template, you'll notice among the generated files a **main.menu** file. This file is responsible for what's displayed on the navigation bar at the top of your **index.html** page.
 
 ## Next steps
 

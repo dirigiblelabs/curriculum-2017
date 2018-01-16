@@ -17,10 +17,10 @@ Every application needs some form of persistence in order to hold the data it ma
 3. Select **New > Data Structure**.
 4. In the newly opened dialog select a Template type. Choose **Next**.
 
-  > What kind of template you choose depends on the situation, but in most cases what you'll need is a *Relational Database Table*.
+  > What kind of template you choose depends on the situation, but in most cases what you'll need is a **Relational Database Table**.
 
 5. It's time to define what properties your data structure will have. This is done in a SQL-style manner by defining the characteristics for each column/property of your data structure. Click **Add**. A new dialog appears.
-6. Fill out all the information regarding the column - *Name*, *Type*, *Length* and etc. In order to add this column definition click **OK**.
+6. Fill out all the information regarding the column - **Name**, **Type**, **Length** and etc. In order to add this column definition click **OK**.
 7. Add as many column definitions as you would like. Then click **Next**.
 8. Choose an appropriate file name for your data structure. After you're done choose **Finish**.
 

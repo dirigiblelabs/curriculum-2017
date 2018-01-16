@@ -4,7 +4,7 @@ Follow these steps in order to create a project in Eclipse Dirigible.
 
 ## Context
 
-To develop anything you first need to create a project where all of your files will be . With Eclipse Dirigible, this is a quick and simple process that only takes a few mouse clicks.
+To develop anything you first need to create a project where all of your files will be. With Eclipse Dirigible, this is a quick and simple process that only takes a few mouse clicks.
 
 ## Procedure
 
@@ -13,7 +13,7 @@ To develop anything you first need to create a project where all of your files w
 3. Enter a project name and then choose **Next**.
 4. Select a project template from the list. Choose **Finish**.
 
-  > There are a handful of template options, but if you want to start off from scratch select the *Blank Application* template.
+  > There are a handful of template options, but if you want to start off from scratch select the **Blank Application** template.
 
 ## Next steps
 

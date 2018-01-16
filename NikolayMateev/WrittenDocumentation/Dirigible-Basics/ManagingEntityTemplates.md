@@ -18,7 +18,7 @@ Having data structures and scripting services is great. But there's no value in 
 2. Go to <b>*Project Name* > Scripting Services > *Project Name*</b>.
 3. Right-click on a *.entity* file of your choice. A dropdown menu appears.
 4. Select **Generate > User Entity for Entity Service**.
-5. Select the *List and Manage Entity* template from the available list. Click **Next**.
+5. Select the **List and Manage Entity** template from the available list. Click **Next**.
 6. Select all the fields you would like to be able to manage through the generated user interface. Choose **Next**.
 
   > You can additionally specify what label should be used for each field and also change the widget's data type.

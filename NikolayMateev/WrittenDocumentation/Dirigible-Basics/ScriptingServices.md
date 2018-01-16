@@ -9,7 +9,7 @@ Follow these steps in order to create a scripting service for your Eclipse Dirig
 
 ## Context
 
-The primary language used to implement services in Eclipse Dirigible is JavaScript. You can write your algorithms in **\*.js** files.
+The primary language used to implement services in Eclipse Dirigible is JavaScript. You can write your algorithms in *\*.js* files.
 
 ## Procedure
 
@@ -19,7 +19,7 @@ The primary language used to implement services in Eclipse Dirigible is JavaScri
 3. Select **New > Scripting Service**. A new dialog appears.
 4. Select a template from the available list. Click **Next**.
 
-  > *JavaScript Entity Service on Table* is the most common type of scripting service you'll be creating.
+  > **JavaScript Entity Service on Table** is the most common type of scripting service you'll be creating.
 
 5. The generated scripting service has to know with which database table to communicate and make requests to. So choose from the available tables the one you want to create a scripting service for. Then click **Next**.
 6. Choose an appropriate file name for your scripting service. After you're done choose **Finish**.

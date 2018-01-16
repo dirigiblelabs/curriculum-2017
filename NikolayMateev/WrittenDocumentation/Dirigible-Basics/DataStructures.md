@@ -4,7 +4,7 @@ Follow these steps in order to create a simple data structure for your Eclipse D
 
 ## Prerequisites
 
-* Have a project created in the Eclipse Dirigible Web IDE.
+* [Have a project created in the Eclipse Dirigible Web IDE][3]
 
 ## Context
 
@@ -37,3 +37,4 @@ Your newly generated Data Structure files will be stored at <b>*Project Name* > 
 
 [1]: https://github.com/dirigiblelabs/curriculum/tree/master/NikolayMateev/WrittenDocumentation/Dirigible-Basics/ScriptingServices.md
 [2]: https://github.com/dirigiblelabs/curriculum/tree/master/NikolayMateev/WrittenDocumentation/Dirigible-Basics/UserInterfaces.md
+[3]: https://github.com/dirigiblelabs/curriculum/tree/master/NikolayMateev/WrittenDocumentation/Dirigible-Basics/ProjectCreation.md

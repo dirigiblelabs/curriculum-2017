@@ -14,7 +14,7 @@ Eclipse Dirigible provides capabilities for end-to-end development process from 
 
 In order to get started with Eclipse Dirigible you should have already:
 
-* Logged into the Eclipse Dirigible Web IDE and be in the Workbench persepective. [Click here][1] to do that.
+* Logged into the Eclipse Dirigible Web IDE and be in the Workbench persepective. [Log into Eclipse Dirigible Web IDE][1]
 
 ## Using Eclipse Dirigible - Basics
 

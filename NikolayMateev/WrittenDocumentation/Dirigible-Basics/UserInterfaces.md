@@ -4,7 +4,7 @@ Follow these steps in order to create a user interface for your Eclipse Dirigibl
 
 ## Prerequisites
 
-* Have a project created in the Eclipse Dirigible Web IDE.
+* [Have a project created in the Eclipse Dirigible Web IDE][3]
 
 ## Context
 
@@ -35,3 +35,4 @@ Your newly generated User Interface files are basic *.html* files, which will be
 
 [1]: https://github.com/dirigiblelabs/curriculum/tree/master/NikolayMateev/WrittenDocumentation/Dirigible-Basics/ManagingEntityTemplates.md
 [2]: https://github.com/dirigiblelabs/curriculum/tree/master/NikolayMateev/WrittenDocumentation/Dirigible-Basics/ApplicationDocumentation.md
+[3]: https://github.com/dirigiblelabs/curriculum/tree/master/NikolayMateev/WrittenDocumentation/Dirigible-Basics/ProjectCreation.md

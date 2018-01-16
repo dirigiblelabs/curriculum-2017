@@ -4,8 +4,8 @@ Follow these steps in order to create a scripting service for your Eclipse Dirig
 
 ## Prerequisites
 
-* Have a project created in the Eclipse Dirigible Web IDE.
-* Have at least one Data Structure created.
+* [Have a project created in the Eclipse Dirigible Web IDE][3]
+* [Have at least one Data Structure created][4]
 
 ## Context
 
@@ -37,3 +37,5 @@ Your newly generated Scripting Service files will be stored at <b>*Project Name*
 
 [1]: https://github.com/dirigiblelabs/curriculum/tree/master/NikolayMateev/WrittenDocumentation/Dirigible-Basics/UserInterfaces.md
 [2]: https://github.com/dirigiblelabs/curriculum/tree/master/NikolayMateev/WrittenDocumentation/Dirigible-Basics/ManagingEntityTemplates.md
+[3]: https://github.com/dirigiblelabs/curriculum/tree/master/NikolayMateev/WrittenDocumentation/Dirigible-Basics/ProjectCreation.md
+[4]: https://github.com/dirigiblelabs/curriculum/tree/master/NikolayMateev/WrittenDocumentation/Dirigible-Basics/DataStructures.md

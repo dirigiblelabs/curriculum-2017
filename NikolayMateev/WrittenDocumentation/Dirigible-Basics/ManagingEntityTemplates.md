@@ -4,9 +4,9 @@ Follow these steps in order to create a user interface to manage entities in you
 
 ## Prerequisites
 
-* Have a project created in the Eclipse Dirigible Web IDE.
-* Have at least one Data Structure created.
-* Have at least one Scripting Service created.
+* [Have a project created in the Eclipse Dirigible Web IDE][2]
+* [Have at least one Data Structure created][3]
+* [Have at least one Scripting Service created][4]
 
 ## Context
 
@@ -36,3 +36,6 @@ Your newly generated User Interface files are basic *.html* files, which will be
 
 
 [1]: https://github.com/dirigiblelabs/curriculum/tree/master/NikolayMateev/WrittenDocumentation/Dirigible-Basics/ApplicationDocumentation.md
+[2]: https://github.com/dirigiblelabs/curriculum/tree/master/NikolayMateev/WrittenDocumentation/Dirigible-Basics/ProjectCreation.md
+[3]: https://github.com/dirigiblelabs/curriculum/tree/master/NikolayMateev/WrittenDocumentation/Dirigible-Basics/DataStructures.md
+[4]: https://github.com/dirigiblelabs/curriculum/tree/master/NikolayMateev/WrittenDocumentation/Dirigible-Basics/ScriptingServices.md

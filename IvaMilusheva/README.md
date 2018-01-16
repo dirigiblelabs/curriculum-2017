@@ -4,8 +4,7 @@ Eclipse Dirigible provides capabilities for end-to-end development process from 
 through RESTful services authoring using various dynamic languages, to pattern-based user interface generation, 
 role based security, external services integration, testing, debugging, operations, and monitoring.
 
-
-![image|400x600](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/Images/graphic.jpg)
+<img src="https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/Images/graphic.jpg" width="400" >
 
 ## Documentation links
 

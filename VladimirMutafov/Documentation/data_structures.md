@@ -30,4 +30,4 @@ Your newly generated Data Structures can be found at **Project Name > DataStruct
 
 ## Next steps
 1. [Create a Scripting Service](scripting_service.md)
-2. [Create a User Interface](user_interface.md) 
+2. [Create a User Interface](user_interfaces.md) 

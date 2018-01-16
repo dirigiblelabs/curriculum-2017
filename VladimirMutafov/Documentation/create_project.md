@@ -20,4 +20,4 @@ You can right-click on it to rename it, publish it, and so on.
 ## Next steps
 1. [Create a Data Structure](data_structures.md)
 2. [Create a Scripting Service](scripting_service.md)
-3. [Create a User Interface](user_interface.md) 
+3. [Create a User Interface](user_interfaces.md) 

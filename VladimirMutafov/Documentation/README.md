@@ -12,4 +12,4 @@ You need to have the Dirigible IDE loaded in your web browser in order to follow
 1. [Create a Simple Dirigible Project](create_project.md)
 2. [Create a Data Structure](data_structures.md)
 3. [Create a Scripting Service](scripting_service.md)
-4. [Create a User Interface](user_interface.md)
+4. [Create a User Interface](user_interfaces.md)

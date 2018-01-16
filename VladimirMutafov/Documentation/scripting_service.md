@@ -21,5 +21,5 @@ In order to expose a data structure in a RESTful manner, you can create a script
 Your new **Scripting Service** files are stored at **Project Name>ScriptingServices>Project Name** in the **Workspace Exlorer** view.
 
 ## Next steps
-1) [Create a User Interface](user_interface.md)
+1) [Create a User Interface](user_interfaces.md)
 

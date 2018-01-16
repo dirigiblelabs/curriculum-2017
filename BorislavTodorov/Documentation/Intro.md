@@ -27,8 +27,6 @@ Yes,all the Eclipse Dirigible project's source code and sample applications are 
 <h2>Tutorials</h2>
 <h4>1. <a href="https://github.com/dirigiblelabs/curriculum/blob/master/BorislavTodorov/Documentation/Creating%20a%20project.md">Creating a project.</a></h4> 
 <h4>2. <a href="https://github.com/dirigiblelabs/curriculum/blob/master/BorislavTodorov/Documentation/Creating%20a%20data%20structure.md">Creating a data structure.</a></h4>
-
-
 <h4>3. <a href="https://github.com/dirigiblelabs/curriculum/blob/master/BorislavTodorov/Documentation/Creating%20a%20scripting%20service.md">Creating a scripting service.</a></h4>
-
+<h4>4. <a href="https://github.com/dirigiblelabs/curriculum/blob/master/BorislavTodorov/Documentation/Creating%20a%20scripting%20service.md">Creating the documentation.</a></h4>
 

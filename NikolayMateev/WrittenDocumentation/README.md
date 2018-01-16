@@ -1,9 +1,9 @@
-# Using Eclipse Dirigible™
+# Eclipse Dirigible™
 
 Eclipse Dirigible™ is a Cloud Development Platform providing development tools and runtime environment. It supports full development life-cycle of on-demand applications by leveraging in-system programming models and rapid application development techniques.
 
 <p align="center">
-  <img src="images/dirigible-logo-symbol.png" width="60%" alt="dirigible logo"/>
+  <img src="images/dirigibleDiagram.png" width="60%" alt="dirigible logo"/>
 </p>
 
 <br>

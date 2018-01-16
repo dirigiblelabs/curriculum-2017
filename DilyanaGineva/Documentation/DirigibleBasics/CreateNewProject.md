@@ -1,6 +1,6 @@
 # Create a project
 
-In order to create a *new project* in Dirigible you must take the following steps.
+In order to create a _new project_ in Dirigible you must take the following steps.
 
 ## Why do you need a project?
 
@@ -10,7 +10,7 @@ Having a project allows you to store multiple files in a single place. This is v
 
 1. Navigate to the **Workspace Explorer** view of the Dirigible Web IDE.
 2. Select **New -> Project**. A new dialog appears.
-3. *Enter a project name* and then choose **Next**.
-4. *Select a project Template* from the list. Choose **Finish**.
+3. _Enter a project name_ and then choose **Next**.
+4. _Select a project Template_ from the list. Choose **Finish**.
 
   > NOTE: There are a handful of template options, however if you want to start without one then select the *Blank Application* template.

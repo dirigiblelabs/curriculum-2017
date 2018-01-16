@@ -18,7 +18,7 @@ In order to get started with Eclipse Dirigible you must:
 
 Next we will cover the following basic scenarios:
 
-1. Create a project for your application. *See **[Create a Project][2].** *
+1. Create a project for your application. _See **[Create a Project][2].**_
 2. Create a custom Data Structure. *See **[Create a Data Structure][3].** *
 3. Create a Scripting Service for your generated Data Structure. *See **[Create a Scripting Service][4].** *
 4. Create a generic User Interface for your application entities. *See **[Create a User Interface][5].** *

@@ -10,8 +10,8 @@ Eclipse Dirigible is an open source project that provides Integrated Development
 ## Requirements
 In order to get started with Eclipse Dirigible you must:
 
-1. Log into the Dirigible Web IDE. (To do that **[Click Here][1]** )
-2. Switch to the Workbench perspective. (**Window -> Open Perspective -> Workbench**)
+1. Log into the Dirigible Web IDE. (To do that _**[Click Here][1]**_ )
+2. Switch to the Workbench perspective. (_**Window -> Open Perspective -> Workbench**_)
 
 
 ## Using Eclipse Dirigible - Basics
@@ -19,11 +19,11 @@ In order to get started with Eclipse Dirigible you must:
 Next we will cover the following basic scenarios:
 
 1. Create a project for your application. _See **[Create a Project][2].**_
-2. Create a custom Data Structure. *See **[Create a Data Structure][3].** *
-3. Create a Scripting Service for your generated Data Structure. *See **[Create a Scripting Service][4].** *
-4. Create a generic User Interface for your application entities. *See **[Create a User Interface][5].** *
-5. Create a User Interface for managing your application entities. *See **[Manage Entity Template][6].** *
-6. Document your application. *See **[Application Documentation][7].** *
+2. Create a custom Data Structure. _See **[Create a Data Structure][3].**_
+3. Create a Scripting Service for your generated Data Structure. _See **[Create a Scripting Service][4].**_
+4. Create a generic User Interface for your application entities. _See **[Create a User Interface][5].**_
+5. Create a User Interface for managing your application entities. _See **[Manage Entity Template][6].**_
+6. Document your application. _See **[Application Documentation][7].**_
 
 
 [1]: http://dirigible.eclipse.org/

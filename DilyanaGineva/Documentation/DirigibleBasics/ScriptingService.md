@@ -1,6 +1,6 @@
 # Create a Scripting Service
 
-In order to create a *scripting service* for your application in Dirigible you must take the following steps.
+In order to create a _scripting service_ for your application in Dirigible you must take the following steps.
 
 ## Why do you need a scripting service?
 
@@ -21,9 +21,9 @@ In order to create a scripting service in Eclipse Dirigible you must:
 1. Navigate to the **Workspace Explorer** view in the Dirigible Web IDE where your project is.
 2. **Right-click** on your project. A dropdown menu appears.
 3. Select **New -> Scripting Service**. A new dialog appears.
-4. Select one of the *Template types* from the list. Choose **Next**.
+4. Select one of the _Template types_ from the list. Choose **Next**.
 
-  > NOTE: The scripting service you create depends on the situation, however in most cases what you will need is a *JavaScript Entity Service on Table*.
+  > NOTE: The scripting service you create depends on the situation, however in most cases what you will need is a _JavaScript Entity Service on Table_.
 
 5. Choose a table from the available ones that you want to create a scripting service for. Then click **Next**.
 6.  Write a file name for your scripting service. After you are done click **Finish**.

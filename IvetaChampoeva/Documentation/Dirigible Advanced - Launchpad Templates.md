@@ -1,7 +1,7 @@
 # How to Create a Launchpad in Dirigible
 ## Prerequisites
 * Have a project created in Dirigible. For reference you may read [How to Create a Project in Dirigible](https://github.com/dirigiblelabs/curriculum/blob/master/IvetaChampoeva/Documentation/Basic%20Steps/Dirigible%20Basics%20-%20Create%20Project.md)
-* Understand how to create different types of UIs. For reference you may read [How to Create a User Interface in Dirigible](https://github.com/dirigiblelabs/curriculum/blob/master/IvetaChampoeva/Documentation/Basic%20Steps/Dirigible%20Basics%20-%20Create%20User%20Interface.md)
+* Understand how to create different types of UIs in Dirigible. For reference you may read [How to Create a User Interface in Dirigible](https://github.com/dirigiblelabs/curriculum/blob/master/IvetaChampoeva/Documentation/Basic%20Steps/Dirigible%20Basics%20-%20Create%20User%20Interface.md)
 ## Overview
 After executing the following steps you will have a sample Launchpad with Items generated for your project.
 ## Steps

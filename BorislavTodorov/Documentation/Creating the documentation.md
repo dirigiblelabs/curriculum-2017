@@ -1,6 +1,6 @@
 <h1>Creating the documentation.</h1>
 <h5>1. You need to have a project in order to proceed. IF you don't know how to create one, please visit: <a href="https://github.com/dirigiblelabs/curriculum/blob/master/BorislavTodorov/Documentation/Creating%20a%20project.md">Creating a project.</a></h5>
-<h5>2. In the **Workspace Explorer**, on the left side of your project there will be an arrow. Click on it.</h5>
+<h5>2. In the 'Workspace Explorer', on the left side of your project there will be an arrow. Click on it.</h5>
 <h5>3. Then you will see a dropdown menu. Right-click on 'WikiContent'.</h5>
 <h5>4. Select New->Wiki Page.</h5>
 <h5>5. Select 'Markdown Notation Guide'. Click 'Next' when you are ready.</h5>

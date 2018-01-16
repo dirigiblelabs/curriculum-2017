@@ -10,6 +10,7 @@ Now you will learn how to create Scripting Services.
 3.	Choose a table and click **Next** .
 4.	Fill in the **File Name** field to give your service a name and click **Finish**.
 
+## Results
 
 Your Scripting Service is added to your table.
 

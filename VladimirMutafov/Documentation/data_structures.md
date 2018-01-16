@@ -15,15 +15,15 @@ You can think of Dirigible's Data Structures as tables in a relational database,
 2. Select the **New > Data Structure** option.
 3. In the popup window, choose **Relational Database Template** and click **Next**.
 4. In the newly opened form, you can define what properties your data structure will have. Click **Add**. A new dialog should appear.
-5. Provide information about the column - **Name**, **Length**, etc. To add this column definition, click **Ok**.
+5. Provide information about the column - **Name**, **Length** and so on. To add this column definition, click **Ok**.
 6. You may add more columns and when you are finished, click **Next**.
 7. Choose a name for your data structure. Choose **Finnish**.
 
->NOTE: Every data structure you create should end with a .table postfix. For example, cars.table
+>NOTE: Every data structure you create should end with a .table postfix. For example, cars.table.
 
 ### Publishing your data structure
-1. Navigate to the **Workspace Explorer**
-2. Right-click on your project and select **Publishing**
+1. Navigate to the **Workspace Explorer**.
+2. Right-click on your project and select **Publishing**.
 
 ## Results
 Your newly generated Data Structures can be found at **Project Name > DataStructures > Project Name** in the **Workspace Exlorer** view.

@@ -7,7 +7,7 @@ Eclipse Dirigible™ is a Cloud Development Platform providing development tools
 ## Dirigible Web IDE Basics Guide
 
 ### Prerequisites
-You must have the Dirigible IDE loaded in your web browser in order to follow the steps in this guide.
+You need to have the Dirigible IDE loaded in your web browser in order to follow the steps in this guide.
 
 ### Guide Steps
 1. [Create a simple Dirigible Project](create_project.md)

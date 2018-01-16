@@ -4,8 +4,8 @@ To create a simple project, follow these steps.
 ## Context
 The first step in the process of developing an application is to create a project. In the [Dirigible Web IDE](http://www.dirigible.io/) this is fairly simple.
 
-## Procedures
-1. Open the Dirigible Web IDE
+## Procedure
+1. Open the Dirigible Web IDE.
 2. Navigate_ to the **Workspace Explorer**.
 3. Right-click on the blank space. A dropdown should appear.
 4. Select the **New -> Project** option.
@@ -15,7 +15,7 @@ The first step in the process of developing an application is to create a projec
 
 ## Results
 Your Workspace should now display your newly created project.
-You can right-click on it to rename it, publish it, etc.
+You can right-click on it to rename it, publish it, and so on.
 
 ## Next steps
 1. [Create a Data Structure](data_structures.md)

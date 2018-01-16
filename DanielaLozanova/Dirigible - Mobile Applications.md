@@ -25,7 +25,7 @@ For this walkthrough, you need to download Tabris.js from Google Play or Apple S
 5.	Name the scripting service in the down-left corner of the popup window.
 6.	Click **Finish**.
 
-## *Create Entity file*
+## *Create Entity File*
 1.	Find folder **ScriptingServices** in the Workspace Explorer and expand it.
 2.	Click the Entity file.
 3.	Select **Generate >User Interface** for Entity Service.

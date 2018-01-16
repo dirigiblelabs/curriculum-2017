@@ -2,7 +2,7 @@
 
 Here you will learn how to create launchpad items for your Eclipse Dirigible project. For this walkthrough, you need to Launch Dirigible Web IDE.
 
-## *Getting started:*
+## *Get Started:*
 
 1.	Create new Dirigible project by clicking **New -> Project**.
 2.	Name it in the selected space.

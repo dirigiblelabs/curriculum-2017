@@ -6,7 +6,7 @@
 After executing the following steps you will have a sample User Interface generated for your project.
 ## Steps to create a UI representing your database table
 1. Go to your **ScrptingService**, expand it and find \*.entity file
-2. Right click on the file **Generate -> User Interface for Entity Service**
+2. Right click on the file **Generate > User Interface for Entity Service**
 3. Select the wanted template for the UI
 4. Choose which columns you want to be shown
 5. Input a name for the html file that will be generated

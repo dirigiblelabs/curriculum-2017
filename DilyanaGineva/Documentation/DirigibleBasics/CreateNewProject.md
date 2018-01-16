@@ -13,4 +13,4 @@ Having a project allows you to store multiple files in a single place. This is v
 3. _Enter a project name_ and then choose **Next**.
 4. _Select a project Template_ from the list. Choose **Finish**.
 
-  > NOTE: There are a handful of template options, however if you want to start without one then select the *Blank Application* template.
+  > NOTE: There are a handful of template options, however if you want to start without one then select the _Blank Application_ template.

@@ -1,6 +1,6 @@
 # Create an Entity Management User Interface
 
-In order to create a *user interface to manage entities* for your application in Dirigible you must take the following steps.
+In order to create a _user interface to manage entities_ for your application in Dirigible you must take the following steps.
 
 ## Why do you need a user interface to manage entities?
 
@@ -16,9 +16,9 @@ In order to let the user manipulate data in your database, you will need a user 
 
 1.  Navigate to the **Workspace Explorer** view in the Dirigible Web IDE where your project is.
 2. Go to **Project Name -> Scripting Services -> Project Name**.
-3. **Right-click** on a *.entity* file of your choice. A dropdown menu appears.
+3. **Right-click** on a _.entity_ file of your choice. A dropdown menu appears.
 4. Select **Generate -> User Entity for Entity Service**.
-5. Select the *List and Manage Entity*  template from *Template types* from the list. Click **Next**.
+5. Select the _List and Manage Entity_  template from _Template types_ from the list. Click **Next**.
 6. Select every field you would like to be able to manage through the generated user interface. Click **Next**.
 
   > NOTE: You can also specify what label can be used for every field and change the widget's data type.
@@ -28,4 +28,4 @@ In order to let the user manipulate data in your database, you will need a user 
 
 ## Where to find your entity management user interface?
 
-Generated User Interface files are basic *.html* files, which will be at **Project Name -> WebContent -> Project Name** in the **Workspace Explorer** view.
+Generated User Interface files are basic _.html_ files, which will be at **Project Name -> WebContent -> Project Name** in the **Workspace Explorer** view.

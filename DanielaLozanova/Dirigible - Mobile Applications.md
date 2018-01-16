@@ -1,4 +1,4 @@
-# Dirigible - Mobile Applications
+# Create Mobile Applications
 
 Here you will learn how to create native mobile applications with Eclipse Dirigible and Tabris.js. 
 For this walkthrough, you need to download Tabris.js from Google Play or Apple Store.

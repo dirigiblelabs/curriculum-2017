@@ -12,8 +12,8 @@
 <h6>&nbsp;&nbsp;&nbsp;7.4 Whether the column is NULL.</h6>
 <h6>&nbsp;&nbsp;&nbsp;7.5 Whether it is a primary key or not.</h6>
 <h6>&nbsp;&nbsp;&nbsp;7.6 Its default Values. Click 'OK' afterwards.</h6>
-<h5>&nbsp;&nbsp;&nbsp;8. After you are done adding columns click on 'Next'.</h5>
-<h5>&nbsp;&nbsp;&nbsp;9. You will be prompted to add a 'File Name', which will be the name of this table.</h5>
+<h5>8. After you are done adding columns click on 'Next'.</h5>
+<h5>9. You will be prompted to add a 'File Name', which will be the name of this table.</h5>
 <h5>10. Click on 'Finish' after you are done.</h5>
 
 <h5>Warning:Table Model is a JSON formatted *.table descriptor. It represents the layout of the database table, which will be created during the activation process.</h5>

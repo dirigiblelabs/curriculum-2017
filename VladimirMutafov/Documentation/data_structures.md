@@ -1,4 +1,4 @@
-## Create a data structure
+## Create a Data Structure
 To create a data structure for your application, follow these simple steps.
 
 ## Prerequisites
@@ -10,7 +10,7 @@ You can think of Dirigible's Data Structures as tables in a relational database,
 
 ## Procedure
 
-### Creating a data structure
+### Creating a Data Structure
 1. Right-click on your project. A dropdown should appear.
 2. Select the **New > Data Structure** option.
 3. In the popup window, choose **Relational Database Template** and click **Next**.

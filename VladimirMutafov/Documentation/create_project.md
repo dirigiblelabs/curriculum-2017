@@ -1,4 +1,4 @@
-# Create a simple project
+# Create a Simple Project
 To create a simple project, follow these steps.
 
 ## Context

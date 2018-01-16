@@ -1,6 +1,6 @@
 <h1>Creating a data structure</h1>
 <h5>1. Open Eclipse Dirigible.</h5>
-<h5>2. In the **Workspace Explorer**, select with the right button of your mouse New->Project.</h5>
+<h5>2. In the 'Workspace Explorer', select with the right button of your mouse New->Project.</h5>
 <h5>3. Enter the name of your project. Press 'Next'.</h5>
 <h5>4. Select 'Blank application' and then 'Finish'.</h5>
 <h5>5. Right-click on your project and select New->Data Structure.</h5>

@@ -10,7 +10,7 @@ Here you will learn how to create launchpad items for your Eclipse Dirigible pro
 4.	Select **Blank Application**.
 5.	Click **Finish**.
 
-## *Create Launchpad:*
+## *Create Launchpad*
 
 1.	Go to the WebContent folder and click on it.
 2.	Select **New > User Interface**.
@@ -27,7 +27,7 @@ Here you will learn how to create launchpad items for your Eclipse Dirigible pro
 
 1.	Open the index.html in the Workspace Explorer.
 
-## *Customize the Launchpad:*
+## *Customize the Launchpad*
 
 1.	Find folder **ScriptingServices** in the Workspace Explorer and click on it.
 2.	Edit the Service endpoint implementation script files.

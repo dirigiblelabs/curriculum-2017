@@ -8,7 +8,7 @@ Target applications built with Dirigible are atomic yet self-contained cloud bas
 
 
 
-![img](https://github.com/dirigiblelabs/curriculum/blob/master/PerihanAsanova/Dirigible_Pros_Cons.png)
+![img](https://github.com/dirigiblelabs/curriculum/tree/master/PerihanAsanova/Dirigible_Pros_Cons.png)
 
 
 

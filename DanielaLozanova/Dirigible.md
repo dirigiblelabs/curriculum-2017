@@ -6,8 +6,8 @@ Eclipse Dirigible™ is a cloud development platform providing development tools
 
 
 
-[Dirigible - Mobile Applications](https://github.com/dirigiblelabs/curriculum/blob/master/DanielaLozanova/Dirigible%20-%20Mobile%20Applications.md)
+[Mobile Applications](https://github.com/dirigiblelabs/curriculum/blob/master/DanielaLozanova/Dirigible%20-%20Mobile%20Applications.md)
 
-[Eclipse Dirigible - Launchpad Templates](https://github.com/dirigiblelabs/curriculum/blob/master/DanielaLozanova/Eclipse%20Dirigible%20-%20Launchpad%20Templates.md)
+[Launchpad Templates](https://github.com/dirigiblelabs/curriculum/blob/master/DanielaLozanova/Eclipse%20Dirigible%20-%20Launchpad%20Templates.md)
 
-[Eclipse Dirigible - GitHub Interaction](https://github.com/dirigiblelabs/curriculum/blob/master/DanielaLozanova/Eclipse%20Dirigible%20-%20GitHub%20Interaction.md)
+[GitHub Interaction](https://github.com/dirigiblelabs/curriculum/blob/master/DanielaLozanova/Eclipse%20Dirigible%20-%20GitHub%20Interaction.md)

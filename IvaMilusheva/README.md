@@ -53,9 +53,9 @@ Provides an integration with Tabris.js mobile framework that allows you to devel
 
 ## Documentation links
 
-**[Create Launchpad Templates](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/LaunchpadTemplates.md)**
+**[Create Launchpad Templates](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/CreateLaunchpadTemplates.md)**
 
-**[Create Markers for Entities](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/MarkersForEntities.md)**
+**[Create Markers for Entities](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/CreateMarkersForEntities.md)**
 
 **[Manage Entity Template](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/ManageEntityTemplate.md)**
 

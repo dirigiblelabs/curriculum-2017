@@ -11,7 +11,7 @@
 
 #### Enjoy learning!
 
-### [Go back to first page][7]
+[Go back to first page][7]
 
 
 
@@ -22,6 +22,6 @@
 [4]:https://github.com/dirigiblelabs/curriculum/blob/master/PerihanAsanova/UIEntity.md
 [5]:https://github.com/dirigiblelabs/curriculum/blob/master/PerihanAsanova/UIManager.md
 [6]:https://github.com/dirigiblelabs/curriculum/blob/master/PerihanAsanova/Doc.md
-[7]::https://github.com/dirigiblelabs/curriculum/blob/master/PerihanAsanova/Documentation.md
+[7]::https://github.com/dirigiblelabs/curriculum/blob/master/PerihanAsanova/README.md
 
 

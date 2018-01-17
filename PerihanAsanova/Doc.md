@@ -20,4 +20,4 @@ You have your first mobile application with Eclipse Dirigible.
 
 [Go back to first page][1]
 
-[1]:https://github.com/dirigiblelabs/curriculum/blob/master/PerihanAsanova/Documentation.md
+[1]:https://github.com/dirigiblelabs/curriculum/blob/master/PerihanAsanova/README.md

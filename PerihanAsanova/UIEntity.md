@@ -27,7 +27,7 @@ You can find your User Interface files here: <br>
 
 1. Create a Project for your Application - <i>done</i>
 2. Create a Data Structure -  <i>done</i>
-3. [Create a Scripting Service -  <i>done</i>
+3. Create a Scripting Service -  <i>done</i>
 4. Generate User Interface for Entity Service -  Mobile Create Entities - <i>done</i>
 5. [Generate User Interface for Entity Service -  Mobile List and Manager Entities][5]
 6. [Create a Documenatation][6]

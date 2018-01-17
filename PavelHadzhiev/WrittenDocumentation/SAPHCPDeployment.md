@@ -1,16 +1,16 @@
 # Deploying Eclipse Dirigible™ on SAP Cloud Platform Cockpit
 
-In this tutorial you will learn how to start developing with Eclipse Dirigble, deployed on the SAP Cloud Platform.
+In this tutorial you will learn how to start developing with Eclipse Dirigible, deployed on the SAP Cloud Platform.
 
-1.[Deploy it.](#deploying-eclipse-dirigible)
-2.[Configure it.](#configuring-eclipse-dirigble)
-3.[Start using it.](#starting-eclipse-dirigble)
+1. [Deploy it.](#deploying-eclipse-dirigible)
+2. [Configure it.](#configuring-eclipse-dirigible)
+3. [Start it.](#starting-eclipse-dirigible)
 
 ## Prerequisites
 
 - You must have an account in the SAP Cloud Platform. To create a free account go to https://account.hanatrial.ondemand.com/ and click *Register*.
 
-## Deploying Eclipse Dirigble
+## Deploying Eclipse Dirigible
 
 1. Download the latest release from the [Dirigible][1] website.
 2. Go to the [SAP HANA Cloud Platform Cockpit][2] and sign into your account.
@@ -22,7 +22,7 @@ In this tutorial you will learn how to start developing with Eclipse Dirigble, d
 8. Click *Deploy* and wait for the deployment process to finish.
 9. Click *Start* and wait for the application to start.
 
-## Configuring Eclipse Dirigble
+## Configuring Eclipse Dirigible
 
 After [deploying](#deploying-eclipse-dirigible) the Dirigible application, you need to complete these configuration steps.
 
@@ -32,9 +32,9 @@ After [deploying](#deploying-eclipse-dirigible) the Dirigible application, you n
 4. Enter your account ID. To see your account ID, click on the profile icon in the top right corner.
 5. Repeat steps 3. and 4. for the *Developer* role.
 
-## Starting Eclipse Dirigble
+## Starting Eclipse Dirigible
 
-Once you have [deployed](#deploying-eclipse-dirigible) and [configured](#configuring-eclipse-dirigble) the Dirigible application you can start developing with it by following these steps.
+Once you have [deployed](#deploying-eclipse-dirigible) and [configured](#configuring-eclipse-dirigible) the Dirigible application you can start developing with it by following these steps.
 
 1. In your free developer account, go to Applications -> Java Applications and click on the Dirigible application.
 2. Click on the link under Application URLs.

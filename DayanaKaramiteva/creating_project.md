@@ -2,7 +2,7 @@
 
 #### With Dirigible this is a quick and simple process that allows you to develop that after creation allows you to develop anything you need.
 
-##Procedure:
+## Procedure:
 
 1.	Go to Dirigible Home Page. To do this – [Click here] (http://www.dirigible.io/index.html#home)
 

@@ -1,6 +1,8 @@
-# Create Makers for Entities
+# Create Makers For Entities
 
-## Create project
+In this tutorial, you will learn how to create map markers for entity in Eclipse Dirigible.
+
+## Create Project
 
 1. Create new project with the option *New > Project* in *Workspace Explorer*.
 
@@ -56,7 +58,7 @@
 
 5. Locate your entity in the scripting service folder.
 
-## Generate User Interfaces for Entity Services
+## Generate User Interfaces For Entity Services
 
 1. Right click *Generate > User Interface for Entity Service*.
 

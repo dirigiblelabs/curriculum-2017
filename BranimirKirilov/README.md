@@ -5,14 +5,14 @@ Eclipse Dirigible™ is a Cloud Development Platform providing development tools
 
 ![Infographics](Documentation/Images/dirigible.png)
 
-### Dirigible - Basics: 
+### First steps with Dirigible: 
 
-#### [1.Creating a project](Documentation/DirigibleBasics/1.CreatingProjects.md)
+#### [1. Creating a project](Documentation/DirigibleBasics/1.CreatingProjects.md)
 
-#### [2.Creating a data structure](Documentation/DirigibleBasics/2.DataStructures.md)
+#### [2. Creating a data structure](Documentation/DirigibleBasics/2.DataStructures.md)
 
-#### [3.Creating a scripting service](Documentation/DirigibleBasics/3.ScriptingServices.md)
+#### [3. Creating a scripting service](Documentation/DirigibleBasics/3.ScriptingServices.md)
 
-#### [4.Creating a user interface for entity](Documentation/DirigibleBasics/4.UserInterfaces.md)
+#### [4. Creating a user interface](Documentation/DirigibleBasics/4.UserInterfaces.md)
 
-#### [5.Managing entity template](Documentation/DirigibleBasics/5.ManageEntityTemplate.md)
+#### [5. Managing entity templates](Documentation/DirigibleBasics/5.ManageEntityTemplate.md)

@@ -15,5 +15,5 @@
 10. Give a name to your page title.
 11. Click <b>Finish</b>.
 
-##Finish! 
+## Finish! 
 You have your first mobile application with Eclipse Dirigible. 

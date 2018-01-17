@@ -1,29 +1,31 @@
 # Manage Entity Template
 
-1. Locate your entity in the *ScriptingServices* folder
+In this tutorial, you will learn how to generate the user interface of your project by using the Manage Entity template in Eclipse Dirigible.
 
-2. Right click and *Generate -> User Interface for Entity Service*
+1. Locate your entity in the *ScriptingServices* folder.
 
-3. Choose *List and Manage Entity* and click *Next*
+2. Right click and *Generate > User Interface for Entity Service*.
 
-4. Select all available fields 
+3. Choose *List and Manage Entity* and click *Next*.
 
-5. Use the date widget option for tthe birth date field
+4. Select all available fields.
 
-6. Enter new labels for the available fields and click *Next*
+5. Use the date widget option for tthe birth date field.
 
-  - *these labels will appear as part of your web page UI*
+6. Enter new labels for the available fields and click *Next*.
 
-7. Enter name of the file(*Example: Students_manage*) and choose *Next*
+  - *These labels will appear as part of your web page UI*.
 
-8. Enter page title(*Example: Manage Students*) and click *Finish*
+7. Enter name of the file(*Example: Students_manage*) and choose *Next*.
 
-9. Double click the preview tab to check the updated UI of the web page
+8. Enter page title(*Example: Manage Students*) and click *Finish*.
 
-  - *At this place you can edit each field of the corresponding row*
+9. Double click the preview tab to check the updated UI of the web page.
+
+  - *At this place you can edit each field of the corresponding row*.
   
-  *Example: Edit -> first name, last name, grade etc. Don't forget to save the changes.*
+  *Example: Edit > first name, last name, grade etc. Don't forget to save the changes.*
   
-  *Example: You also can delete rows. If you choose this option, don't forget to confirm the request in the pop-up window*
+  *Example: You also can delete rows. If you choose this option, don't forget to confirm the request in the pop-up window*.
   
 **You can also watch the video tutorial [here](https://www.youtube.com/watch?v=KEWZCh1HKec&index=4&list=PLNKd01MEkVeKf74MdK5cUzgQKiiTyarkG).**

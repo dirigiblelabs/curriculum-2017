@@ -5,7 +5,7 @@ Eclipse Dirigible™ is a Cloud Development Platform providing development tools
 
 ![Infographics](Documentation/Images/dirigible.png)
 
-## First steps with Dirigible: 
+## First Steps With Dirigible: 
 
 ### [1. Creating a project](Documentation/DirigibleBasics/1.CreatingProjects.md)
 

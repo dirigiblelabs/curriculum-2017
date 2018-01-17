@@ -1,6 +1,6 @@
 # Eclipse Dirigible™
 
-ECLIPSE DIRIGIBLE™ IS A CLOUD DEVELOPMENT PLATFORM PROVIDING DEVELOPMENT TOOLS AND RUNTIME ENVIRONMENT. IT SUPPORTS FULL DEVELOPMENT LIFE-CYCLE OF ON-DEMAND APPLICATIONS BY LEVERAGING IN-SYSTEM PROGRAMMING MODELS AND RAPID APPLICATION DEVELOPMENT TECHNIQUES.
+Eclipse Dirigible™ is a cloud development platform providing development tools and runtime environment. It supports full development life-cycle of on-demand applications by leveraging in-system programming models and rapid application development techniques.
 
 ![Logo](Presentation1_002.png)
 

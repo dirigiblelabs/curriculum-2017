@@ -2,9 +2,9 @@
 
 In this tutorial you will learn how to start developing with Eclipse Dirigble, deployed on the SAP Cloud Platform.
 
-1.[Deploy it.](#Deploying Eclipse Dirigible)
-2.[Configure it.](#Configuring Eclipse Dirigble)
-3.[Start using it.](#Starting Eclipse Dirigble)
+1.[Deploy it.](#deploying-eclipse-dirigible)
+2.[Configure it.](#configuring-eclipse-dirigble)
+3.[Start using it.](#starting-eclipse-dirigble)
 
 ## Prerequisites
 
@@ -24,7 +24,7 @@ In this tutorial you will learn how to start developing with Eclipse Dirigble, d
 
 ## Configuring Eclipse Dirigble
 
-After [deploying](#Deploying Eclipse Dirigible) the Dirigible application, you need to complete these configuration steps.
+After [deploying](#deploying-eclipse-dirigible) the Dirigible application, you need to complete these configuration steps.
 
 1. In your free developer account, go to *Applications -> Java Applications* and click on the Dirigible application.
 2. Go to *Security -> Roles*.
@@ -34,7 +34,7 @@ After [deploying](#Deploying Eclipse Dirigible) the Dirigible application, you n
 
 ## Starting Eclipse Dirigble
 
-Once you have [deployed](#Deploying Eclipse Dirigible) and [configured](#Configuring Eclipse Dirigble) the Dirigible application you can start developing with it by following these steps.
+Once you have [deployed](#deploying-eclipse-dirigible) and [configured](#configuring-eclipse-dirigble) the Dirigible application you can start developing with it by following these steps.
 
 1. In your free developer account, go to Applications -> Java Applications and click on the Dirigible application.
 2. Click on the link under Application URLs.

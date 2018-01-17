@@ -1,5 +1,6 @@
 # Create Launchpad Templates
 
+In this tutorial, you will learn how to create launchpad items for your Eclipse Dirigible project.
 *Note: the **target viewers** are developers so there is no need of screenshots*.
 
 ## Create Application
@@ -33,7 +34,7 @@ page title and item name(*Example: Subjects, Subjects.html*).
 
 6. Open *index.html* and at the preview you can notice your new page(s) and item(s) created.
 
-## Edit Items colors
+## Edit Items Colors
 
 1. Go in *ScriptingServices > University > Extension > Students.js*.
 

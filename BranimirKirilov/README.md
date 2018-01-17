@@ -11,7 +11,7 @@ _Eclipse Dirigible™ is a Cloud Development Platform providing development tool
 
     This will help you create your first project
 
-#### [2.Creating a data structure](Documentation/DirigibleBasics/2.DataStructure.md)
+#### [2.Creating a data structure](Documentation/DirigibleBasics/2.DataStructures.md)
 
     This will help you create your first data structure
 

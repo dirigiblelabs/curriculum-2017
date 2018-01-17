@@ -7,18 +7,22 @@ _Eclipse Dirigible™ is a Cloud Development Platform providing development tool
 
 ### Dirigible - Basics: 
 
-#### [1.Creating a Project](Documentation/DirigibleBasics/1.CreatingProjects.md)
+#### [1.Creating a project](Documentation/DirigibleBasics/1.CreatingProjects.md)
 
-    This will help you create your first project and a data structure
+    This will help you create your first project
 
-#### [2.Creating a scripting service](Documentation/DirigibleBasics/2.ScriptingServices.md)
+#### [2.Creating a data structure](Documentation/DirigibleBasics/2.DataStructure.md)
+
+    This will help you create your first data structure
+
+#### [3.Creating a scripting service](Documentation/DirigibleBasics/3.ScriptingServices.md)
 
     This will help you create your first scripting service
 
-#### [3.Creating a User Interface for entity](Documentation/DirigibleBasics/3.UserInterfaces.md)
+#### [4.Creating a user interface for entity](Documentation/DirigibleBasics/4.UserInterfaces.md)
 
     This will help you create your first user interface
 
-#### [4.Managing entity template](Documentation/DirigibleBasics/4.ManageEntityTemplate.md)
+#### [5.Managing entity template](Documentation/DirigibleBasics/5.ManageEntityTemplate.md)
 
     This will help you manage entity template

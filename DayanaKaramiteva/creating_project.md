@@ -4,7 +4,7 @@
 
 ## Procedure:
 
-1.	Go to Dirigible Home Page. To do this – [Click here] (http://www.dirigible.io/index.html#home)
+1.	Go to Dirigible Home Page. To do this – [Click here](http://www.dirigible.io/index.html#home)
 
 2.	Click on the button *“Try out”*.                                   
 

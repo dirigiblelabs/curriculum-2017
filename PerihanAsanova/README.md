@@ -8,7 +8,7 @@ Target applications built with Dirigible are atomic yet self-contained cloud bas
 
 
 
-![img](https://github.com/dirigiblelabs/curriculum/blob/master/PerihanAsanova/Dirigible_Pros_Cons.png)
+![img][0]
 
 
 
@@ -38,7 +38,7 @@ You can easily develop, document, and monitor your business applications, taking
 It is easy to create a mobile application using Eclipse Dirigible. <br>
 Click [here][1] to see all steps to create a mobile application.
 
-
+[0]:https://github.com/dirigiblelabs/curriculum/blob/master/PerihanAsanova/Dirigible_Pros_Cons.png
 [1]:https://github.com/dirigiblelabs/curriculum/blob/master/PerihanAsanova/MobileApplication.md
 
 

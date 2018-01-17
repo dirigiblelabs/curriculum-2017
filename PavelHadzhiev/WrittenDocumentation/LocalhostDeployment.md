@@ -2,7 +2,7 @@
 
 In this tutorial you will learn how to deploy Eclipse Dirigible locally. For the purpose you will set up a Tomcat server.
 
-## Setting up Tomcat 8
+## Setting Up Tomcat 8
 
 1. Download and install [Tomcat 8][1]. There are no specific steps required during installation.
 2. Download the latest release from the [Dirigible][2] website.

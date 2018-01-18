@@ -1,5 +1,7 @@
 # Create a new Data Structure
 Now you will learn how to create and manage a Data Structure.
+## Overview
+In the context of a cloud toolkit, the term Data Structures refers to the domain model of an application. The actual entities in a domain model directly correspond to the underlying database entities, that is, tables and views. There is no additional abstract layer between the code of your application and the actual model in the target storage.
 ## Prerequisites
 
  - Log in Eclipse Drigible IDE:

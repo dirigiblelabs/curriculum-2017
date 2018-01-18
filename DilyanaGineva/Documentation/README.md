@@ -4,7 +4,7 @@ Eclipse Dirigible ™ is a Cloud Development Platform providing development tool
 
 
 <p align="center">
-  <img src="InfoGraphic.png" width="60%"/>
+  <img src="InfoGraphic.png"/>
 </p>
 
 <br>

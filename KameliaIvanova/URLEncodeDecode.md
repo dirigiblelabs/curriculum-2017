@@ -26,7 +26,12 @@ Status: alpha
     response.close();
 
 ## **Functions**
-![functions](http://prntscr.com/i251zf)
+----------------------------------------------------------------------------------------
+decode(input) - Decode an input string from application/x-www-form-urlencoded format. 
+encode(input) - Encode an input string to application/x-www-form-urlencoded format.	
+escape(input) - Escape an input string to comply to URI RFC 3986.	
+-----------------------------------------------------------------------------------------
+All of the above functions returns string type.
 
 ### **Previous**
 [Dirigible](Dirigible.md)

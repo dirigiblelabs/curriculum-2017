@@ -45,8 +45,8 @@ Depending on the target cloud platform, Dirigible can be integrated to use the s
 ![architecture](http://www.dirigible.io/help/images/architecture.png)
 
 ---------------------------------------------------------------------------
-### ** See how to create new project** 
+### **See how to create new project** 
 To see how to create a new project you can follow the steps in [this tutorial](CreatingAProject.md)
 
-### ** See URL engocoding/decoding**
+### **See URL engocoding/decoding**
 URL object is used to encode/decode text. Follow [this link](URLEncodeDecode.md) to see how to use it.

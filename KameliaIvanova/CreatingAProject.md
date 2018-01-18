@@ -8,7 +8,7 @@ Now you are ready to create a new project.
 4. Click on the "+" sign to create a new project and name it.
 
 ## **Result**
-Now you will have project in your workspace and you can add files to it.
+Now you have project in your workspace and you can add files to it.
 
 ---------------------------------------------------------------------------
 

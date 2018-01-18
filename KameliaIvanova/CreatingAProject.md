@@ -10,6 +10,7 @@ Now you are ready to create a new project.
 ## **Result**
 Now you will have project in your workspace and you can add files to it.
 
+---------------------------------------------------------------------------
 ### **Previous**
 [Dirigible](Dirigible.md)
 

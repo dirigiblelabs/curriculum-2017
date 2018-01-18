@@ -17,7 +17,7 @@ Eclipse Dirigible is an open source project that provides Integrated Development
 ## Requirements
 
 1. Log into the Dirigible Web IDE. (To do that _**[Click Here][1]**_ )
-2. Switch to the Workbench perspective. (_**Window -> Open Perspective -> Workbench**_)
+2. Switch to the Workbench perspective. (_**Window > Open Perspective > Workbench**_)
 
 
 ## Using Eclipse Dirigible - Basics

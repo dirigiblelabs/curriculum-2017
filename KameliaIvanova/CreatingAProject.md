@@ -13,5 +13,5 @@ Now you will have project in your workspace and you can add files to it.
 ### **Previous**
 [Dirigible](Dirigible.md)
 
-### **URL**
+### **URL encoding/decoding**
 URL object is used to encode/decode text. Follow [this link](URLEncodeDecode.md) to see how to use it.

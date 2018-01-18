@@ -12,7 +12,7 @@ Now you will have project in your workspace and you can add files to it.
 
 ---------------------------------------------------------------------------
 
-### **Go to Previous**
+### **Previous**
 [Dirigible](Dirigible.md)
 
 ### **Go to URL encoding/decoding**

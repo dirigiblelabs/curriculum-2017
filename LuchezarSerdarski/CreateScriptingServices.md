@@ -1,5 +1,7 @@
 # Create Scripting Services
 Now you will learn how to create Scripting Services.
+## Overview
+Scripting services are used to represent processes and activities that manage the data. Primary language used to implement services in Eclipse Dirigible is JavaScript.
 ## Prerequisites
 -	Log in Eclipse Drigible IDE.
 -	Existing project.

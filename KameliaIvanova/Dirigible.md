@@ -42,9 +42,9 @@ The runtime can scale independently by the design time part, and even can be dep
 
 Depending on the target cloud platform, Dirigible can be integrated to use the services provided by the underlying platform.
 
-![architecture][http://www.dirigible.io/help/images/architecture.png]
+![architecture](http://www.dirigible.io/help/images/architecture.png)
 
-
+---------------------------------------------------------------------------
 ### **Creating new project** 
 To see how to create a new project you can follow the steps in [this tutorial](CreatingAProject.md)
 

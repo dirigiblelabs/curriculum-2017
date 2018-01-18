@@ -1,6 +1,8 @@
 
 # Create a User Interface
 Now you will learn how to create a User Interface, so the users can easily interact with your application.
+## Overview
+User Interface is the what users see in an application. It helps them to easily interact with the API. Eclipse Dirigible have the functionality to automatically create User Interface.
 ## Prerequisites
 -	Log in Eclipse Drigible IDE.
 -	Existing project.

@@ -10,16 +10,16 @@ Dirigible project came out of an internal SAP initiative to address the extensio
 Full development lifecycle of on-demand applications leveraging In-System Programming Model and Rapid Application Development techniques:
 
 * Database modeling and management;
-* RESTful services authoring using various; ..* dynamic languages;
-..* User interface – pattern-based generation ..* as well as custom forms and reports;
-..* Injected services;
-..* Role based security;
-..* External services integration;
-..* Testing;
-..* Debugging;
-..* Documentation;
-..* Extensions management;
-..* Operations and monitoring;
+* RESTful services authoring using various dynamic languages;
+* User interface – pattern-based generation as well as custom forms and reports;
+* Injected services;
+* Role based security;
+* External services integration;
+* Testing;
+* Debugging;
+* Documentation;
+* Extensions management;
+* Operations and monitoring;
 
 ## **Overview**
 

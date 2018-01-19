@@ -15,7 +15,6 @@ URL encoding, also known as Percent-encoding, is a mechanism for encoding inform
 7. Refresh the **Preview** window and see the result.
 
 ## **Functions Explanation**
-----------------------------------------------------------------------------------------
 **decode(input)** - Decode an input string from application/x-www-form-urlencoded format. 
 
 **encode(input)** - Encode an input string to application/x-www-form-urlencoded format.	

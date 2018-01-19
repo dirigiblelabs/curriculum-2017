@@ -22,6 +22,5 @@ URL encoding, also known as Percent-encoding, is a mechanism for encoding inform
 
 **escape(input)** - Escape an input string to comply to URI RFC 3986.	
 
------------------------------------------------------------------------------------------
 All of the above functions return String types.
 

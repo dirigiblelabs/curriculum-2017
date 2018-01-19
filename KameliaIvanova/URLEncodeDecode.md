@@ -34,7 +34,7 @@ Status: alpha
 **escape(input)** - Escape an input string to comply to URI RFC 3986.	
 
 -----------------------------------------------------------------------------------------
-All of the above functions returns string type.
+All of the above functions return string types.
 
 ### **Previous**
 [Dirigible](Dirigible.md)

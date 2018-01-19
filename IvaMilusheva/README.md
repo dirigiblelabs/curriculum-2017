@@ -51,7 +51,7 @@ Provides an integration with Tabris.js mobile framework that allows you to devel
 
 
 
-## Documentation links
+## Documentation Links
 
 **[Create Launchpad Templates](https://github.com/dirigiblelabs/curriculum/blob/master/IvaMilusheva/CreateLaunchpadTemplates.md)**
 

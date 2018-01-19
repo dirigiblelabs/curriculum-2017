@@ -19,7 +19,6 @@ Data structure is a particular way of organizing and storing our data so that it
 
 ## Result
 Your data structure is created
-## Related Information
 
 ## Eclipse Dirigible
 
@@ -32,4 +31,3 @@ Your data structure is created
 ## Launchpad Templates
 
 [3.Launchpad Templates](3.Launchpad%20Templates.md)
-

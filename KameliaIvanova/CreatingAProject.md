@@ -1,19 +1,15 @@
-# **Creating a new project with Eclipse Dirigible** 
+# **Creating a New Project With Eclipse Dirigible** 
 
-## **Steps to create a ne project**
-1. Go on Eclipse Dirigible page - http://www.dirigible.io/
-2. Click on "Try it out" button
+## **Steps**
+1. Open the Eclipse Dirigible page: http://www.dirigible.io/.
+2. Choose **Try it out** button.
 3. Choose a nickname.
-Now you are ready to create a new project.
-4. Click on the "+" sign to create a new project and name it.
+4. Choose the **+** sign to create a new project. Choose a name for it.
+5. To save the created project on the File menu click Save All.
 
 ## **Result**
-Now you have project in your workspace and you can add files to it.
+Now you have a project in your workspace and you can add files to it.
 
----------------------------------------------------------------------------
 
-### **Previous**
-[Dirigible](Dirigible.md)
-
-### **Go to URL encoding/decoding**
-URL object is used to encode/decode text. Follow [this link](URLEncodeDecode.md) to see how to use it.
+### **Encoding and Decoding URLs**
+[Encoding and Decoding URLs](URLEncodeDecode.md)

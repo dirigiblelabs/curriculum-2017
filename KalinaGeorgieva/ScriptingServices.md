@@ -1,23 +1,24 @@
-# **Scripting Services**
+# **Create a Scripting Services**
+
+Follow these steps in order to create a scripting service for your Eclipse Dirigible application.
 
 **Requirements:**
-<br>Check [**_Data Structures_**](https://github.com/dirigiblelabs/curriculum/tree/master/KalinaGeorgieva/DataStructures.md) to learn all you need to know to uderstand this chapter.
+* [Have at least one _Project_ and _Data Structure_ created.](https://github.com/dirigiblelabs/curriculum/tree/master/KalinaGeorgieva/DataStructures.md)
 
-### Create a new scripting service:
-> * Right-click on the project and create **new scripting service**.
-> *	Select the **JavaScript Entity Service on Table** and choose **Next**.
-> * **Select your table** and **add** it into the project.
-> *	Select the **Target** and **name** the service. Press **Finish**.
+### Procedure
+1. Right-click on the project and create **new scripting service**.
+2. Select the **JavaScript Entity Service on Table** and choose **Next**.
+3. **Select your table** and **add** it into the project.
+4. Select the **Target** and **name** the service. Press **Finish**.
 
 ###Results:
-**You have created:**
-> * Metadata descriptor for the Entity Services.
-> * Service andpoint implementation script.
-> * Swagger-compliant service definition.
-> * Scripting Service implementation reusable module.
+**You have created**
+1. Metadata descriptor for the Entity Services.
+2. Service andpoint implementation script.
+3. Swagger-compliant service definition.
+4. Scripting Service implementation reusable module.
 
- In the Preview you can test the invocationa of the Scripting Service.
+ >In the Preview you can test the invocationa of the Scripting Service.
 
-**Next step:**
-<br>to learn more about working with Eclipse Dirigible check
-[_**User Interfaces**_](https://github.com/dirigiblelabs/curriculum/tree/master/KalinaGeorgieva/UserInterfaces.md).
+**Next step**
+1. [**Create _User Interfaces_**](https://github.com/dirigiblelabs/curriculum/tree/master/KalinaGeorgieva/UserInterfaces.md).

@@ -44,8 +44,8 @@ Depending on the target cloud platform, Dirigible can be integrated to use the s
 
 ![architecture](http://www.dirigible.io/help/images/architecture.png)
 
----------------------------------------------------------------------------
-### **Other Tutorials** 
-* [Creating a New Project ](CreatingNewProject.md)
 
-* [Encoding And Decoding URLs](URLEncodeDecode.md)
+### **Other Tutorials** 
+* [Creating a New Project ](2CreatingNewProject.md)
+
+* [Encoding And Decoding URLs](3EncodingAndDecodingURLs.md)

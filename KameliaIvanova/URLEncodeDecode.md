@@ -1,5 +1,5 @@
 
-# **URL encoding/decoding**
+# **Encoding and Decoding URLs**
 
 
 URL encoding, also known as Percent-encoding, is a mechanism for encoding information in a Uniform Resource Identifier (URI) under certain circumstances. Although it is known as URL encoding it is, in fact, used more generally within the main Uniform Resource Identifier (URI) set, which includes both Uniform Resource Locator (URL) and Uniform Resource Name (URN). As such it is also used in the preparation of data of the "application/x-www-form-urlencoded" media type, as is often used in the submission of HTML form data in HTTP requests.
@@ -13,6 +13,9 @@ Definition: https://github.com/eclipse/dirigible/issues/25
 Source: /utils/v3/url.js
 Facade: UrlFacade
 Status: alpha
+
+## **Steps**
+
 
 ## **Basic Usage**
 
@@ -34,7 +37,5 @@ Status: alpha
 **escape(input)** - Escape an input string to comply to URI RFC 3986.	
 
 -----------------------------------------------------------------------------------------
-All of the above functions return string types.
+All of the above functions return String types.
 
-### **Previous**
-[Dirigible](Dirigible.md)

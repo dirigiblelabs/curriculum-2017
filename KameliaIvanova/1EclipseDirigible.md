@@ -46,6 +46,6 @@ Depending on the target cloud platform, Dirigible can be integrated to use the s
 
 ---------------------------------------------------------------------------
 ### **Other Tutorials** 
-[Creating a New Project ](CreatingAProject.md)
+*[Creating a New Project ](CreatingAProject.md)
 
-[Encoding And Decoding URLs](URLEncodeDecode.md)
+*[Encoding And Decoding URLs](URLEncodeDecode.md)

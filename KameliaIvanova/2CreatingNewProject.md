@@ -15,4 +15,4 @@ Now you have a project in your workspace and you can add files to it.
 
 
 ### **Other Tutorials**
-* [3. Encoding and Decoding URLs](3EncodingAndDecodingURLs.md)
+* [Encoding and Decoding URLs](3EncodingAndDecodingURLs.md)

@@ -50,7 +50,7 @@ The Dirigible environment allows you to manage the *user interface* of your proj
 You can check the results by clicking on the __*index.html*__ file, then in the __*Preview*__ window right-click on the link > __*Go to that url*__. The browser will open the .html file and you will be able to see your database.
 
 ### **Next Steps**
- You can also check how to manage entities in the user interface of your project. See [_Managing Entity Template][3].
+ You can also check how to manage entities in the user interface of your project. See [Managing Entity Template][3].
 
 [1]: https://github.com/dirigiblelabs/curriculum/tree/master/TeodoraBancheva/WrittenDocumentation/DataStructures.md
 [2]: https://github.com/dirigiblelabs/curriculum/tree/master/TeodoraBancheva/WrittenDocumentation/ScriptingServices.md

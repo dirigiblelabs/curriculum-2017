@@ -42,6 +42,6 @@ The project will appear in the Workspace Explorer.
  Now you can write and execute queries that will have results because the table is not empty.
 
 ### **Next Steps**
- You can also check how to create Scripting Services on Dirigible. See how to [Create a Scripting Service_][1]
+ You can also check how to create Scripting Services on Dirigible. See how to [Create a Scripting Service][1]
 
 [1]: https://github.com/dirigiblelabs/curriculum/tree/master/TeodoraBancheva/WrittenDocumentation/ScriptingServices.md

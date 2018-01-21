@@ -1,4 +1,4 @@
-<h1>Creating the documentation.</h1>
+<h1>Creating the documentation</h1>
 <p>1. You need to have a project in order to proceed. If you don't know how to create one, please visit: <a href="https://github.com/dirigiblelabs/curriculum/blob/master/BorislavTodorov/Documentation/Creating%20a%20project.md">Creating a project.</a></p>
 <p>2. In the <b>Workspace Explorer</b>, on the left side of your project there will be an arrow. Click on it.</p>
 <p>3. Then you will see a dropdown menu. Right-click on <b>WikiContent</b>.</p>

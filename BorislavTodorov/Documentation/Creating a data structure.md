@@ -1,4 +1,5 @@
 <h1>Creating a data structure</h1>
+<p>Follow the procedure below in order to create a data structure for your Eclipse Dirigible application.</p>
 <h1>Prerequisites</h1>
 <p><a href="https://github.com/dirigiblelabs/curriculum/blob/master/BorislavTodorov/Documentation/Creating%20a%20project.md">Creating a project</a></p>
 <h1>Context</h1>

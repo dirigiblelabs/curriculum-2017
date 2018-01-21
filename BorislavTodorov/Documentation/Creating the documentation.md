@@ -1,9 +1,9 @@
 <h1>Creating the documentation.</h1>
-<h5>1. You need to have a project in order to proceed. IF you don't know how to create one, please visit: <a href="https://github.com/dirigiblelabs/curriculum/blob/master/BorislavTodorov/Documentation/Creating%20a%20project.md">Creating a project.</a></h5>
-<h5>2. In the 'Workspace Explorer', on the left side of your project there will be an arrow. Click on it.</h5>
-<h5>3. Then you will see a dropdown menu. Right-click on 'WikiContent'.</h5>
-<h5>4. Select New->Wiki Page.</h5>
-<h5>5. Select 'Markdown Notation Guide'. Click 'Next' when you are ready.</h5>
-<h5>6. Now you will be prompted to enter a 'File Name', which is the name for your documentation. Click 'Next'.</h5>
-<h5>7. Now you can choose a 'Page Title'. Click 'Save' in the **Workspace Explorer**.</h5>
-<h5>8. To see how the documentation will look, click on 'Preview'.</h5>
+<p>1. You need to have a project in order to proceed. If you don't know how to create one, please visit: <a href="https://github.com/dirigiblelabs/curriculum/blob/master/BorislavTodorov/Documentation/Creating%20a%20project.md">Creating a project.</a></p>
+<p>2. In the <b>Workspace Explorer</b>, on the left side of your project there will be an arrow. Click on it.</p>
+<p>3. Then you will see a dropdown menu. Right-click on <b>WikiContent</b>.</p>
+<p>4. Select <b>New</b>><b>Wiki Page</b>.</p>
+<p>5. Select <b>Markdown Notation Guide</b>. Click <b>Next</b> when you are ready.</p>
+<p>6. Now you will be prompted to enter a <b>File Name</b>, which is the name for your documentation. Click <b>Next</b>.</p>
+<p>7. Now you can choose a <b>Page Title</b>. Click <b>Save</b> in the <b>Workspace Explorer</b>.</p>
+<p>8. To see how the documentation will look, click on <b>Preview</b>.</p>

@@ -7,7 +7,7 @@ life-cycle of on-demand applications by leveraging in-system programming models 
 
 ![Gragik](https://github.com/dirigiblelabs/curriculum/blob/master/IvaVasileva/Grafik.PNG)
 
-## [**What can I do?**](http://github.com)
+## [**What can I do?**](https://github.com/dirigiblelabs/curriculum/blob/master/IvaVasileva/BasicFeatures.md)
 
 Eclipse Dirigible provides capabilities for end-to-end development process from database modeling and management, through RESTful services
 authoring using various dynamic languages, to pattern-based user interface generation, role based security, external services integration,

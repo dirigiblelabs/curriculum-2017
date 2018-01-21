@@ -1,6 +1,6 @@
 # **Eclipse Dirigible Basic Features**
 
-## [**Database**]()
+## [**Database**](https://github.com/dirigiblelabs/curriculum/blob/master/IvaVasileva/DatabasePerspective.md)
 
 * Enables you to model data structure artifacts in JSON format, and to create actual tables and views during activation/publishing.
 * Database perspective is full-fledged including Database Explorer view, SQL Console, meta-data inspectors, and more.
@@ -31,7 +31,7 @@ Supports declarative definition of extension points and extensions in order to a
 * Better visibility of dependencies
 * Simplified life-cycle management
 
-## [**Mobile**]()
+## [**Mobile**](https://github.com/dirigiblelabs/curriculum/blob/master/IvaVasileva/MobileApplications.md)
 
 Provides an integration with Tabris.js mobile framework that allows you to develop native iOS and Android mobile applications, written 
 entirely in JavaScript.

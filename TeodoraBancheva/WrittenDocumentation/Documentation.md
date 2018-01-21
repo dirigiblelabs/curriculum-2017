@@ -6,7 +6,7 @@ The Dirigible environment allows you to create a *wiki page to document* your pr
 
 ### **Prerequisites**
 
- Creating a new **project** in the Workspace Explorer. See how to [Create a new project][1]
+ Creating a new **project** in the Workspace Explorer. See how to [Create a new project][1].
 
  
 ### **Procedure**

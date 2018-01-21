@@ -1,4 +1,5 @@
 <h1>Creating a scripting service</h1>
+<p>Follow the procedure below to create a scripting service for your Eclipse Dirigible application.</p>
 <h1>Prerequisites</h1>
 <p><a href="https://github.com/dirigiblelabs/curriculum/blob/master/BorislavTodorov/Documentation/Creating%20a%20project.md">Creating a project</a></p>
 <h1>Context</h1>

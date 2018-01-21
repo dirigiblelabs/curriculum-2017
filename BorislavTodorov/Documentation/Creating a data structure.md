@@ -16,4 +16,4 @@
 <p>9. You will be prompted to add a <b>File Name</b>, which will be the name of this table.</p>
 <p>10. Click on <b>Finish</b> after you are done.</p>
 
-<p>Warning:Table Model is a JSON formatted *.table descriptor. It represents the layout of the database table, which will be created during the activation process.</p>
+<p>Warning:&nbsp;Table Model is a JSON formatted *.table descriptor. It represents the layout of the database table, which will be created during the activation process.</p>

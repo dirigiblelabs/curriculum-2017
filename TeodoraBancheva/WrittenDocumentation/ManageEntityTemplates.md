@@ -6,10 +6,10 @@ The Dirigible environment allows you to generate the *user interface* of your pr
 
 ### **Prerequisites**
 
-* Create a **project** in the Workspace Explorer. See [*Creating a new project*][1]
-* Create a **data structure** in the project. See [*Creating a new data structure*][1]
-* Create a **scripting service** in the project. See [*Creating Scripting Services*][2]
-* Create a **user interface** in the project. See [*Creating User Interfaces*][3]
+* Create a **project** in the Workspace Explorer. See [*Creating a new project*][1].
+* Create a **data structure** in the project. See [*Creating a new data structure*][1].
+* Create a **scripting service** in the project. See [*Creating Scripting Services*][2].
+* Create a **user interface** in the project. See [*Creating User Interfaces*][3].
  
 ### **Procedure**
 

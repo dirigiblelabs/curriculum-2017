@@ -1,4 +1,4 @@
-# Write Documentation
+# Writing Documentation
 
 ### **Context**
 

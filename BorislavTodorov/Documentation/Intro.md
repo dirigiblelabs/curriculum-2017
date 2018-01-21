@@ -7,15 +7,15 @@ Eclipse Dirigible provides capabilities for end-to-end development process from 
 Yes,all the Eclipse Dirigible project's source code and sample applications are licensed under Eclipse Public License - v 1.0 and maintained at GitHub.
 <h2>For what can Dirigible be used and by whom?</h2>
 <h4>For Education </h4>
-  <h6>You can develop student projects, test different technologies and scenarios, learn popular programming languages.</h6>
+  <h5>You can develop student projects, test different technologies and scenarios, learn popular programming languages.</h5>
 <h4>For Developers</h4>
- <h6>- Eclipse Dirigible provides everything you need for your development project:</h6>
- <h6>- Application server</h6>
- <h6>- Content repository</h6>
- <h6>- Web IDE</h6>
- <h6>- Variety of features</h6>
+ <h5>- Eclipse Dirigible provides everything you need for your development project:</h5>
+ <h5>- Application server</h5>
+ <h5>- Content repository</h5>
+ <h5>- Web IDE</h5>
+ <h5>- Variety of features</h5>
  <h4>For Business</h4>
- <h6>You can easily develop, document, and monitor your business applications, taking full advantage of the diverse selection of features and services offered by Eclipse Dirigible.</h6>
+ <h5>You can easily develop, document, and monitor your business applications, taking full advantage of the diverse selection of features and services offered by Eclipse Dirigible.</h5>
 <h2>Platforms</h2>
 <h4>As a Tryout</h4>
 <h4>On SAP HANA Cloud Platform</h4>

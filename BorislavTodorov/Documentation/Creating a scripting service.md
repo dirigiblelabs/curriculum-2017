@@ -8,8 +8,8 @@
 <p>1. In the <b>Workspace Explorer</b>,right-click on your project.</p>
 <p>2. Choose <b>New</b>><b>Scripting Service</b>.</p>
 <p>3. In the optional window with <b>Avaliable Templates</b>, select the <b>JavaScript Entity Service</b> on <b>Table</b>><b>Next</b>.</p>
-<p>4. Select your table from the <b>Avaliable Tables</b> and then click on <b>Next<b/>.</p>
-<p>5. Name the service in <b>File Name</b> field and click <b>Finish</b>.</p> Some change
+<p>4. Select your table from the <b>Avaliable Tables</b> and then click on <b>Next</b>.</p>
+<p>5. Name the service in <b>File Name</b> field and click <b>Finish</b>.</p> 
 
 
   

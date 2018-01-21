@@ -2,7 +2,7 @@
 <h2>What is Dirigible?</h2>
 Eclipse Dirigible™ is a Cloud Development Platform providing development tools and runtime environment. It supports full development life-cycle of on-demand applications by leveraging in-system programming models and rapid application development techniques. See: http://www.dirigible.io/project.html
 <h2>What can you do with Dirigible?</h2>
-Eclipse Dirigible provides capabilities for end-to-end development process from database modeling and management, through RESTful services authoring using various dynamic languages, to pattern-based user interface generation, role based security, external services integration, testing, debugging, operations, and monitoring. Click here to learn more: http://www.dirigible.io/features.html
+Eclipse Dirigible provides capabilities for end-to-end development process from database modeling and management, through RESTful services authoring using various dynamic languages, to pattern-based user interface generation, role based security, external services integration, testing, debugging, operations, and monitoring. See: http://www.dirigible.io/features.html
 <h2>Is it free?</h2>
 Yes,all the Eclipse Dirigible project's source code and sample applications are licensed under Eclipse Public License - v 1.0 and maintained at GitHub.
 <h2>For what can Dirigible be used and by whom?</h2>

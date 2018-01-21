@@ -7,26 +7,20 @@ Eclipse Dirigible provides capabilities for end-to-end development process from 
 Yes,all the Eclipse Dirigible project's source code and sample applications are licensed under Eclipse Public License - v 1.0 and maintained at GitHub.
 <h2>For what can Dirigible be used and by whom?</h2>
 <h4>For Education </h4>
-  <h5>You can develop student projects, test different technologies and scenarios, learn popular programming languages.</h5>
+  <p>You can develop student projects, test different technologies and scenarios, learn popular programming languages.</p>
 <h4>For Developers</h4>
- <h5>- Eclipse Dirigible provides everything you need for your development project:</h5>
- <h5>- Application server</h5>
- <h5>- Content repository</h5>
- <h5>- Web IDE</h5>
- <h5>- Variety of features</h5>
+ <p>- Eclipse Dirigible provides everything you need for your development project:</h5>
+ <p>- Application server</p>
+ <p>- Content repository</p>
+ <p>- Web IDE</p>
+ <p>- Variety of features</p>
  <h4>For Business</h4>
- <h5>You can easily develop, document, and monitor your business applications, taking full advantage of the diverse selection of features and services offered by Eclipse Dirigible.</h5>
+ <p>You can easily develop, document, and monitor your business applications, taking full advantage of the diverse selection of features and services offered by Eclipse Dirigible.</p>
 <h2>Platforms</h2>
-<h4>As a Tryout</h4>
-<h4>On SAP HANA Cloud Platform</h4>
-<h4>On Tomcat Server</h4>
-<h4>Using Docker</h4>
-<h4>As Eclipse Plug-In</h4>
-<h4>On Cloud Foundry</h4>
-<img src="Blue_Clouds.jpg" alt="Blue Clouds">
+<img src="Image.png" alt="Platforms">
 <h2>Tutorials</h2>
-<h3><a href="https://github.com/dirigiblelabs/curriculum/blob/master/BorislavTodorov/Documentation/Creating%20a%20project.md">Creating a project</a></h3> 
-<h3><a href="https://github.com/dirigiblelabs/curriculum/blob/master/BorislavTodorov/Documentation/Creating%20a%20data%20structure.md">Creating a data structure</a></h3>
-<h3><a href="https://github.com/dirigiblelabs/curriculum/blob/master/BorislavTodorov/Documentation/Creating%20a%20scripting%20service.md">Creating a scripting service</a></h3>
-<h3><a href="https://github.com/dirigiblelabs/curriculum/blob/master/BorislavTodorov/Documentation/Creating%20the%20documentation.md">Creating the documentation</a></h3>
+<h3><a href="https://github.com/dirigiblelabs/curriculum/blob/master/BorislavTodorov/Documentation/Creating%20a%20project.md">Creating a project</a></p> 
+<p><a href="https://github.com/dirigiblelabs/curriculum/blob/master/BorislavTodorov/Documentation/Creating%20a%20data%20structure.md">Creating a data structure</a></p>
+<p><a href="https://github.com/dirigiblelabs/curriculum/blob/master/BorislavTodorov/Documentation/Creating%20a%20scripting%20service.md">Creating a scripting service</a></p>
+<p><a href="https://github.com/dirigiblelabs/curriculum/blob/master/BorislavTodorov/Documentation/Creating%20the%20documentation.md">Creating the documentation</a></p>
 

@@ -29,7 +29,7 @@ These are some of the features you benefit from
 
 ## How to
 
-- [Create a Project](https://github.com/dirigiblelabs/curriculum/blob/master/DayanaKaramiteva/creating_project.md)
-- [Create a Wiki Page](https://github.com/dirigiblelabs/curriculum/blob/master/DayanaKaramiteva/Wiki.md)
-- [Create a Data Structure](https://github.com/dirigiblelabs/curriculum/blob/master/DayanaKaramiteva/Data_structure.md)
+- [Create a Project](https://github.com/dirigiblelabs/curriculum/blob/master/DayanaKaramiteva/Create%20a%20Project.md)
+- [Create a Wiki Page](https://github.com/dirigiblelabs/curriculum/blob/master/DayanaKaramiteva/Create%20a%20Wiki%20Page.md)
+- [Create a Data Structure](https://github.com/dirigiblelabs/curriculum/blob/master/DayanaKaramiteva/Create%20a%20data%20structure.md)
 

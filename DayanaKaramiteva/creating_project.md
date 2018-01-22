@@ -1,6 +1,6 @@
 # Create a Project
 
-#### With Dirigible this is a quick and simple process that allows you to develop that after creation allows you to develop anything you need.
+With Dirigible this is a quick and simple process that allows you to develop that after creation allows you to develop anything you need.
 
 ## Procedure
 

@@ -13,21 +13,16 @@ Data structure is a particular way of organizing and storing our data so that it
 3. Select by a *right-click* on the project name and select **New > Data Structure**.
 4. Select the **Relational Database Table Template** and select **Next**.
 5. Add all necessary table properties.
-6. Define an ID attribute as a **Primary key**
+6. Define an ID attribute as a **Primary key**.
 7. Add latitude and longitude properties for the location of the markers.
 8. Select a name for our table and select **Finish**.
 
 ## Result
-Your data structure is created
+Your data structure is created.
 
-## Eclipse Dirigible
-
+## Other tutorials
 [1.Eclipse Dirigible](1.Eclipse%20Dirigible.md)
 
-## ScriptingServices
-
-[2.ScriptingServices](2.ScriptingServices.md)
-
-## Launchpad Templates
+[CreatingScriptingService](CreatingScriptingService.md)
 
 [3.Launchpad Templates](3.Launchpad%20Templates.md)

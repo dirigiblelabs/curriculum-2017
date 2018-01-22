@@ -1,7 +1,8 @@
 <h1>Creating the Documentation</h1>
 <p>Follow the procedure below to learn how to create the documentation in Eclipse Dirigible.</p>
 <h1>Prerequisites</h1>
-<p><a href="https://github.com/dirigiblelabs/curriculum/blob/master/BorislavTodorov/Documentation/Creating%20a%20project.md">Creating a project</a></p>
+<p>Before you follow the procedure below you need to have a project. If you don't know how to create one see:<br>
+<a href="https://github.com/dirigiblelabs/curriculum/blob/master/BorislavTodorov/Documentation/Creating%20a%20Project.md">Creating a Project</a>.</p>
 <h1>Context</h1>
 <p>Why do applications need documentation? Well, the documentation helps users and other programmers understand what the application should do. Reading the documentation of an application is the most effective and efficient way of interaction with it.</p>
 <h1>Procedure</h1>

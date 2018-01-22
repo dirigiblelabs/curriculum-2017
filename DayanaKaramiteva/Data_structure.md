@@ -1,11 +1,11 @@
-# Creating data structure
+# Creating Data Structure
 
-## Prerequisites:
+## Prerequisites
  
 Before creating a data structure – be sure that you have a project created in Eclipse Dirigible Web IDE.
-If you do not have an existing project - Go to [Creating a project](https://github.com/dirigiblelabs/curriculum/blob/master/DayanaKaramiteva/creating_project.md).
+If you do not have an existing project - See [Creating a project](https://github.com/dirigiblelabs/curriculum/blob/master/DayanaKaramiteva/creating_project.md).
 
-## Procedure:
+## Procedure
 1.	Navigate to the Workspace view and select a project.
 
 2.	Right click on the project.
@@ -14,7 +14,7 @@ If you do not have an existing project - Go to [Creating a project](https://gith
 
 4.	Select a template type.
 
-5.	Click Add button and type all the necessary properties
+5.	Click Add button and type all the necessary properties.
 
 6.	Fill all the information and click *OK* to save it.
 
@@ -22,5 +22,5 @@ If you do not have an existing project - Go to [Creating a project](https://gith
 
 8.	Choose a name for your data structure and then click *Finish*.
 
-## Result:
+## Result
 Now you have a saved data structured linked to the project for which it was created.

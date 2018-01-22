@@ -14,4 +14,4 @@ With Dirigible this is a quick and simple process that allows you to develop tha
 
 5.	Click the “+” button and then choose Project.
 
-6.	Enter the Project name and then click *Create Project* button.
+6.	Enter a Project name and then click *Create Project* button.

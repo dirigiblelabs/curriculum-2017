@@ -16,7 +16,7 @@ If you do not have an existing project - See [Create a project](https://github.c
 
 5.	Click *Add* button and type all the necessary properties.
 
-6.	Fill all the information and click *OK* to save it.
+6.	Fill in all the information and click *OK* to save it.
 
 7.	Repeat step 6 to add as many columns definitions as you would like and click *Next*.
 

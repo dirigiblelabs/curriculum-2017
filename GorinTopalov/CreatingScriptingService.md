@@ -21,8 +21,6 @@ The following steps describe the process of creating a data structure.
   
   
 ## Other tutorials
-[1.Eclipse Dirigible](1.Eclipse%20Dirigible.md)
+[Create data structures](CreateDataStructure.md)
 
-[3.Launchpad Templates](3.Launchpad%20Templates.md)
-
-[CreateDataStructure](CreateDataStructure.md)
+[Create launchpad templates.md](CreatingLaunchpadTemplates.md)

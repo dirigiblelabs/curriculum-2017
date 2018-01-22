@@ -1,4 +1,4 @@
-# Creating Data Structure
+# Create a Data Structure
 
 ## Prerequisites
  

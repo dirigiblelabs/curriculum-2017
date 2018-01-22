@@ -22,10 +22,10 @@ Yes,all the Eclipse Dirigible project's source code and sample applications are 
 <h4>Pros:</h4>
  &nbsp;&nbsp;&nbsp;&nbsp;-No additional downloads and installations.<br>
  &nbsp;&nbsp;&nbsp;&nbsp;-No need to deploy anything.<br>
- &nbsp;&nbsp;&nbsp;&nbsp;-You get all the functionality.<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;-You get all the functionality.
 <h4>Cons: </h4>
  &nbsp;&nbsp;&nbsp;&nbsp;-One instance is shared between all the users.<br>
- &nbsp;&nbsp;&nbsp;&nbsp;-You cannot manage this instance.<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;-You cannot manage this instance.
 </p>
 <p>
 <h3>On SAP HANA Cloud Platform</h3>
@@ -33,37 +33,37 @@ Yes,all the Eclipse Dirigible project's source code and sample applications are 
 &nbsp;&nbsp;&nbsp;&nbsp;-Use the SAP HANA Cloud Platform services.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;-Work in your own instance.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;-Have full control over this instance.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;-You get all the functionality.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-You get all the functionality.
 <h4>Cons:</h4>
-&nbsp;&nbsp;&nbsp;&nbsp;-You need an SAP HANA Cloud Platform account.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-You need an SAP HANA Cloud Platform account.
 </p>
 <p> <h3>On Tomcat Server</h3>
 <h4>Pros:</h4>
 &nbsp;&nbsp;&nbsp;&nbsp;-Works offline.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;-You get all the functionality.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-You get all the functionality.
 <h4>Cons:</h4>
-&nbsp;&nbsp;&nbsp;&nbsp;-You need to transfer your application to the cloud for the users to be able to find and use it.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-You need to transfer your application to the cloud for the users to be able to find and use it.
 </p>
 <p> <h3>Using Docker</h3>
 <h4>Pros:</h4>
 &nbsp;&nbsp;&nbsp;&nbsp;-Uses less system resources.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;-You can have many docker images in a single instance.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-You can have many docker images in a single instance.
 <h4>Cons:</h4>
-&nbsp;&nbsp;&nbsp;&nbsp;-Docker environment has to be set up in advance.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-Docker environment has to be set up in advance.
 </p>
 <p> <h3>As Eclipse Plug-In</h3>
 <h4>Pros:</h4>
 &nbsp;&nbsp;&nbsp;&nbsp;-Works offline.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;-You can use your favorite editors.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-You can use your favorite editors.
 <h4>Cons:</h4>
-&nbsp;&nbsp;&nbsp;&nbsp;-Lacks some capabilities, such as UI rendering.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-Lacks some capabilities, such as UI rendering.
 </p>
 <p> <h3>On Cloud Foundry</h3>
 <h4>Pros:</h4>
 &nbsp;&nbsp;&nbsp;&nbsp;-Easily manage your multiple Eclipse Dirigible instances.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;-Use large scale landscapes.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-Use large scale landscapes.
 <h4>Cons:</h4>
-&nbsp;&nbsp;&nbsp;&nbsp;-You need to set up Cloud Foundry infrastructure or to have an account on a public PaaS.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-You need to set up Cloud Foundry infrastructure or to have an account on a public PaaS.
 </p>
 <h2>Tutorials</h2>
 <h3><a href="https://github.com/dirigiblelabs/curriculum/blob/master/BorislavTodorov/Documentation/Creating%20a%20project.md">Creating a project</a></p> 

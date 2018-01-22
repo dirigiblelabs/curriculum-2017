@@ -21,8 +21,6 @@ Data structure is a particular way of organizing and storing our data so that it
 Your data structure is created.
 
 ## Other tutorials
-[1.Eclipse Dirigible](1.Eclipse%20Dirigible.md)
+[Create scripting services](CreatingScriptingService.md)
 
-[CreatingScriptingService](CreatingScriptingService.md)
-
-[3.Launchpad Templates](3.Launchpad%20Templates.md)
+[Create launchpad templates.md](CreatingLaunchpadTemplates.md)

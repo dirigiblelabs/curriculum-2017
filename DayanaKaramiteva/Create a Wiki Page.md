@@ -1,4 +1,4 @@
-# Creating a Wiki Page
+# Create a Wiki Page
 
 After creating a project with the steps above, you can write a wiki page for the project. The following steps can be done only with existing project.
 

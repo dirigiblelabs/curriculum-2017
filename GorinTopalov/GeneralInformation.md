@@ -1,6 +1,6 @@
-# Eclipse Dirigible 
+# General Information
 
-## What is Dirigible
+## What is Eclipse Dirigible
 
 Eclipse Dirigible™ is a Cloud Development Platform providing development tools and runtime environment. It supports full development life-cycle of on-demand applications by leveraging in-system programming models and rapid application development techniques.
 
@@ -12,14 +12,9 @@ Eclipse Dirigible provides capabilities for end-to-end development process from 
 
 Eclipse Dirigible is based on a huge set of open source frameworks, such as Eclipse RAP, Mozilla Rhino, jRuby*, Groovy*, Apache Velocity, Apache Lucene, Eclipse MyLyn, and many more. The source code of the project itself is also licensed under one of the most popular licenses approved by OSI - Eclipse Public License v1.0
 
-## ScriptingServices
+## Tutorials:
+[Create a Data Structure](CreateDataStructure.md)
 
-[2.ScriptingServices](2.ScriptingServices.md)
+[Create a scripting service](CreatingScriptingService.md)
 
-## Launchpad Templates
-
-[3.Launchpad Templates](3.Launchpad%20Templates.md)
-
-## Data Structure
-
-[4.Data Structure](4.Data%20Structure.md)
+[Create launchpad templates.md](CreatingLaunchpadTemplates.md)

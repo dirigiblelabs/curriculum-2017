@@ -1,4 +1,4 @@
-<h1>Creating the documentation</h1>
+<h1>Creating the Documentation</h1>
 <p>Follow the procedure below to learn how to create the documentation in Eclipse Dirigible.</p>
 <h1>Prerequisites</h1>
 <p><a href="https://github.com/dirigiblelabs/curriculum/blob/master/BorislavTodorov/Documentation/Creating%20a%20project.md">Creating a project</a></p>

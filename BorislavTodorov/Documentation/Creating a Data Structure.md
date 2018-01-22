@@ -1,8 +1,8 @@
 <h1>Creating a Data Structure</h1>
 <p>Follow the procedure below in order to create a data structure for your Eclipse Dirigible application.</p>
 <h1>Prerequisites</h1>
-Before you follow the procedure below you need to have a project. See
-<p><a href="https://github.com/dirigiblelabs/curriculum/blob/master/BorislavTodorov/Documentation/Creating%20a%20project.md">Creating a project</a></p> if you don't know how to create one.
+Before you follow the procedure below you need to have a project. If you don't know how to create one see:
+<a href="https://github.com/dirigiblelabs/curriculum/blob/master/BorislavTodorov/Documentation/Creating%20a%20project.md" display:inline;>Creating a Project</a>.
 <h1>Context</h1>
 <p>In the context of a cloud toolkit, the term Data Structures refers to the domain model of an application. The actual entities in a domain model directly correspond to the underlying database entities, that is, tables and views. There is no additional abstract layer between the code of your application and the actual model in the target storage.</p>
 <h1>Procedure</h1>

@@ -6,7 +6,7 @@ Before creating a data structure – be sure that you have a project created in 
 If you do not have an existing project - See [Creating a project](https://github.com/dirigiblelabs/curriculum/blob/master/DayanaKaramiteva/creating_project.md).
 
 ## Procedure
-1.	Navigate to the Workspace view and select a project.
+1.	Navigate to the *Workspace view* and select a project.
 
 2.	Right click on the project.
 
@@ -14,7 +14,7 @@ If you do not have an existing project - See [Creating a project](https://github
 
 4.	Select a template type.
 
-5.	Click Add button and type all the necessary properties.
+5.	Click *Add* button and type all the necessary properties.
 
 6.	Fill all the information and click *OK* to save it.
 

@@ -23,4 +23,4 @@ Your data structure is created.
 ## Other tutorials:
 [Create scripting services](CreatingScriptingService.md)
 
-[Create launchpad templates.md](CreatingLaunchpadTemplates.md)
+[Create launchpad templates](CreatingLaunchpadTemplates.md)

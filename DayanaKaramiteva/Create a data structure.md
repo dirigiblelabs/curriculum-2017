@@ -18,7 +18,7 @@ If you do not have an existing project - See [Create a project](https://github.c
 
 6.	Fill in all the information and click *OK* to save it.
 
-7.	Repeat step 6 to add as many columns definitions as you would like and click *Next*.
+7.	Repeat step 6 to add as many column definitions as you would like and click *Next*.
 
 8.	Choose a name for your data structure and then click *Finish*.
 

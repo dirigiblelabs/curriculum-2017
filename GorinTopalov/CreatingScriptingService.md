@@ -25,4 +25,4 @@ The following steps describe the process of creating a data structure.
 
 [3.Launchpad Templates](3.Launchpad%20Templates.md)
 
-[4.Data Structure](4.Data%20Structure.md)
+[CreateDataStructure](CreateDataStructure.md)

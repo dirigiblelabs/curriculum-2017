@@ -23,4 +23,4 @@ The following steps describe the process of creating a data structure.
 ## Other tutorials
 [Create data structures](CreateDataStructure.md)
 
-[Create launchpad templates.md](CreatingLaunchpadTemplates.md)
+[Create launchpad templates](CreatingLaunchpadTemplates.md)

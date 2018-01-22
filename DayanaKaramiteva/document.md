@@ -1,7 +1,7 @@
 # Eclipse Dirigible
  =====================
 
-#### A Cloud Development Platform providing development tools and runtime environment. It supports full development life-cycle of on-demand applications by leveraging in-system programming models and rapid application development techniques.
+A Cloud Development Platform providing development tools and runtime environment. It supports full development life-cycle of on-demand applications by leveraging in-system programming models and rapid application development techniques.
 
 #### Eclipse Dirigible provides everything you need for your development project
 - Application server
@@ -29,7 +29,7 @@ These are some of the features you benefit from
 
 ## How to
 
-- [Create a project](https://github.com/dirigiblelabs/curriculum/blob/master/DayanaKaramiteva/creating_project.md)
-- [Create a wiki page](https://github.com/dirigiblelabs/curriculum/blob/master/DayanaKaramiteva/Wiki.md)
+- [Create a Project](https://github.com/dirigiblelabs/curriculum/blob/master/DayanaKaramiteva/creating_project.md)
+- [Create a Wiki Page](https://github.com/dirigiblelabs/curriculum/blob/master/DayanaKaramiteva/Wiki.md)
 - [Create a Data Structure](https://github.com/dirigiblelabs/curriculum/blob/master/DayanaKaramiteva/Data_structure.md)
 

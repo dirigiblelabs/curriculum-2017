@@ -1,9 +1,9 @@
-# Creating a Wiki page
+# Creating a Wiki Page
 
-#### After creating a project with the steps above, you can write a wiki page for the project. The following steps can be done only with existing project.
+After creating a project with the steps above, you can write a wiki page for the project. The following steps can be done only with existing project.
 
-## Procedure:
-1.	Navigate to the Workspace view and select a project.
+## Procedure
+1.	Navigate to the *Workspace view* and select a project.
 
 2.	Right click on the project.
 
@@ -15,7 +15,7 @@
 
 6.	Add a title of the document and then click *Finish*.
 
-## Result:
+## Result
 You can now view the created file in the Eclipse Dirigible Web IDE.
 
 

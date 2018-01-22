@@ -2,7 +2,7 @@
 
 The following steps describe the process of creating a launchpad template.
 
-### Procedure
+### Procedure:
 1. Make a new project in the Dirigible Web IDE.
    1. Open the Dirigible Web IDE in the Workbench persepective.
    2. Click **New** > **Project**, enter name for your project in *Enter project name*. Click **Next** and choose **Blank Application**. > **Finish**.
@@ -22,12 +22,11 @@ The following steps describe the process of creating a launchpad template.
    3. modify something.
 6. Save changes and view them in **index.html**.
 
-## Result
+## Result:
 Your launchpad template is created.
 
-## Other tutorials
-[1.Eclipse Dirigible](1.Eclipse%20Dirigible.md)
 
-[Create a data structure](CreateDataStructure.md)
+## Other tutorials:
+[Create data structures](CreateDataStructure.md)
 
-[Create a scripting service](CreatingScriptingService.md)
+[Create scripting services](CreatingScriptingService.md)

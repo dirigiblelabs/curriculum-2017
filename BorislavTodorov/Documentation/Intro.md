@@ -39,31 +39,31 @@ Yes,all the Eclipse Dirigible project's source code and sample applications are 
 </p>
 <p> <h3>On Tomcat Server</h3>
 <h4>Pros:</h4>
-&nbsp;&nbsp;&nbsp;&nbsp;-Works offline.
-&nbsp;&nbsp;&nbsp;&nbsp;-You get all the functionality.
+&nbsp;&nbsp;&nbsp;&nbsp;-Works offline.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-You get all the functionality.<br>
 <h4>Cons:</h4>
-&nbsp;&nbsp;&nbsp;&nbsp;-You need to transfer your application to the cloud for the users to be able to find and use it.
+&nbsp;&nbsp;&nbsp;&nbsp;-You need to transfer your application to the cloud for the users to be able to find and use it.<br>
 </p>
 <p> <h3>Using Docker</h3>
 <h4>Pros:</h4>
-&nbsp;&nbsp;&nbsp;&nbsp;-Uses less system resources.
-&nbsp;&nbsp;&nbsp;&nbsp;-You can have many docker images in a single instance.
+&nbsp;&nbsp;&nbsp;&nbsp;-Uses less system resources.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-You can have many docker images in a single instance.<br>
 <h4>Cons:</h4>
-&nbsp;&nbsp;&nbsp;&nbsp;-Docker environment has to be set up in advance.
+&nbsp;&nbsp;&nbsp;&nbsp;-Docker environment has to be set up in advance.<br>
 </p>
 <p> <h3>As Eclipse Plug-In</h3>
 <h4>Pros:</h4>
-&nbsp;&nbsp;&nbsp;&nbsp;-Works offline.
-&nbsp;&nbsp;&nbsp;&nbsp;-You can use your favorite editors.
+&nbsp;&nbsp;&nbsp;&nbsp;-Works offline.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-You can use your favorite editors.<br>
 <h4>Cons:</h4>
-&nbsp;&nbsp;&nbsp;&nbsp;-Lacks some capabilities, such as UI rendering.
+&nbsp;&nbsp;&nbsp;&nbsp;-Lacks some capabilities, such as UI rendering.<br>
 </p>
 <p> <h3>On Cloud Foundry</h3>
 <h4>Pros:</h4>
-&nbsp;&nbsp;&nbsp;&nbsp;-Easily manage your multiple Eclipse Dirigible instances.
-&nbsp;&nbsp;&nbsp;&nbsp;-Use large scale landscapes.
+&nbsp;&nbsp;&nbsp;&nbsp;-Easily manage your multiple Eclipse Dirigible instances.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-Use large scale landscapes.<br>
 <h4>Cons:</h4>
-&nbsp;&nbsp;&nbsp;&nbsp;-You need to set up Cloud Foundry infrastructure or to have an account on a public PaaS.
+&nbsp;&nbsp;&nbsp;&nbsp;-You need to set up Cloud Foundry infrastructure or to have an account on a public PaaS.<br>
 </p>
 <h2>Tutorials</h2>
 <h3><a href="https://github.com/dirigiblelabs/curriculum/blob/master/BorislavTodorov/Documentation/Creating%20a%20project.md">Creating a project</a></p> 

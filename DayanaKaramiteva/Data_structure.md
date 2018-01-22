@@ -23,4 +23,4 @@ If you do not have an existing project - See [Creating a project](https://github
 8.	Choose a name for your data structure and then click *Finish*.
 
 ## Result
-Now you have a saved data structured linked to the project for which it was created.
+Now you have a saved data structured linked to the dedicated project.

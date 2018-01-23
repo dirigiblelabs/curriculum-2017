@@ -4,6 +4,8 @@
 ## **Background**
 
 Dirigible project came out of an internal SAP initiative to address the extension and adaptation use-cases related to SOA and Enterprise Services. On one hand in this project were implied the lessons learned from the standard tools and approaches so far and on the other hand, there were added features aligned with the most recent technologies and architectural patterns related to Web 2.0 and HTML5. This made it complete enough to be used as the only tool and environment needed for building and running on-demand applications in the cloud.
+
+
 ![features](graphic.jpg)
 
 ## **Scope** 

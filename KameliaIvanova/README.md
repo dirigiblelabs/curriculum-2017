@@ -5,8 +5,12 @@
 
 ## Content: 
 
-* [Eclipse Dirigible](1EclipseDirigible.md)
+* [Eclipse Dirigible][1]
 
-* [Creating a New Project](2CreatingNewProject.md)
+* [Creating a New Project][2]
 
-* [Encoding And Decoding URLs](3EncodingAndDecodingURLs.md)
+* [Encoding And Decoding URLs][3]
+
+[1]: https://github.com/dirigiblelabs/curriculum/blob/master/KameliaIvanova/Documentation/1EclipseDirigible.md
+[2]: https://github.com/dirigiblelabs/curriculum/blob/master/KameliaIvanova/Documentation/2CreatingNewProject.md
+[3]: https://github.com/dirigiblelabs/curriculum/blob/master/KameliaIvanova/Documentation/3EncodingAndDecodingURLs.md

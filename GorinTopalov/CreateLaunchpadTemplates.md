@@ -1,4 +1,4 @@
-## Creating Launchpad Templates
+## Create Launchpad Templates
 
 ### Procedure
 1. Make a new project in the Dirigible Web IDE.
@@ -27,4 +27,4 @@ Your launchpad template is created.
 ## Other tutorials
 [Create Data Structures](CreateDataStructure.md)
 
-[Create Scripting Services](CreatingScriptingService.md)
+[Create Scripting Services](CreateScriptingService.md)

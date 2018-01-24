@@ -23,8 +23,7 @@
 ## Result
 Your launchpad template is created.
 
-
-## Other tutorials
+## Tutorials
 [Create Data Structures](CreateDataStructure.md)
 
 [Create Scripting Services](CreateScriptingService.md)

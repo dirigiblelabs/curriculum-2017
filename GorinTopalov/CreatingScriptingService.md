@@ -1,4 +1,4 @@
-# Creating a scripting service 
+# Creating a Scripting Service 
 
 The following steps describe the process of creating a data structure.
 
@@ -21,6 +21,6 @@ The following steps describe the process of creating a data structure.
   
   
 ## Other tutorials
-[Create data structures](CreateDataStructure.md)
+[Create Data Structures](CreateDataStructure.md)
 
-[Create launchpad templates](CreatingLaunchpadTemplates.md)
+[Create Launchpad Templates](CreatingLaunchpadTemplates.md)

@@ -1,4 +1,4 @@
-# Create New Data Structure
+# Create new Data Structure
 Instructions how to create a Data Structure.
 
 ## Prerequisite

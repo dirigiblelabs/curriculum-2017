@@ -1,5 +1,4 @@
 # Create new Data Structure
-Instructions how to create a Data Structure.
 
 ## Prerequisite
 * Existing project in the Dirigible Web IDE.

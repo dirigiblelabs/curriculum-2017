@@ -19,7 +19,7 @@ Data structure is a particular way of organizing and storing our data so that it
 ## Result
 Your data structure is created.
 
-## Other tutorials
+## Tutorials
 [Create Scripting Services](CreateScriptingService.md)
 
 [Create Launchpad Templates](CreateLaunchpadTemplates.md)

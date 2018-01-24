@@ -1,4 +1,4 @@
-# Creating a Scripting Service 
+# Create Scripting Service 
 
 ## Steps
 
@@ -20,4 +20,4 @@
 ## Other tutorials
 [Create Data Structures](CreateDataStructure.md)
 
-[Create Launchpad Templates](CreatingLaunchpadTemplates.md)
+[Create Launchpad Templates](CreateLaunchpadTemplates.md)

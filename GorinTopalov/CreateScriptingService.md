@@ -16,8 +16,7 @@
 * `<Root>/Scripting Services/<Project name>/<Your service name>.swagger `
 * `<Root>/Scripting Services/<Project name>/<Your service name>_lib.js `
   
-  
-## Other tutorials
+## Tutorials
 [Create Data Structures](CreateDataStructure.md)
 
 [Create Launchpad Templates](CreateLaunchpadTemplates.md)

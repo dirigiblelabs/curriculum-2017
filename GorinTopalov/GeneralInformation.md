@@ -12,7 +12,7 @@ Eclipse Dirigible provides capabilities for end-to-end development process from 
 
 Eclipse Dirigible is based on a huge set of open source frameworks, such as Eclipse RAP, Mozilla Rhino, jRuby*, Groovy*, Apache Velocity, Apache Lucene, Eclipse MyLyn, and many more. The source code of the project itself is also licensed under one of the most popular licenses approved by OSI - Eclipse Public License v1.0
 
-## Tutorials:
+## Tutorials
 [Create Data Structures](CreateDataStructure.md)
 
 [Create Scripting Services](CreateScriptingService.md)

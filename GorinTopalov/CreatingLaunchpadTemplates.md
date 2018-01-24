@@ -1,7 +1,5 @@
 ## Creating Launchpad Templates
 
-The following steps describe the process of creating a launchpad template.
-
 ### Procedure
 1. Make a new project in the Dirigible Web IDE.
    1. Open the Dirigible Web IDE in the Workbench persepective.

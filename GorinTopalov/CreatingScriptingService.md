@@ -1,8 +1,5 @@
 # Creating a Scripting Service 
 
-The following steps describe the process of creating a data structure.
-
-
 ## Steps
 
 1. Open the **Workspace Explorer**.

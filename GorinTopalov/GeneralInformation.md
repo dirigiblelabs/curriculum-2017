@@ -17,4 +17,4 @@ Eclipse Dirigible is based on a huge set of open source frameworks, such as Ecli
 
 [Create scripting services](CreatingScriptingService.md)
 
-[Create launchpad templates.md](CreatingLaunchpadTemplates.md)
+[Create launchpad templates](CreatingLaunchpadTemplates.md)

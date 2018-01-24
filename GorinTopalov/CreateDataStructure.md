@@ -21,6 +21,6 @@ Data structure is a particular way of organizing and storing our data so that it
 Your data structure is created.
 
 ## Other tutorials
-[Create scripting services](CreatingScriptingService.md)
+[Create Scripting Services](CreatingScriptingService.md)
 
-[Create launchpad templates](CreatingLaunchpadTemplates.md)
+[Create Launchpad Templates](CreatingLaunchpadTemplates.md)

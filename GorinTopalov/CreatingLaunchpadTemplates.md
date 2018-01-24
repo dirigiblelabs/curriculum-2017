@@ -27,6 +27,6 @@ Your launchpad template is created.
 
 
 ## Other tutorials
-[Create data structures](CreateDataStructure.md)
+[Create Data Structures](CreateDataStructure.md)
 
-[Create scripting services](CreatingScriptingService.md)
+[Create Scripting Services](CreatingScriptingService.md)

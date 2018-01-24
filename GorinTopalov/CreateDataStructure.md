@@ -1,4 +1,4 @@
-# Create new Data Structure
+# Create Data Structure
 
 ## Prerequisite
 * Existing project in the Dirigible Web IDE.
@@ -20,6 +20,6 @@ Data structure is a particular way of organizing and storing our data so that it
 Your data structure is created.
 
 ## Other tutorials
-[Create Scripting Services](CreatingScriptingService.md)
+[Create Scripting Services](CreateScriptingService.md)
 
-[Create Launchpad Templates](CreatingLaunchpadTemplates.md)
+[Create Launchpad Templates](CreateLaunchpadTemplates.md)

@@ -1,4 +1,4 @@
-# Eclipse Dirigible 
+# Dirigible Features
 
 ## What is Dirigible?
 

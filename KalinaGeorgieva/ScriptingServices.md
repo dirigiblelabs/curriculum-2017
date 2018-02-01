@@ -11,7 +11,7 @@ Follow these steps in order to create a scripting service for your Eclipse Dirig
 3. **Select your table** and **add** it into the project.
 4. Select the **Target** and **name** the service. Press **Finish**.
 
-###Results:
+### Results:
 **You have created**
 1. Metadata descriptor for the Entity Services.
 2. Service andpoint implementation script.

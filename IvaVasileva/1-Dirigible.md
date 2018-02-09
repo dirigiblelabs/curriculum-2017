@@ -19,3 +19,9 @@ YES
 All the Eclipse Dirigible project's source code and sample applications are licensed under Eclipse Public License - v 1.0 and maintained at
 GitHub.
 
+## **Some basic functionality**
+
+- [**User Interface**](https://github.com/dirigiblelabs/curriculum/blob/master/IvaVasileva/Dirigible%20-%20Basics%20-%203.%20User%20Interface.md)
+
+
+

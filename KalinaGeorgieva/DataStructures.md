@@ -4,8 +4,8 @@ Follow these steps in order to create a simple data structure for your Eclipse D
 
 ### Procedure
 **1.Crating new project.**
-1. Right-click on **Workspace Explorer** and create new project, folowing the path **New->Project**.
-2. **Name** your project.
+1. Right-click on **Workspace Explorer** and create new project, folowing the path **New -> Project**.
+2. Choose **Name** for your project.
 3. Select the **Blank application** template and choose **Finish**.
 
 **2. Create new data structure.**
@@ -13,7 +13,7 @@ Follow these steps in order to create a simple data structure for your Eclipse D
 2. Create a **Rational Database Table**.
 3. To add all necessary properties,choose **Add**.
 4. Define **Primary key**.
-5.	**Name** your table.
+5. Chooose **Name** for your table.
 > The new table definitions will be in JSON format.
 
 **3.** Right-click on your project and choose **Publish**.
@@ -26,7 +26,7 @@ Follow these steps in order to create a simple data structure for your Eclipse D
 **5.**	Type the **SELECT * FROM...** command in the **SQL Console** window. No result will show up because the database is empty. Another data structure has to be added.
 
 **6. Create DSV template**.
-1. Right-click on the project and create new data structure, folowing the path **New->Data Structure**.
+1. Right-click on the project and create new data structure, folowing the path **New -> Data Structure**.
 2. Select the **Delimiter Separated Values Sample Data** and choose **Next**.
 3. Find your table and add it to your project by choosing **Add**.
 

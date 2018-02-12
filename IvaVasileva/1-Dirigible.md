@@ -21,8 +21,8 @@ GitHub.
 
 ## **Some Basic Functionality**
 
-- [**Generate Web Page And Create An Index Page**](https://github.com/dirigiblelabs/curriculum/blob/master/IvaVasileva/Dirigible%20-%20Basics%20-%203.%20User%20Interface.md)
-- [**Create And Edit Wiki Page**](https://github.com/dirigiblelabs/curriculum/blob/master/IvaVasileva/Dirigible%20-%20Basics%20-%205.%20Documentation.md)
+- [**Generate Web Page аnd Create аn Index Page**](https://github.com/dirigiblelabs/curriculum/blob/master/IvaVasileva/Dirigible%20-%20Basics%20-%203.%20User%20Interface.md)
+- [**Create аnd Edit Wiki Page**](https://github.com/dirigiblelabs/curriculum/blob/master/IvaVasileva/Dirigible%20-%20Basics%20-%205.%20Documentation.md)
 
 
 

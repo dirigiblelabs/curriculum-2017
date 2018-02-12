@@ -12,7 +12,7 @@
 
 5. Generate the UI of your entity service.
 
-6. Select the **List Entities template**.
+6. Select the **List Entities**.
 
 7. Select **Next**.
 

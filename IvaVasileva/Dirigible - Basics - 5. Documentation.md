@@ -1,6 +1,6 @@
 # **Create and edit wiki page**
 
-## ** Create wiki page**
+## **Create wiki page**
 
 1. Create your wiki page in **the WikiContent folder**.
 
@@ -20,6 +20,8 @@
 
 1. Now you **can edit your wiki template**.
 
-2. **Save changes** that you have just made.
+2. **Click** on the **template and edit it**.
 
-3. **Double-click the Preview tab** to expand it and there you **can monitor your progress**.
+3. **Save changes** that you have just made.
+
+4. **Double-click the Preview tab** to expand it and there you **can monitor your progress**.

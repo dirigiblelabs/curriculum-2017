@@ -6,7 +6,7 @@
 
 2. **Open your project**.
 
-3. Expand the **ScriptingServices folder** and your project filder after that.
+3. Expand the **ScriptingServices** folder and your project filder after that.
 
 4. Right-click **your entity**.
 

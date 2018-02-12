@@ -15,7 +15,7 @@ Follow these steps in order to create a user interface for your Eclipse Dirigibl
 2. Choose **Generate -> User Interface for Entity Service**.
 3. Select the **List Entities** template and click **Next**.
 4. Select All currently available fields and click **Next**.
-5. Choose **Name** for your file.
+5. Enter name for your file in **File Name** field.
 6. Type your page title in **Page Title** field and choose **Finish**.
 
 **3. Making an index page**.

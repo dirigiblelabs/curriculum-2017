@@ -1,23 +1,25 @@
-# **Dirigible - Basics - 5. Documentation**
+# **Create and edit wiki page**
 
-## **Create a wiki page**
+## ** Create wiki page**
 
-1. Create your wiki page in the WikiContent folder;
+1. Create your wiki page in **the WikiContent folder**.
 
-2. Choose one of the following templates;
+2. **Choose one** of the following **templates**.
 
-3. Select Next;
+3. Select **Next**.
 
-4. Name your file;
+4. **Name** your **file**.
 
-5. Select Next;
+5. Select **Next**.
 
-6. Give a title to your wiki page;
+6. Give a **title to your wiki page**.
 
-7. Click Finish;
+7. Click **Finish**.
 
-8. Now you can edit your wiki template;
+## **Edit wiki page**
 
-9. Save changes that you have just made;
+1. Now you **can edit your wiki template**.
 
-10. Double-click the Preview tab to expand it and here you can monitor your progress;
+2. **Save changes** that you have just made.
+
+3. **Double-click the Preview tab** to expand it and there you **can monitor your progress**.

@@ -22,7 +22,7 @@ GitHub.
 ## **Some basic functionality**
 
 - [**Generate web page and create an index page**](https://github.com/dirigiblelabs/curriculum/blob/master/IvaVasileva/Dirigible%20-%20Basics%20-%203.%20User%20Interface.md)
-- [**Documentation**](https://github.com/dirigiblelabs/curriculum/blob/master/IvaVasileva/Dirigible%20-%20Basics%20-%205.%20Documentation.md)
+- [**Create and edit wiki page**](https://github.com/dirigiblelabs/curriculum/blob/master/IvaVasileva/Dirigible%20-%20Basics%20-%205.%20Documentation.md)
 
 
 

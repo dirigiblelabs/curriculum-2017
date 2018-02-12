@@ -32,7 +32,7 @@
 
 2. Create your *new user interface*.
 
-3. Select **the Index Page** option.
+3. Select **Index Page** option.
 
 4. Select **Next**.
 

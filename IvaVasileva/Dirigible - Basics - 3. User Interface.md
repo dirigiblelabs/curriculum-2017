@@ -4,11 +4,11 @@
 
 1. Open **Dirigible**.
 
-2. **Open your project**.
+2. Open your project.
 
 3. Expand the **ScriptingServices** folder and your project filder after that.
 
-4. Right-click your **entity**.
+4. Right-click your entity.
 
 5. Generate the UI of your entity service.
 

@@ -13,7 +13,7 @@ Folow these steps in order to create a simple data structure for your Eclipse Di
 2. Create a **Rational Database Table**.
 3. To add all necessary properties,choose **Add**.
 4. Define **Primary key**.
-5. Enter name for your table in **File Name** field.
+5. Enter name for your file in **File Name** field.
 > The new table definitions will be in JSON format.
 
 **3.** Right-click on your project and choose **Publish**.

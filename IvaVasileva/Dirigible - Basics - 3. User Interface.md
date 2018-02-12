@@ -8,7 +8,7 @@
 
 3. Expand the **ScriptingServices** folder and your project filder after that.
 
-4. Right-click **your entity**.
+4. Right-click your **entity**.
 
 5. Generate the UI of your entity service.
 
@@ -16,7 +16,7 @@
 
 7. Select **Next**.
 
-8. Select **all current available fields**.
+8. Click on **Select All**.
 
 9. Select **Next**.
 

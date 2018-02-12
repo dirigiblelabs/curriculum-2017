@@ -1,6 +1,6 @@
-# **Generate web page and create an index page**
+# **Generate Web Page And Create An Index Page**
 
-## **Generate a web page**
+## **Generate A Web Page**
 
 1. Open **Dirigible**.
 
@@ -26,7 +26,7 @@
 
 12. In the **Title** field, enter the page title of your file and choose **Finish**.
 
-## **Make an Index page**
+## **Make An Index Page**
 
 1. Right-click **WebContent**.
 

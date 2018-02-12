@@ -22,4 +22,4 @@
 
 2. Click on **Save** to save the changes that you made.
 
-3. Double-click **Preview tab** to expand it and there you can monitor your progress.
+3. Double-click **Preview** tab to expand it and there you can monitor your progress.

@@ -3,7 +3,7 @@
 Follow these steps in order to create a simple data structure for your Eclipse Dirigible application.
 
 ### Procedure
-**1.Crating new project.**
+**1.Creating new project.**
 1. Right-click on **Workspace Explorer** and create new project, folowing the path **New -> Project**.
 2. Choose **Name** for your project.
 3. Select the **Blank application** template and choose **Finish**.

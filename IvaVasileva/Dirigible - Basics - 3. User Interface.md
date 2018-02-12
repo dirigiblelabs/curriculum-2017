@@ -1,40 +1,41 @@
-# **Dirigible - Basics - 3. User Interface**
+# **Generate web page and create an index page**
 
 ## **Generate a web page**
-1. Open Dirigible; 
 
-2. Open your project;
+1. Open **Dirigible**.
 
-3. Expand the ScriptingServices folder and your project filder after that;
+2. **Open your project**.
 
-4. Right-clic your entity;
+3. Expand the **ScriptingServices folder** and your project filder after that.
 
-5. Generate the UI of your entity service;
+4. Right-clic **your entity**.
 
-6. Select the List Entities template;
+5. Generate the UI of your entity service.
 
-7. Select Next;
+6. Select the **List Entities template**.
 
-8. Select all current available fields;
+7. Select **Next**.
 
-9. Select Next;
+8. Select **all current available fields**.
 
-10. Type the name of your file;
+9. Select **Next**.
 
-11. Select Next;
+10. Type the name of your file.
 
-12. Type your page title and choose Finish;
+11. Select **Next**.
+
+12. **Type** your **page title** and **choose Finish**.
 
 ## **Make an Index page**
 
-1. Right-click WebContent;
+1. Right-click **WebContent**.
 
-2. Create your new user interface;
+2. Create your **new user interface**.
 
-3. Select the Index Page option;
+3. Select **the Index Page** option.
 
-4. Select Next;
+4. Select **Next**.
 
-5. Select Next;
+5. Select **Next**.
 
-6. Type your page title and chose Finish
+6. Type **your page title** and chose **Finish**.

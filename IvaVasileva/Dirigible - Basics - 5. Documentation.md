@@ -1,6 +1,6 @@
-# **Create and edit wiki page**
+# **Create And Edit Wiki Page**
 
-## **Create wiki page**
+## **Create Wiki Page**
 
 1. Create your wiki page in **WikiContent** folder.
 
@@ -16,7 +16,7 @@
 
 7. Click **Finish**.
 
-## **Edit wiki page**
+## **Edit Wiki Page**
 
 1. Click on the template and edit it.
 

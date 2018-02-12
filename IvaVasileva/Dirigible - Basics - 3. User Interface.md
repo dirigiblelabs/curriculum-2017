@@ -20,17 +20,17 @@
 
 9. Select **Next**.
 
-10. Type the name of your file.
+10. In the **Name** field, enter the name of your file.
 
 11. Select **Next**.
 
-12. **Type** your **page title** and **choose Finish**.
+12. In the **Title** field, enter the page title of your file and choose **Finish**.
 
 ## **Make an Index page**
 
 1. Right-click **WebContent**.
 
-2. Create your **new user interface**.
+2. Create your *new user interface*.
 
 3. Select **the Index Page** option.
 
@@ -38,4 +38,4 @@
 
 5. Select **Next**.
 
-6. Type **your page title** and chose **Finish**.
+6. In the **Title** field, enter the page title of your file and choose **Finish**.

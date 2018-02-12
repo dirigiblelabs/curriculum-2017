@@ -5,7 +5,7 @@ Folow these steps in order to create a simple data structure for your Eclipse Di
 ### Procedure
 **1. Creating new project.**
 1. Right-click on **Workspace Explorer** and create new project, folowing the path **New -> Project**.
-2. Enter name for your table in **Enter project name** field.
+2. Enter name for your projecte in **Enter project name** field.
 3. Select the **Blank application** template and choose **Finish**.
 
 **2. Create new data structure.**
@@ -13,7 +13,7 @@ Folow these steps in order to create a simple data structure for your Eclipse Di
 2. Create a **Rational Database Table**.
 3. To add all necessary properties,choose **Add**.
 4. Define **Primary key**.
-5. Enter name for your table in **File Name** field
+5. Enter name for your table in **File Name** field.
 > The new table definitions will be in JSON format.
 
 **3.** Right-click on your project and choose **Publish**.

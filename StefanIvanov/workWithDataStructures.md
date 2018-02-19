@@ -13,7 +13,7 @@
 4. Then click **Ok**.
 5. When you are finished enter a **Name** for the file and click **Finish**.
 
-**To add sample data in the table:**
+## To add sample data in the table:
 
 1. Select for a template: **Delimiter Separated Values Sample data**.
 2. In the list that appears, click on the table you created and in the file that is created write the sample data.
@@ -21,7 +21,7 @@
 4. Then **Finish**.
 5. Right-click on project and choose **Publish**.
 
-**To write SQL queries:**
+## To write SQL queries:
 
 1. Go to **other...** located on the top of the screen.
 2. There you can choose **Database** Perspective and click **Ok**.
